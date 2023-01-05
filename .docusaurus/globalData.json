@@ -16,23 +16,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Level-1/congratulations",
-              "path": "/docs/Level-1/congratulations",
+              "id": "Level-1/how-do-i-get-first-gnar",
+              "path": "/docs/Level-1/how-do-i-get-first-gnar",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Level-1/create-a-blog-post",
-              "path": "/docs/Level-1/create-a-blog-post",
+              "id": "Level-1/how-to-create-wallet",
+              "path": "/docs/Level-1/how-to-create-wallet",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Level-1/deploy-your-site",
-              "path": "/docs/Level-1/deploy-your-site",
+              "id": "Level-1/how-to-use-discord",
+              "path": "/docs/Level-1/how-to-use-discord",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Level-1/markdown-features",
-              "path": "/docs/Level-1/markdown-features",
+              "id": "Level-1/what-gnars-nft-can-do",
+              "path": "/docs/Level-1/what-gnars-nft-can-do",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -66,18 +66,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/level-1---enter-gnarnia",
-              "path": "/docs/category/level-1---enter-gnarnia",
+              "id": "/category/-level-1---enter-gnarnia",
+              "path": "/docs/category/-level-1---enter-gnarnia",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/level-2---welcome-to-club",
-              "path": "/docs/category/level-2---welcome-to-club",
+              "id": "/category/-level-2---welcome-to-club",
+              "path": "/docs/category/-level-2---welcome-to-club",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/level-3---gettin-gnarlier",
-              "path": "/docs/category/level-3---gettin-gnarlier",
+              "id": "/category/-level-3---gettin-gnarlier",
+              "path": "/docs/category/-level-3---gettin-gnarlier",
               "sidebar": "tutorialSidebar"
             }
           ],

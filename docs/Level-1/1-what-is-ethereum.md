@@ -4,40 +4,29 @@ sidebar_position: 1
 
 # 1) What is Ethereum? 
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+<iframe width="900" height="500" src="https://www.youtube.com/embed/jYLXorNpLlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
 
-## Create your first React Page
 
-Create a file at `src/pages/my-react-page.js`:
+[What is Ethereum? | ethereum.org](https://ethereum.org/en/what-is-ethereum/)
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+Ethereum is a technology for building apps and organizations, holding assets, transacting and communicating without being controlled by a central authority. There is no need to hand over all your personal details to use Ethereum - you keep control of your own data and what is being shared. Ethereum has its own cryptocurrency, Ether, which is used to pay for certain activities on the Ethereum network.
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+## How Gnars use ETH?
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+## What is a cryptocurrency?
 
-## Create your first Markdown Page
+Crypto (short for cryptocurrency) is a new form of digital money powered by cryptography.
 
-Create a file at `src/pages/my-markdown-page.md`:
+It all started in 2008 with Bitcoin. You could use it to send funds to anyone anywhere globally. What made crypto different from normal bank transfers or other financial services like Paypal or Alipay is that there was no middle man for the first time.
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+Wait, what is a middle man?
 
-This is a Markdown page
-```
+A middle-man is a central authority like a bank or government that intervenes in a transaction between the sender and recipient. They have the power to surveill, censor or revert transactions and they can share the sensitive data they collect about you with third parties. They also often dictate which financial services you have access to.
 
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+Things are different with crypto. **Transactions directly connect sender and recipient** without having to deal with any central authority. Nobody else will have access to your funds and **nobody can tell you what services you can use**. This is possible because of the blockchain technology upon which cryptocurrencies operate.
+
+## Whats a Blockchain?
+
+**A blockchain is a database of transactions**
+ that is updated and shared across many computers in a network. Every time a new set of transactions is added, its called a “block” - hence the name blockchain. Most blockchains are public, and you can only add data, not remove. If someone wanted to alter any of the information or cheat the system, they’d need to do so on the majority of computers on the network. That is a lot! This makes established blockchains like Ethereum highly secure.

@@ -2,7 +2,7 @@
   "unversionedId": "Level-1/what-is-a-NFT",
   "id": "Level-1/what-is-a-NFT",
   "title": "2) What is an NFT?",
-  "description": "Documents are groups of pages connected through:",
+  "description": "",
   "source": "@site/docs/Level-1/2-what-is-a-NFT.md",
   "sourceDirName": "Level-1",
   "slug": "/Level-1/what-is-a-NFT",
@@ -21,7 +21,7 @@
     "permalink": "/docs/Level-1/what-is-ethereum"
   },
   "next": {
-    "title": "3) What Gnars NFT can do?",
-    "permalink": "/docs/Level-1/create-a-blog-post"
+    "title": "3) How to Create a Wallet",
+    "permalink": "/docs/Level-1/how-to-create-wallet"
   }
 }

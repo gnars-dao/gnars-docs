@@ -1,7 +1,7 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "🐼 - Intro",
+  "title": "🐣 - Intro",
   "description": "Let's discover Gnars Dao in less than 5 minutes.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Level 1 - Enter Gnarnia",
-    "permalink": "/docs/category/level-1---enter-gnarnia"
+    "title": "🛹 Level 1 - Enter Gnarnia",
+    "permalink": "/docs/category/-level-1---enter-gnarnia"
   }
 }

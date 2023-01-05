@@ -1,0 +1,15 @@
+{
+  "title": "🛹 Level 2 - Welcome to Club",
+  "slug": "/category/-level-2---welcome-to-club",
+  "permalink": "/docs/category/-level-2---welcome-to-club",
+  "navigation": {
+    "previous": {
+      "title": "6) How do I get my first Gnar",
+      "permalink": "/docs/Level-1/how-do-i-get-first-gnar"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/Level-2/manage-docs-versions"
+    }
+  }
+}

@@ -99,23 +99,23 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '645'),
+    component: ComponentCreator('/docs', '172'),
     routes: [
       {
-        path: '/docs/category/level-1---enter-gnarnia',
-        component: ComponentCreator('/docs/category/level-1---enter-gnarnia', '9b3'),
+        path: '/docs/category/-level-1---enter-gnarnia',
+        component: ComponentCreator('/docs/category/-level-1---enter-gnarnia', '45b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/level-2---welcome-to-club',
-        component: ComponentCreator('/docs/category/level-2---welcome-to-club', '23a'),
+        path: '/docs/category/-level-2---welcome-to-club',
+        component: ComponentCreator('/docs/category/-level-2---welcome-to-club', 'cc0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/level-3---gettin-gnarlier',
-        component: ComponentCreator('/docs/category/level-3---gettin-gnarlier', 'aab'),
+        path: '/docs/category/-level-3---gettin-gnarlier',
+        component: ComponentCreator('/docs/category/-level-3---gettin-gnarlier', '616'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -126,26 +126,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Level-1/congratulations',
-        component: ComponentCreator('/docs/Level-1/congratulations', '99c'),
+        path: '/docs/Level-1/how-do-i-get-first-gnar',
+        component: ComponentCreator('/docs/Level-1/how-do-i-get-first-gnar', 'abe'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Level-1/create-a-blog-post',
-        component: ComponentCreator('/docs/Level-1/create-a-blog-post', 'd7b'),
+        path: '/docs/Level-1/how-to-create-wallet',
+        component: ComponentCreator('/docs/Level-1/how-to-create-wallet', '65a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Level-1/deploy-your-site',
-        component: ComponentCreator('/docs/Level-1/deploy-your-site', 'c43'),
+        path: '/docs/Level-1/how-to-use-discord',
+        component: ComponentCreator('/docs/Level-1/how-to-use-discord', '1b7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Level-1/markdown-features',
-        component: ComponentCreator('/docs/Level-1/markdown-features', '527'),
+        path: '/docs/Level-1/what-gnars-nft-can-do',
+        component: ComponentCreator('/docs/Level-1/what-gnars-nft-can-do', 'd1e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

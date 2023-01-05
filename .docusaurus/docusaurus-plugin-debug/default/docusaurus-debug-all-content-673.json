@@ -22,7 +22,7 @@
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "🐼 - Intro",
+              "title": "🐣 - Intro",
               "description": "Let's discover Gnars Dao in less than 5 minutes.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
@@ -38,21 +38,21 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Level 1 - Enter Gnarnia",
-                "permalink": "/docs/category/level-1---enter-gnarnia"
+                "title": "🛹 Level 1 - Enter Gnarnia",
+                "permalink": "/docs/category/-level-1---enter-gnarnia"
               }
             },
             {
-              "unversionedId": "Level-1/congratulations",
-              "id": "Level-1/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/Level-1/congratulations.md",
+              "unversionedId": "Level-1/how-do-i-get-first-gnar",
+              "id": "Level-1/how-do-i-get-first-gnar",
+              "title": "6) How do I get my first Gnar",
+              "description": "There are a few ways you can obtain a GNAR NFT (Non-Fungible Token):",
+              "source": "@site/docs/Level-1/6-how-do-i-get-first-gnar.md",
               "sourceDirName": "Level-1",
-              "slug": "/Level-1/congratulations",
-              "permalink": "/docs/Level-1/congratulations",
+              "slug": "/Level-1/how-do-i-get-first-gnar",
+              "permalink": "/docs/Level-1/how-do-i-get-first-gnar",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/congratulations.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/6-how-do-i-get-first-gnar.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -61,25 +61,25 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Deploy your site",
-                "permalink": "/docs/Level-1/deploy-your-site"
+                "title": "5) How to use Discord?",
+                "permalink": "/docs/Level-1/how-to-use-discord"
               },
               "next": {
-                "title": "Level 2 - Welcome to Club",
-                "permalink": "/docs/category/level-2---welcome-to-club"
+                "title": "🛹 Level 2 - Welcome to Club",
+                "permalink": "/docs/category/-level-2---welcome-to-club"
               }
             },
             {
-              "unversionedId": "Level-1/create-a-blog-post",
-              "id": "Level-1/create-a-blog-post",
-              "title": "3) What Gnars NFT can do?",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/Level-1/create-a-blog-post.md",
+              "unversionedId": "Level-1/how-to-create-wallet",
+              "id": "Level-1/how-to-create-wallet",
+              "title": "3) How to Create a Wallet",
+              "description": "",
+              "source": "@site/docs/Level-1/3-how-to-create-wallet.md",
               "sourceDirName": "Level-1",
-              "slug": "/Level-1/create-a-blog-post",
-              "permalink": "/docs/Level-1/create-a-blog-post",
+              "slug": "/Level-1/how-to-create-wallet",
+              "permalink": "/docs/Level-1/how-to-create-wallet",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/create-a-blog-post.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/3-how-to-create-wallet.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -92,21 +92,21 @@
                 "permalink": "/docs/Level-1/what-is-a-NFT"
               },
               "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/Level-1/markdown-features"
+                "title": "3) What Gnars NFT can do?",
+                "permalink": "/docs/Level-1/what-gnars-nft-can-do"
               }
             },
             {
-              "unversionedId": "Level-1/deploy-your-site",
-              "id": "Level-1/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/Level-1/deploy-your-site.md",
+              "unversionedId": "Level-1/how-to-use-discord",
+              "id": "Level-1/how-to-use-discord",
+              "title": "5) How to use Discord?",
+              "description": "To use Discord on the Gnars Discord Server, follow these steps:",
+              "source": "@site/docs/Level-1/5-how-to-use-discord.md",
               "sourceDirName": "Level-1",
-              "slug": "/Level-1/deploy-your-site",
-              "permalink": "/docs/Level-1/deploy-your-site",
+              "slug": "/Level-1/how-to-use-discord",
+              "permalink": "/docs/Level-1/how-to-use-discord",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/deploy-your-site.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/5-how-to-use-discord.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
@@ -115,46 +115,46 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Markdown Features",
-                "permalink": "/docs/Level-1/markdown-features"
+                "title": "3) What Gnars NFT can do?",
+                "permalink": "/docs/Level-1/what-gnars-nft-can-do"
               },
               "next": {
-                "title": "Congratulations!",
-                "permalink": "/docs/Level-1/congratulations"
+                "title": "6) How do I get my first Gnar",
+                "permalink": "/docs/Level-1/how-do-i-get-first-gnar"
               }
             },
             {
-              "unversionedId": "Level-1/markdown-features",
-              "id": "Level-1/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/Level-1/markdown-features.mdx",
+              "unversionedId": "Level-1/what-gnars-nft-can-do",
+              "id": "Level-1/what-gnars-nft-can-do",
+              "title": "3) What Gnars NFT can do?",
+              "description": "1) Governance: GNAR NFTs may be used as votes in the GNAR governance process. Token holders may use their NFTs to cast votes on decisions related to the GNAR project, such as changes to the platform, community or the allocation of funds.",
+              "source": "@site/docs/Level-1/4-what-gnars-nft-can-do.md",
               "sourceDirName": "Level-1",
-              "slug": "/Level-1/markdown-features",
-              "permalink": "/docs/Level-1/markdown-features",
+              "slug": "/Level-1/what-gnars-nft-can-do",
+              "permalink": "/docs/Level-1/what-gnars-nft-can-do",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/markdown-features.mdx",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/4-what-gnars-nft-can-do.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 4,
+              "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 3
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "3) What Gnars NFT can do?",
-                "permalink": "/docs/Level-1/create-a-blog-post"
+                "title": "3) How to Create a Wallet",
+                "permalink": "/docs/Level-1/how-to-create-wallet"
               },
               "next": {
-                "title": "Deploy your site",
-                "permalink": "/docs/Level-1/deploy-your-site"
+                "title": "5) How to use Discord?",
+                "permalink": "/docs/Level-1/how-to-use-discord"
               }
             },
             {
               "unversionedId": "Level-1/what-is-a-NFT",
               "id": "Level-1/what-is-a-NFT",
               "title": "2) What is an NFT?",
-              "description": "Documents are groups of pages connected through:",
+              "description": "",
               "source": "@site/docs/Level-1/2-what-is-a-NFT.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/what-is-a-NFT",
@@ -173,15 +173,15 @@
                 "permalink": "/docs/Level-1/what-is-ethereum"
               },
               "next": {
-                "title": "3) What Gnars NFT can do?",
-                "permalink": "/docs/Level-1/create-a-blog-post"
+                "title": "3) How to Create a Wallet",
+                "permalink": "/docs/Level-1/how-to-create-wallet"
               }
             },
             {
               "unversionedId": "Level-1/what-is-ethereum",
               "id": "Level-1/what-is-ethereum",
               "title": "1) What is Ethereum?",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "description": "What is Ethereum? | ethereum.org",
               "source": "@site/docs/Level-1/1-what-is-ethereum.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/what-is-ethereum",
@@ -196,8 +196,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Level 1 - Enter Gnarnia",
-                "permalink": "/docs/category/level-1---enter-gnarnia"
+                "title": "🛹 Level 1 - Enter Gnarnia",
+                "permalink": "/docs/category/-level-1---enter-gnarnia"
               },
               "next": {
                 "title": "2) What is an NFT?",
@@ -223,8 +223,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Level 2 - Welcome to Club",
-                "permalink": "/docs/category/level-2---welcome-to-club"
+                "title": "🛹 Level 2 - Welcome to Club",
+                "permalink": "/docs/category/-level-2---welcome-to-club"
               },
               "next": {
                 "title": "Translate your site",
@@ -254,8 +254,8 @@
                 "permalink": "/docs/Level-2/manage-docs-versions"
               },
               "next": {
-                "title": "Level 3 - Gettin’ Gnarlier",
-                "permalink": "/docs/category/level-3---gettin-gnarlier"
+                "title": "🛹 Level 3 - Gettin’ Gnarlier",
+                "permalink": "/docs/category/-level-3---gettin-gnarlier"
               }
             },
             {
@@ -277,8 +277,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Level 3 - Gettin’ Gnarlier",
-                "permalink": "/docs/category/level-3---gettin-gnarlier"
+                "title": "🛹 Level 3 - Gettin’ Gnarlier",
+                "permalink": "/docs/category/-level-3---gettin-gnarlier"
               },
               "next": {
                 "title": "Translate your site",
@@ -318,7 +318,7 @@
               },
               {
                 "type": "category",
-                "label": "Level 1 - Enter Gnarnia",
+                "label": "🛹 Level 1 - Enter Gnarnia",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -332,31 +332,31 @@
                   },
                   {
                     "type": "doc",
-                    "id": "Level-1/create-a-blog-post"
+                    "id": "Level-1/how-to-create-wallet"
                   },
                   {
                     "type": "doc",
-                    "id": "Level-1/markdown-features"
+                    "id": "Level-1/what-gnars-nft-can-do"
                   },
                   {
                     "type": "doc",
-                    "id": "Level-1/deploy-your-site"
+                    "id": "Level-1/how-to-use-discord"
                   },
                   {
                     "type": "doc",
-                    "id": "Level-1/congratulations"
+                    "id": "Level-1/how-do-i-get-first-gnar"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
                   "description": "First onboarding level, your first steps to become a Gnarly Member",
-                  "slug": "/category/level-1---enter-gnarnia",
-                  "permalink": "/docs/category/level-1---enter-gnarnia"
+                  "slug": "/category/-level-1---enter-gnarnia",
+                  "permalink": "/docs/category/-level-1---enter-gnarnia"
                 }
               },
               {
                 "type": "category",
-                "label": "Level 2 - Welcome to Club",
+                "label": "🛹 Level 2 - Welcome to Club",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -371,13 +371,13 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/level-2---welcome-to-club",
-                  "permalink": "/docs/category/level-2---welcome-to-club"
+                  "slug": "/category/-level-2---welcome-to-club",
+                  "permalink": "/docs/category/-level-2---welcome-to-club"
                 }
               },
               {
                 "type": "category",
-                "label": "Level 3 - Gettin’ Gnarlier",
+                "label": "🛹 Level 3 - Gettin’ Gnarlier",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -392,8 +392,8 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/level-3---gettin-gnarlier",
-                  "permalink": "/docs/category/level-3---gettin-gnarlier"
+                  "slug": "/category/-level-3---gettin-gnarlier",
+                  "permalink": "/docs/category/-level-3---gettin-gnarlier"
                 }
               }
             ]

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Level-1/6-",
+  "id": "Level-1/6-",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/Level-1/6-.md",
+  "sourceDirName": "Level-1",
+  "slug": "/Level-1/6-",
+  "permalink": "/docs/Level-1/6-",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/6-.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/Level-1/deploy-your-site"
+  },
+  "next": {
+    "title": "🛹 Level 2 - Welcome to Club",
+    "permalink": "/docs/category/-level-2---welcome-to-club"
+  }
+}

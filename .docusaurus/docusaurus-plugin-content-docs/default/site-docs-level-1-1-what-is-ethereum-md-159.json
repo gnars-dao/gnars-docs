@@ -2,7 +2,7 @@
   "unversionedId": "Level-1/what-is-ethereum",
   "id": "Level-1/what-is-ethereum",
   "title": "1) What is Ethereum?",
-  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "description": "What is Ethereum? | ethereum.org",
   "source": "@site/docs/Level-1/1-what-is-ethereum.md",
   "sourceDirName": "Level-1",
   "slug": "/Level-1/what-is-ethereum",
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Level 1 - Enter Gnarnia",
-    "permalink": "/docs/category/level-1---enter-gnarnia"
+    "title": "🛹 Level 1 - Enter Gnarnia",
+    "permalink": "/docs/category/-level-1---enter-gnarnia"
   },
   "next": {
     "title": "2) What is an NFT?",
