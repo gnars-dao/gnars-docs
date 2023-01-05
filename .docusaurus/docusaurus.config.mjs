@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Gnarly Docs",
-  "tagline": "Gnars are a new way to fund extreme athletes using web3 tools",
+  "title": "Gnarly Docs ⌐◨-◨",
+  "tagline": "Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools",
   "url": "https://gnars.wtf",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -83,11 +83,11 @@ export default {
           "items": [
             {
               "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "href": "https://discord.gg/gnars"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/gnarsdao"
             }
           ]
         },
@@ -100,112 +100,99 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright© is an ilusion. Built with Weed ⌐◨-◨"
     },
     "prism": {
       "theme": {
         "plain": {
-          "color": "#393A34",
-          "backgroundColor": "#f6f8fa"
+          "color": "#F8F8F2",
+          "backgroundColor": "#282A36"
         },
         "styles": [
           {
             "types": [
-              "comment",
               "prolog",
-              "doctype",
-              "cdata"
+              "constant",
+              "builtin"
             ],
             "style": {
-              "color": "#999988",
-              "fontStyle": "italic"
+              "color": "rgb(189, 147, 249)"
             }
           },
           {
             "types": [
-              "namespace"
+              "inserted",
+              "function"
             ],
             "style": {
-              "opacity": 0.7
+              "color": "rgb(80, 250, 123)"
             }
           },
           {
             "types": [
-              "string",
-              "attr-value"
+              "deleted"
             ],
             "style": {
-              "color": "#e3116c"
+              "color": "rgb(255, 85, 85)"
+            }
+          },
+          {
+            "types": [
+              "changed"
+            ],
+            "style": {
+              "color": "rgb(255, 184, 108)"
             }
           },
           {
             "types": [
               "punctuation",
-              "operator"
+              "symbol"
             ],
             "style": {
-              "color": "#393A34"
+              "color": "rgb(248, 248, 242)"
             }
           },
           {
             "types": [
-              "entity",
-              "url",
-              "symbol",
-              "number",
-              "boolean",
-              "variable",
-              "constant",
-              "property",
-              "regex",
-              "inserted"
-            ],
-            "style": {
-              "color": "#36acaa"
-            }
-          },
-          {
-            "types": [
-              "atrule",
-              "keyword",
-              "attr-name",
+              "string",
+              "char",
+              "tag",
               "selector"
             ],
             "style": {
-              "color": "#00a4db"
+              "color": "rgb(255, 121, 198)"
             }
           },
           {
             "types": [
-              "function",
-              "deleted",
-              "tag"
+              "keyword",
+              "variable"
             ],
             "style": {
-              "color": "#d73a49"
+              "color": "rgb(189, 147, 249)",
+              "fontStyle": "italic"
             }
           },
           {
             "types": [
-              "function-variable"
+              "comment"
             ],
             "style": {
-              "color": "#6f42c1"
+              "color": "rgb(98, 114, 164)"
             }
           },
           {
             "types": [
-              "tag",
-              "selector",
-              "keyword"
+              "attr-name"
             ],
             "style": {
-              "color": "#00009f"
+              "color": "rgb(241, 250, 140)"
             }
           }
         ]
