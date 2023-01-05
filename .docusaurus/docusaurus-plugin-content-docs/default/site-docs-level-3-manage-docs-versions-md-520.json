@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Level-3/manage-docs-versions",
+  "id": "Level-3/manage-docs-versions",
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/Level-3/manage-docs-versions.md",
+  "sourceDirName": "Level-3",
+  "slug": "/Level-3/manage-docs-versions",
+  "permalink": "/docs/Level-3/manage-docs-versions",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-3/manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Level 3 - Gettin’ Gnarlier",
+    "permalink": "/docs/category/level-3---gettin-gnarlier"
+  },
+  "next": {
+    "title": "Translate your site",
+    "permalink": "/docs/Level-3/translate-your-site"
+  }
+}

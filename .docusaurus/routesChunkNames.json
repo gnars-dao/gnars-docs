@@ -1,0 +1,259 @@
+{
+  "/__docusaurus/debug-fc7": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-72-b-503"
+    }
+  },
+  "/__docusaurus/debug/config-592": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-72-b-503"
+    }
+  },
+  "/__docusaurus/debug/content-37f": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-72-b-503"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-cd1": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-72-b-503"
+    }
+  },
+  "/__docusaurus/debug/metadata-6c4": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-72-b-503"
+    }
+  },
+  "/__docusaurus/debug/registry-f4b": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-72-b-503"
+    }
+  },
+  "/__docusaurus/debug/routes-3fc": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-72-b-503"
+    }
+  },
+  "/blog-af4": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blogd-95-764"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-b66": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blogd-95-764"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/first-blog-post-ae8": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogd-95-764"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
+  },
+  "/blog/long-blog-post-309": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogd-95-764"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
+  },
+  "/blog/mdx-blog-post-0d0": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogd-95-764"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
+  },
+  "/blog/tags-45b": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blogd-95-764"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/docusaurus-626": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogd-95-764"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "tag": "tag---blog-tags-docusaurusa-80-728",
+    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+  },
+  "/blog/tags/facebook-1df": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogd-95-764"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      }
+    ],
+    "tag": "tag---blog-tags-facebook-031-c52",
+    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
+  },
+  "/blog/tags/hello-df3": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogd-95-764"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blog-871-381"
+      }
+    ],
+    "tag": "tag---blog-tags-hello-30-a-bed",
+    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+  },
+  "/blog/tags/hola-826": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogd-95-764"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "tag": "tag---blog-tags-holae-16-18a",
+    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
+  },
+  "/blog/welcome-449": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogd-95-764"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
+  },
+  "/markdown-page-2ee": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-703-a21"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-645": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docsf-16-28e"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/category/level-1---enter-gnarnia-9b3": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-level-1-enter-gnarnia-8-d-2-7d7"
+  },
+  "/docs/category/level-2---welcome-to-club-23a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-level-2-welcome-to-club-60-b-65e"
+  },
+  "/docs/category/level-3---gettin-gnarlier-aab": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-level-3-gettin-gnarlier-703-dfb"
+  },
+  "/docs/intro-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/Level-1/congratulations-99c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-level-1-congratulations-32-b-746"
+  },
+  "/docs/Level-1/create-a-blog-post-d7b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-level-1-create-a-blog-posta-3-b-ca9"
+  },
+  "/docs/Level-1/deploy-your-site-c43": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-level-1-deploy-your-site-20-d-e34"
+  },
+  "/docs/Level-1/markdown-features-527": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-level-1-markdown-features-35-a-542"
+  },
+  "/docs/Level-1/what-is-a-NFT-dba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-level-1-what-is-a-nf-ta-94-fc0"
+  },
+  "/docs/Level-1/what-is-ethereum-7ec": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-level-1-what-is-ethereum-159-27d"
+  },
+  "/docs/Level-2/manage-docs-versions-438": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-level-2-manage-docs-versions-406-40e"
+  },
+  "/docs/Level-2/translate-your-site-130": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-level-2-translate-your-sitee-4-b-7a6"
+  },
+  "/docs/Level-3/manage-docs-versions-a8e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-level-3-manage-docs-versions-520-631"
+  },
+  "/docs/Level-3/translate-your-site-5e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-level-3-translate-your-sitead-8-f94"
+  },
+  "/-147": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-703-a21"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

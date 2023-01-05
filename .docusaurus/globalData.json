@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-1/congratulations",
+              "path": "/docs/Level-1/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-1/create-a-blog-post",
+              "path": "/docs/Level-1/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-1/deploy-your-site",
+              "path": "/docs/Level-1/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-1/markdown-features",
+              "path": "/docs/Level-1/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-1/what-is-a-NFT",
+              "path": "/docs/Level-1/what-is-a-NFT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-1/what-is-ethereum",
+              "path": "/docs/Level-1/what-is-ethereum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-2/manage-docs-versions",
+              "path": "/docs/Level-2/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-2/translate-your-site",
+              "path": "/docs/Level-2/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-3/manage-docs-versions",
+              "path": "/docs/Level-3/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-3/translate-your-site",
+              "path": "/docs/Level-3/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/level-1---enter-gnarnia",
+              "path": "/docs/category/level-1---enter-gnarnia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/level-2---welcome-to-club",
+              "path": "/docs/category/level-2---welcome-to-club",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/level-3---gettin-gnarlier",
+              "path": "/docs/category/level-3---gettin-gnarlier",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

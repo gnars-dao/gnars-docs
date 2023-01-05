@@ -1,0 +1,15 @@
+{
+  "title": "Level 3 - Gettin’ Gnarlier",
+  "slug": "/category/level-3---gettin-gnarlier",
+  "permalink": "/docs/category/level-3---gettin-gnarlier",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/Level-2/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/Level-3/manage-docs-versions"
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Intro",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Level 1 - Enter Gnarnia",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "1) What is Ethereum?",
+            "href": "/docs/Level-1/what-is-ethereum",
+            "docId": "Level-1/what-is-ethereum"
+          },
+          {
+            "type": "link",
+            "label": "2) What is an NFT?",
+            "href": "/docs/Level-1/what-is-a-NFT",
+            "docId": "Level-1/what-is-a-NFT"
+          },
+          {
+            "type": "link",
+            "label": "3) What Gnars NFT can do?",
+            "href": "/docs/Level-1/create-a-blog-post",
+            "docId": "Level-1/create-a-blog-post"
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/docs/Level-1/markdown-features",
+            "docId": "Level-1/markdown-features"
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/docs/Level-1/deploy-your-site",
+            "docId": "Level-1/deploy-your-site"
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/docs/Level-1/congratulations",
+            "docId": "Level-1/congratulations"
+          }
+        ],
+        "href": "/docs/category/level-1---enter-gnarnia"
+      },
+      {
+        "type": "category",
+        "label": "Level 2 - Welcome to Club",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/Level-2/manage-docs-versions",
+            "docId": "Level-2/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/Level-2/translate-your-site",
+            "docId": "Level-2/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/level-2---welcome-to-club"
+      },
+      {
+        "type": "category",
+        "label": "Level 3 - Gettin’ Gnarlier",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/Level-3/manage-docs-versions",
+            "docId": "Level-3/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/Level-3/translate-your-site",
+            "docId": "Level-3/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/level-3---gettin-gnarlier"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Intro",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-1/congratulations": {
+      "id": "Level-1/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-1/create-a-blog-post": {
+      "id": "Level-1/create-a-blog-post",
+      "title": "3) What Gnars NFT can do?",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-1/deploy-your-site": {
+      "id": "Level-1/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-1/markdown-features": {
+      "id": "Level-1/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-1/what-is-a-NFT": {
+      "id": "Level-1/what-is-a-NFT",
+      "title": "2) What is an NFT?",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-1/what-is-ethereum": {
+      "id": "Level-1/what-is-ethereum",
+      "title": "1) What is Ethereum?",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-2/manage-docs-versions": {
+      "id": "Level-2/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-2/translate-your-site": {
+      "id": "Level-2/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-3/manage-docs-versions": {
+      "id": "Level-3/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-3/translate-your-site": {
+      "id": "Level-3/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}
