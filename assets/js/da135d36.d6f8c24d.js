@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5556],{661:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/gnars-docs/blog/tags/hola","allTagsPath":"/gnars-docs/blog/tags","count":1}')}}]);
