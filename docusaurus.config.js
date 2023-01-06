@@ -6,15 +6,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-<<<<<<< HEAD
+
   title: 'Gnarly Docs ⌐◨-◨',
   tagline: 'Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools',
   url: 'https://gnars-docs.github.io',
-=======
-  title: 'Gnarly Docs',
-  tagline: 'Gnars are a new way to fund extreme athletes using web3 tools',
-  url: 'https://gnars.wtf',
->>>>>>> parent of e5d4fd99 (fun changes)
+
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
