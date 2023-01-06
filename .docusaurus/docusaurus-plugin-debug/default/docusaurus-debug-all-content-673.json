@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/gnars-docs/docs",
+          "tagsPath": "/gnars-docs/docs/tags",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
@@ -27,7 +27,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/gnars-docs/docs/intro",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
               "tags": [],
@@ -39,7 +39,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "🛹 Level 1 - Enter Gnarnia",
-                "permalink": "/docs/category/-level-1---enter-gnarnia"
+                "permalink": "/gnars-docs/docs/category/-level-1---enter-gnarnia"
               }
             },
             {
@@ -50,7 +50,7 @@
               "source": "@site/docs/Level-1/6-how-do-i-get-first-gnar.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/how-do-i-get-first-gnar",
-              "permalink": "/docs/Level-1/how-do-i-get-first-gnar",
+              "permalink": "/gnars-docs/docs/Level-1/how-do-i-get-first-gnar",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/6-how-do-i-get-first-gnar.md",
               "tags": [],
@@ -62,11 +62,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "5) How to use Discord?",
-                "permalink": "/docs/Level-1/how-to-use-discord"
+                "permalink": "/gnars-docs/docs/Level-1/how-to-use-discord"
               },
               "next": {
                 "title": "🛹 Level 2 - Welcome to Club",
-                "permalink": "/docs/category/-level-2---welcome-to-club"
+                "permalink": "/gnars-docs/docs/category/-level-2---welcome-to-club"
               }
             },
             {
@@ -77,7 +77,7 @@
               "source": "@site/docs/Level-1/3-how-to-create-wallet.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/how-to-create-wallet",
-              "permalink": "/docs/Level-1/how-to-create-wallet",
+              "permalink": "/gnars-docs/docs/Level-1/how-to-create-wallet",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/3-how-to-create-wallet.md",
               "tags": [],
@@ -89,11 +89,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2) What is an NFT?",
-                "permalink": "/docs/Level-1/what-is-a-NFT"
+                "permalink": "/gnars-docs/docs/Level-1/what-is-a-NFT"
               },
               "next": {
                 "title": "3) What Gnars NFT can do?",
-                "permalink": "/docs/Level-1/what-gnars-nft-can-do"
+                "permalink": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do"
               }
             },
             {
@@ -104,7 +104,7 @@
               "source": "@site/docs/Level-1/5-how-to-use-discord.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/how-to-use-discord",
-              "permalink": "/docs/Level-1/how-to-use-discord",
+              "permalink": "/gnars-docs/docs/Level-1/how-to-use-discord",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/5-how-to-use-discord.md",
               "tags": [],
@@ -116,11 +116,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "3) What Gnars NFT can do?",
-                "permalink": "/docs/Level-1/what-gnars-nft-can-do"
+                "permalink": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do"
               },
               "next": {
                 "title": "6) How do I get my first Gnar",
-                "permalink": "/docs/Level-1/how-do-i-get-first-gnar"
+                "permalink": "/gnars-docs/docs/Level-1/how-do-i-get-first-gnar"
               }
             },
             {
@@ -131,7 +131,7 @@
               "source": "@site/docs/Level-1/4-what-gnars-nft-can-do.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/what-gnars-nft-can-do",
-              "permalink": "/docs/Level-1/what-gnars-nft-can-do",
+              "permalink": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/4-what-gnars-nft-can-do.md",
               "tags": [],
@@ -143,11 +143,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "3) How to Create a Wallet",
-                "permalink": "/docs/Level-1/how-to-create-wallet"
+                "permalink": "/gnars-docs/docs/Level-1/how-to-create-wallet"
               },
               "next": {
                 "title": "5) How to use Discord?",
-                "permalink": "/docs/Level-1/how-to-use-discord"
+                "permalink": "/gnars-docs/docs/Level-1/how-to-use-discord"
               }
             },
             {
@@ -158,7 +158,7 @@
               "source": "@site/docs/Level-1/2-what-is-a-NFT.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/what-is-a-NFT",
-              "permalink": "/docs/Level-1/what-is-a-NFT",
+              "permalink": "/gnars-docs/docs/Level-1/what-is-a-NFT",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/2-what-is-a-NFT.md",
               "tags": [],
@@ -170,11 +170,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "1) What is Ethereum?",
-                "permalink": "/docs/Level-1/what-is-ethereum"
+                "permalink": "/gnars-docs/docs/Level-1/what-is-ethereum"
               },
               "next": {
                 "title": "3) How to Create a Wallet",
-                "permalink": "/docs/Level-1/how-to-create-wallet"
+                "permalink": "/gnars-docs/docs/Level-1/how-to-create-wallet"
               }
             },
             {
@@ -185,7 +185,7 @@
               "source": "@site/docs/Level-1/1-what-is-ethereum.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/what-is-ethereum",
-              "permalink": "/docs/Level-1/what-is-ethereum",
+              "permalink": "/gnars-docs/docs/Level-1/what-is-ethereum",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/1-what-is-ethereum.md",
               "tags": [],
@@ -197,11 +197,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "🛹 Level 1 - Enter Gnarnia",
-                "permalink": "/docs/category/-level-1---enter-gnarnia"
+                "permalink": "/gnars-docs/docs/category/-level-1---enter-gnarnia"
               },
               "next": {
                 "title": "2) What is an NFT?",
-                "permalink": "/docs/Level-1/what-is-a-NFT"
+                "permalink": "/gnars-docs/docs/Level-1/what-is-a-NFT"
               }
             },
             {
@@ -212,7 +212,7 @@
               "source": "@site/docs/Level-2/2-1-verifying-your-gnar.md",
               "sourceDirName": "Level-2",
               "slug": "/Level-2/2-1-verifying-your-gnar",
-              "permalink": "/docs/Level-2/2-1-verifying-your-gnar",
+              "permalink": "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-2/2-1-verifying-your-gnar.md",
               "tags": [],
@@ -224,11 +224,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "🛹 Level 2 - Welcome to Club",
-                "permalink": "/docs/category/-level-2---welcome-to-club"
+                "permalink": "/gnars-docs/docs/category/-level-2---welcome-to-club"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/docs/Level-2/translate-your-site"
+                "permalink": "/gnars-docs/docs/Level-2/translate-your-site"
               }
             },
             {
@@ -239,7 +239,7 @@
               "source": "@site/docs/Level-2/translate-your-site.md",
               "sourceDirName": "Level-2",
               "slug": "/Level-2/translate-your-site",
-              "permalink": "/docs/Level-2/translate-your-site",
+              "permalink": "/gnars-docs/docs/Level-2/translate-your-site",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-2/translate-your-site.md",
               "tags": [],
@@ -251,11 +251,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2.1) Verifying your Gnar on Discord",
-                "permalink": "/docs/Level-2/2-1-verifying-your-gnar"
+                "permalink": "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar"
               },
               "next": {
                 "title": "🛹 Level 3 - Gettin’ Gnarlier",
-                "permalink": "/docs/category/-level-3---gettin-gnarlier"
+                "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
               }
             },
             {
@@ -266,7 +266,7 @@
               "source": "@site/docs/Level-3/manage-docs-versions.md",
               "sourceDirName": "Level-3",
               "slug": "/Level-3/manage-docs-versions",
-              "permalink": "/docs/Level-3/manage-docs-versions",
+              "permalink": "/gnars-docs/docs/Level-3/manage-docs-versions",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-3/manage-docs-versions.md",
               "tags": [],
@@ -278,11 +278,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "🛹 Level 3 - Gettin’ Gnarlier",
-                "permalink": "/docs/category/-level-3---gettin-gnarlier"
+                "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/docs/Level-3/translate-your-site"
+                "permalink": "/gnars-docs/docs/Level-3/translate-your-site"
               }
             },
             {
@@ -293,7 +293,7 @@
               "source": "@site/docs/Level-3/translate-your-site.md",
               "sourceDirName": "Level-3",
               "slug": "/Level-3/translate-your-site",
-              "permalink": "/docs/Level-3/translate-your-site",
+              "permalink": "/gnars-docs/docs/Level-3/translate-your-site",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-3/translate-your-site.md",
               "tags": [],
@@ -305,7 +305,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/docs/Level-3/manage-docs-versions"
+                "permalink": "/gnars-docs/docs/Level-3/manage-docs-versions"
               }
             }
           ],
@@ -351,7 +351,7 @@
                   "type": "generated-index",
                   "description": "First onboarding level, your first steps to become a Gnarly Member",
                   "slug": "/category/-level-1---enter-gnarnia",
-                  "permalink": "/docs/category/-level-1---enter-gnarnia"
+                  "permalink": "/gnars-docs/docs/category/-level-1---enter-gnarnia"
                 }
               },
               {
@@ -372,7 +372,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/-level-2---welcome-to-club",
-                  "permalink": "/docs/category/-level-2---welcome-to-club"
+                  "permalink": "/gnars-docs/docs/category/-level-2---welcome-to-club"
                 }
               },
               {
@@ -393,7 +393,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/-level-3---gettin-gnarlier",
-                  "permalink": "/docs/category/-level-3---gettin-gnarlier"
+                  "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
                 }
               }
             ]
@@ -409,7 +409,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/gnars-docs/blog/welcome",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
@@ -419,15 +419,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/gnars-docs/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/gnars-docs/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/gnars-docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -463,7 +463,7 @@
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/gnars-docs/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -471,7 +471,7 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/gnars-docs/blog/mdx-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
@@ -481,7 +481,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/gnars-docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -507,11 +507,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/gnars-docs/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/gnars-docs/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -519,7 +519,7 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/gnars-docs/blog/long-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
@@ -529,11 +529,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/gnars-docs/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/gnars-docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -558,11 +558,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/gnars-docs/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/gnars-docs/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -570,7 +570,7 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "/gnars-docs/blog/first-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
@@ -580,11 +580,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/gnars-docs/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/gnars-docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -615,7 +615,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/gnars-docs/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -630,7 +630,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/gnars-docs/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -641,19 +641,19 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "/gnars-docs/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook",
+          "permalink": "/gnars-docs/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/facebook",
+                "permalink": "/gnars-docs/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -664,13 +664,13 @@
             }
           ]
         },
-        "/blog/tags/hello": {
+        "/gnars-docs/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello",
+          "permalink": "/gnars-docs/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -678,7 +678,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hello",
+                "permalink": "/gnars-docs/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -689,7 +689,7 @@
             }
           ]
         },
-        "/blog/tags/docusaurus": {
+        "/gnars-docs/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
@@ -697,7 +697,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "/gnars-docs/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -707,7 +707,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "/gnars-docs/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -718,19 +718,19 @@
             }
           ]
         },
-        "/blog/tags/hola": {
+        "/gnars-docs/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola",
+          "permalink": "/gnars-docs/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hola",
+                "permalink": "/gnars-docs/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -742,19 +742,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/gnars-docs/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/gnars-docs/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/gnars-docs/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",
