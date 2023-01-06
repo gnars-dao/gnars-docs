@@ -2,7 +2,6 @@
 sidebar_position: 1
 ---
 
-<<<<<<< HEAD
 # 🐣 - Intro
 
 Let's discover **Gnars Dao in less than 5 minutes**.
@@ -21,17 +20,6 @@ Let's slow down a little and understand this new disruptive systems that are dis
 
 ## Next Steps 
 
-=======
-# Intro
-
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
->>>>>>> parent of e5d4fd99 (fun changes)
 
 ### What you'll need
 
