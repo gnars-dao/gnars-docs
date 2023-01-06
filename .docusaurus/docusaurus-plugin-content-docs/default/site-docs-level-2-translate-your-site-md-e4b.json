@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-2/translate-your-site.md",
   "sourceDirName": "Level-2",
   "slug": "/Level-2/translate-your-site",
-  "permalink": "/docs/Level-2/translate-your-site",
+  "permalink": "/gnars-docs/docs/Level-2/translate-your-site",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-2/translate-your-site.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "2.1) Verifying your Gnar on Discord",
-    "permalink": "/docs/Level-2/2-1-verifying-your-gnar"
+    "permalink": "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar"
   },
   "next": {
     "title": "🛹 Level 3 - Gettin’ Gnarlier",
-    "permalink": "/docs/category/-level-3---gettin-gnarlier"
+    "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
   }
 }

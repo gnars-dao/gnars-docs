@@ -1,83 +1,83 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/gnars-docs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/gnars-docs/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/gnars-docs/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/how-do-i-get-first-gnar",
-              "path": "/docs/Level-1/how-do-i-get-first-gnar",
+              "path": "/gnars-docs/docs/Level-1/how-do-i-get-first-gnar",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/how-to-create-wallet",
-              "path": "/docs/Level-1/how-to-create-wallet",
+              "path": "/gnars-docs/docs/Level-1/how-to-create-wallet",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/how-to-use-discord",
-              "path": "/docs/Level-1/how-to-use-discord",
+              "path": "/gnars-docs/docs/Level-1/how-to-use-discord",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/what-gnars-nft-can-do",
-              "path": "/docs/Level-1/what-gnars-nft-can-do",
+              "path": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/what-is-a-NFT",
-              "path": "/docs/Level-1/what-is-a-NFT",
+              "path": "/gnars-docs/docs/Level-1/what-is-a-NFT",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/what-is-ethereum",
-              "path": "/docs/Level-1/what-is-ethereum",
+              "path": "/gnars-docs/docs/Level-1/what-is-ethereum",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-2/2-1-verifying-your-gnar",
-              "path": "/docs/Level-2/2-1-verifying-your-gnar",
+              "path": "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-2/translate-your-site",
-              "path": "/docs/Level-2/translate-your-site",
+              "path": "/gnars-docs/docs/Level-2/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-3/manage-docs-versions",
-              "path": "/docs/Level-3/manage-docs-versions",
+              "path": "/gnars-docs/docs/Level-3/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-3/translate-your-site",
-              "path": "/docs/Level-3/translate-your-site",
+              "path": "/gnars-docs/docs/Level-3/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/-level-1---enter-gnarnia",
-              "path": "/docs/category/-level-1---enter-gnarnia",
+              "path": "/gnars-docs/docs/category/-level-1---enter-gnarnia",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/-level-2---welcome-to-club",
-              "path": "/docs/category/-level-2---welcome-to-club",
+              "path": "/gnars-docs/docs/category/-level-2---welcome-to-club",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/-level-3---gettin-gnarlier",
-              "path": "/docs/category/-level-3---gettin-gnarlier",
+              "path": "/gnars-docs/docs/category/-level-3---gettin-gnarlier",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -85,7 +85,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/gnars-docs/docs/intro",
                 "label": "intro"
               }
             }
