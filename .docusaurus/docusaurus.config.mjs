@@ -4,9 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
+<<<<<<< HEAD
   "title": "Gnarly Docs ⌐◨-◨",
   "tagline": "Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools",
   "url": "https://gnars-docs.github.io",
+=======
+  "title": "Gnarly Docs",
+  "tagline": "Gnars are a new way to fund extreme athletes using web3 tools",
+  "url": "https://gnars.wtf",
+>>>>>>> parent of e5d4fd99 (fun changes)
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -84,11 +90,11 @@ export default {
           "items": [
             {
               "label": "Discord",
-              "href": "https://discord.gg/gnars"
+              "href": "https://discordapp.com/invite/docusaurus"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/gnarsdao"
+              "href": "https://twitter.com/docusaurus"
             }
           ]
         },
@@ -101,99 +107,112 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/"
+              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }
       ],
-      "copyright": "Copyright© is an ilusion. Built with Weed ⌐◨-◨"
+      "copyright": "Copyright © 2023 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
         "plain": {
-          "color": "#F8F8F2",
-          "backgroundColor": "#282A36"
+          "color": "#393A34",
+          "backgroundColor": "#f6f8fa"
         },
         "styles": [
           {
             "types": [
+              "comment",
               "prolog",
-              "constant",
-              "builtin"
+              "doctype",
+              "cdata"
             ],
             "style": {
-              "color": "rgb(189, 147, 249)"
-            }
-          },
-          {
-            "types": [
-              "inserted",
-              "function"
-            ],
-            "style": {
-              "color": "rgb(80, 250, 123)"
-            }
-          },
-          {
-            "types": [
-              "deleted"
-            ],
-            "style": {
-              "color": "rgb(255, 85, 85)"
-            }
-          },
-          {
-            "types": [
-              "changed"
-            ],
-            "style": {
-              "color": "rgb(255, 184, 108)"
-            }
-          },
-          {
-            "types": [
-              "punctuation",
-              "symbol"
-            ],
-            "style": {
-              "color": "rgb(248, 248, 242)"
-            }
-          },
-          {
-            "types": [
-              "string",
-              "char",
-              "tag",
-              "selector"
-            ],
-            "style": {
-              "color": "rgb(255, 121, 198)"
-            }
-          },
-          {
-            "types": [
-              "keyword",
-              "variable"
-            ],
-            "style": {
-              "color": "rgb(189, 147, 249)",
+              "color": "#999988",
               "fontStyle": "italic"
             }
           },
           {
             "types": [
-              "comment"
+              "namespace"
             ],
             "style": {
-              "color": "rgb(98, 114, 164)"
+              "opacity": 0.7
             }
           },
           {
             "types": [
-              "attr-name"
+              "string",
+              "attr-value"
             ],
             "style": {
-              "color": "rgb(241, 250, 140)"
+              "color": "#e3116c"
+            }
+          },
+          {
+            "types": [
+              "punctuation",
+              "operator"
+            ],
+            "style": {
+              "color": "#393A34"
+            }
+          },
+          {
+            "types": [
+              "entity",
+              "url",
+              "symbol",
+              "number",
+              "boolean",
+              "variable",
+              "constant",
+              "property",
+              "regex",
+              "inserted"
+            ],
+            "style": {
+              "color": "#36acaa"
+            }
+          },
+          {
+            "types": [
+              "atrule",
+              "keyword",
+              "attr-name",
+              "selector"
+            ],
+            "style": {
+              "color": "#00a4db"
+            }
+          },
+          {
+            "types": [
+              "function",
+              "deleted",
+              "tag"
+            ],
+            "style": {
+              "color": "#d73a49"
+            }
+          },
+          {
+            "types": [
+              "function-variable"
+            ],
+            "style": {
+              "color": "#6f42c1"
+            }
+          },
+          {
+            "types": [
+              "tag",
+              "selector",
+              "keyword"
+            ],
+            "style": {
+              "color": "#00009f"
             }
           }
         ]

@@ -13,16 +13,17 @@ const FeatureList = [
     ),
   },
   {
-    title: 'How to Get some ETH for shredding',
+    title: 'Focus on What Matters',
     Svg: require('@site/static/img/gnars2.svg').default,
     description: (
       <>
-        WTF is ETH ? Can I buy wheels with it? Is Discord a BMX trick or some kind of food? 
+        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
+        ahead and move your docs into the <code>docs</code> directory.
       </>
     ),
   },
   {
-    title: '',
+    title: 'Powered by React',
     Svg: require('@site/static/img/gnars3.svg').default,
     description: (
       <>

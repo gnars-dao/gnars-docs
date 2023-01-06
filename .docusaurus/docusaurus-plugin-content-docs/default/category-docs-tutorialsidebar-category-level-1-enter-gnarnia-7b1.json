@@ -5,7 +5,11 @@
   "permalink": "/docs/category/level-1---enter-gnarnia",
   "navigation": {
     "previous": {
+<<<<<<< HEAD
       "title": "🐣 - Intro",
+=======
+      "title": "Intro",
+>>>>>>> parent of e5d4fd99 (fun changes)
       "permalink": "/docs/intro"
     },
     "next": {
