@@ -11,11 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-<<<<<<< HEAD
-        "label": "🐣 - Intro",
-=======
-        "label": "Intro",
->>>>>>> parent of e5d4fd99 (fun changes)
+        "label": "intro",
         "href": "/docs/intro",
         "docId": "intro"
       },
@@ -111,13 +107,8 @@
   "docs": {
     "intro": {
       "id": "intro",
-<<<<<<< HEAD
-      "title": "🐣 - Intro",
-      "description": "Let's discover Gnars Dao in less than 5 minutes.",
-=======
-      "title": "Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
->>>>>>> parent of e5d4fd99 (fun changes)
+      "title": "intro",
+      "description": "<<<<<<< HEAD",
       "sidebar": "tutorialSidebar"
     },
     "Level-1/how-do-i-get-first-gnar": {

@@ -4,15 +4,9 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-<<<<<<< HEAD
   "title": "Gnarly Docs ⌐◨-◨",
   "tagline": "Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools",
   "url": "https://gnars-docs.github.io",
-=======
-  "title": "Gnarly Docs",
-  "tagline": "Gnars are a new way to fund extreme athletes using web3 tools",
-  "url": "https://gnars.wtf",
->>>>>>> parent of e5d4fd99 (fun changes)
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -20,6 +14,7 @@ export default {
   "trailingSlash": false,
   "organizationName": "sktbrd",
   "projectName": "gnars-docs",
+  "deploymentBranch": "gh-pages",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
