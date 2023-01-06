@@ -68,9 +68,9 @@
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/Level-2/manage-docs-versions",
-            "docId": "Level-2/manage-docs-versions"
+            "label": "2.1) Verifying your Gnar on Discord",
+            "href": "/docs/Level-2/2-1-verifying-your-gnar",
+            "docId": "Level-2/2-1-verifying-your-gnar"
           },
           {
             "type": "link",
@@ -138,7 +138,7 @@
     "Level-1/what-is-a-NFT": {
       "id": "Level-1/what-is-a-NFT",
       "title": "2) What is an NFT?",
-      "description": "",
+      "description": "Non-fungible tokens (NFT) | ethereum.org",
       "sidebar": "tutorialSidebar"
     },
     "Level-1/what-is-ethereum": {
@@ -147,10 +147,10 @@
       "description": "What is Ethereum? | ethereum.org",
       "sidebar": "tutorialSidebar"
     },
-    "Level-2/manage-docs-versions": {
-      "id": "Level-2/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
+    "Level-2/2-1-verifying-your-gnar": {
+      "id": "Level-2/2-1-verifying-your-gnar",
+      "title": "2.1) Verifying your Gnar on Discord",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "Level-2/translate-your-site": {

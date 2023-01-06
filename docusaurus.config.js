@@ -8,15 +8,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Gnarly Docs ⌐◨-◨',
   tagline: 'Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools',
-  url: 'https://gnars.wtf',
+  url: 'https://gnars-docs.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'gnars', // Usually your GitHub org/user name.
+  organizationName: 'sktbrd', // Usually your GitHub org/user name.
   projectName: 'gnars-docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful

@@ -6,12 +6,13 @@
 export default {
   "title": "Gnarly Docs ⌐◨-◨",
   "tagline": "Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools",
-  "url": "https://gnars.wtf",
+  "url": "https://gnars-docs.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "gnars",
+  "trailingSlash": false,
+  "organizationName": "sktbrd",
   "projectName": "gnars-docs",
   "i18n": {
     "defaultLocale": "en",

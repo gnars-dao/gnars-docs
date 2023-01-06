@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '172'),
+    component: ComponentCreator('/docs', '2b5'),
     routes: [
       {
         path: '/docs/category/-level-1---enter-gnarnia',
@@ -162,8 +162,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/Level-2/manage-docs-versions',
-        component: ComponentCreator('/docs/Level-2/manage-docs-versions', '438'),
+        path: '/docs/Level-2/2-1-verifying-your-gnar',
+        component: ComponentCreator('/docs/Level-2/2-1-verifying-your-gnar', '8ee'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -154,7 +154,7 @@
               "unversionedId": "Level-1/what-is-a-NFT",
               "id": "Level-1/what-is-a-NFT",
               "title": "2) What is an NFT?",
-              "description": "",
+              "description": "Non-fungible tokens (NFT) | ethereum.org",
               "source": "@site/docs/Level-1/2-what-is-a-NFT.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/what-is-a-NFT",
@@ -205,16 +205,16 @@
               }
             },
             {
-              "unversionedId": "Level-2/manage-docs-versions",
-              "id": "Level-2/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/Level-2/manage-docs-versions.md",
+              "unversionedId": "Level-2/2-1-verifying-your-gnar",
+              "id": "Level-2/2-1-verifying-your-gnar",
+              "title": "2.1) Verifying your Gnar on Discord",
+              "description": "",
+              "source": "@site/docs/Level-2/2-1-verifying-your-gnar.md",
               "sourceDirName": "Level-2",
-              "slug": "/Level-2/manage-docs-versions",
-              "permalink": "/docs/Level-2/manage-docs-versions",
+              "slug": "/Level-2/2-1-verifying-your-gnar",
+              "permalink": "/docs/Level-2/2-1-verifying-your-gnar",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-2/manage-docs-versions.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-2/2-1-verifying-your-gnar.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -250,8 +250,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/docs/Level-2/manage-docs-versions"
+                "title": "2.1) Verifying your Gnar on Discord",
+                "permalink": "/docs/Level-2/2-1-verifying-your-gnar"
               },
               "next": {
                 "title": "🛹 Level 3 - Gettin’ Gnarlier",
@@ -362,7 +362,7 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "Level-2/manage-docs-versions"
+                    "id": "Level-2/2-1-verifying-your-gnar"
                   },
                   {
                     "type": "doc",
