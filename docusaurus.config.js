@@ -9,7 +9,7 @@ const config = {
 
   title: 'Gnarly Docs ⌐◨-◨',
   tagline: 'Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools',
-  url: 'https://gnars-docs.github.io',
+  url: 'https://sktbrd.github.io',
 
   baseUrl: '/',
   onBrokenLinks: 'throw',
