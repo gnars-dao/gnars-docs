@@ -289,9 +289,9 @@
     "532": {
       "css": [
         {
-          "file": "assets/css/styles.f7eac021.css",
-          "hash": "4fd1fdf1719744fa",
-          "publicPath": "/gnars-docs/assets/css/styles.f7eac021.css"
+          "file": "assets/css/styles.860ff119.css",
+          "hash": "585a2bb826a0793c",
+          "publicPath": "/gnars-docs/assets/css/styles.860ff119.css"
         }
       ]
     },
@@ -335,7 +335,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.6214d7bb.js",
-          "hash": "6aac91f00815de5b",
+          "hash": "85a7d2a96abd2b15",
           "publicPath": "/gnars-docs/assets/js/runtime~main.6214d7bb.js"
         }
       ]

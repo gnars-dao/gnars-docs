@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 1.2) What is an NFT? 
 
-<iframe width="900" height="500" src="https://www.youtube.com/embed/Xdkkux6OxfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/Xdkkux6OxfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Non-fungible tokens (NFT) | ethereum.org](https://ethereum.org/en/nft/#what-are-nfts)
 
