@@ -1,12 +1,10 @@
 {
   "defaultLocale": "en",
   "locales": [
-    "en",
-    "pt-br",
-    "fr"
+    "en"
   ],
   "path": "i18n",
-  "currentLocale": "fr",
+  "currentLocale": "en",
   "localeConfigs": {
     "en": {
       "label": "English",
@@ -14,20 +12,6 @@
       "htmlLang": "en",
       "calendar": "gregory",
       "path": "en"
-    },
-    "pt-br": {
-      "label": "Português (Brasil)",
-      "direction": "ltr",
-      "htmlLang": "pt-br",
-      "calendar": "gregory",
-      "path": "pt-br"
-    },
-    "fr": {
-      "label": "Français",
-      "direction": "ltr",
-      "htmlLang": "fr",
-      "calendar": "gregory",
-      "path": "fr"
     }
   }
 }

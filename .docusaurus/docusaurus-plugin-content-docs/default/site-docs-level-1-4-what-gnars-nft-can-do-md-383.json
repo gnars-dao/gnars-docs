@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-1/4-what-gnars-nft-can-do.md",
   "sourceDirName": "Level-1",
   "slug": "/Level-1/what-gnars-nft-can-do",
-  "permalink": "/gnars-docs/fr/docs/Level-1/what-gnars-nft-can-do",
+  "permalink": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/4-what-gnars-nft-can-do.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "3) How to Create a Wallet",
-    "permalink": "/gnars-docs/fr/docs/Level-1/how-to-create-wallet"
+    "permalink": "/gnars-docs/docs/Level-1/how-to-create-wallet"
   },
   "next": {
     "title": "5) How to use Discord?",
-    "permalink": "/gnars-docs/fr/docs/Level-1/how-to-use-discord"
+    "permalink": "/gnars-docs/docs/Level-1/how-to-use-discord"
   }
 }

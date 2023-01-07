@@ -7,7 +7,7 @@ export default {
   "title": "Gnarly Docs ⌐◨-◨",
   "tagline": "Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools",
   "url": "https://sktbrd.github.io",
-  "baseUrl": "/gnars-docs/fr/",
+  "baseUrl": "/gnars-docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -18,9 +18,7 @@ export default {
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en",
-      "pt-br",
-      "fr"
+      "en"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -43,6 +41,14 @@ export default {
       }
     ]
   ],
+  "themes": [
+    [
+      "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-docs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      {
+        "hashed": true
+      }
+    ]
+  ],
   "themeConfig": {
     "navbar": {
       "title": "Gnars",
@@ -55,7 +61,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Tutorials"
         },
         {
           "to": "/blog",
@@ -69,7 +75,7 @@ export default {
         },
         {
           "type": "localeDropdown",
-          "position": "left",
+          "position": "right",
           "dropdownItemsBefore": [],
           "dropdownItemsAfter": []
         }
@@ -97,7 +103,24 @@ export default {
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/gnarsdao"
+            },
+            {
+              "label": "Snapshot",
+              "href": "https://snapshot.org/#/gnars.eth"
+            }
+          ]
+        },
+        {
+          "title": "More",
+          "items": [
+            {
+              "label": "Blog",
+              "to": "/blog"
+            },
+            {
+              "label": "GitHub",
+              "href": "https://github.com/sktbrd/gnars-docs"
             }
           ]
         },
@@ -333,7 +356,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],

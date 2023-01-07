@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "🐣 - Intro",
-        "href": "/gnars-docs/fr/docs/intro",
+        "href": "/gnars-docs/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,41 +24,41 @@
           {
             "type": "link",
             "label": "1) What is Ethereum?",
-            "href": "/gnars-docs/fr/docs/Level-1/what-is-ethereum",
+            "href": "/gnars-docs/docs/Level-1/what-is-ethereum",
             "docId": "Level-1/what-is-ethereum"
           },
           {
             "type": "link",
             "label": "2) What is an NFT?",
-            "href": "/gnars-docs/fr/docs/Level-1/what-is-a-NFT",
+            "href": "/gnars-docs/docs/Level-1/what-is-a-NFT",
             "docId": "Level-1/what-is-a-NFT"
           },
           {
             "type": "link",
             "label": "3) How to Create a Wallet",
-            "href": "/gnars-docs/fr/docs/Level-1/how-to-create-wallet",
+            "href": "/gnars-docs/docs/Level-1/how-to-create-wallet",
             "docId": "Level-1/how-to-create-wallet"
           },
           {
             "type": "link",
             "label": "3) What Gnars NFT can do?",
-            "href": "/gnars-docs/fr/docs/Level-1/what-gnars-nft-can-do",
+            "href": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do",
             "docId": "Level-1/what-gnars-nft-can-do"
           },
           {
             "type": "link",
             "label": "5) How to use Discord?",
-            "href": "/gnars-docs/fr/docs/Level-1/how-to-use-discord",
+            "href": "/gnars-docs/docs/Level-1/how-to-use-discord",
             "docId": "Level-1/how-to-use-discord"
           },
           {
             "type": "link",
             "label": "6) How do I get my first Gnar",
-            "href": "/gnars-docs/fr/docs/Level-1/how-do-i-get-first-gnar",
+            "href": "/gnars-docs/docs/Level-1/how-do-i-get-first-gnar",
             "docId": "Level-1/how-do-i-get-first-gnar"
           }
         ],
-        "href": "/gnars-docs/fr/docs/category/-level-1---enter-gnarnia"
+        "href": "/gnars-docs/docs/category/-level-1---enter-gnarnia"
       },
       {
         "type": "category",
@@ -69,17 +69,17 @@
           {
             "type": "link",
             "label": "2.1) Verifying your Gnar on Discord",
-            "href": "/gnars-docs/fr/docs/Level-2/2-1-verifying-your-gnar",
+            "href": "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar",
             "docId": "Level-2/2-1-verifying-your-gnar"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/gnars-docs/fr/docs/Level-2/translate-your-site",
+            "href": "/gnars-docs/docs/Level-2/translate-your-site",
             "docId": "Level-2/translate-your-site"
           }
         ],
-        "href": "/gnars-docs/fr/docs/category/-level-2---welcome-to-club"
+        "href": "/gnars-docs/docs/category/-level-2---welcome-to-club"
       },
       {
         "type": "category",
@@ -90,17 +90,17 @@
           {
             "type": "link",
             "label": "Manage Docs Versions",
-            "href": "/gnars-docs/fr/docs/Level-3/manage-docs-versions",
+            "href": "/gnars-docs/docs/Level-3/manage-docs-versions",
             "docId": "Level-3/manage-docs-versions"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/gnars-docs/fr/docs/Level-3/translate-your-site",
+            "href": "/gnars-docs/docs/Level-3/translate-your-site",
             "docId": "Level-3/translate-your-site"
           }
         ],
-        "href": "/gnars-docs/fr/docs/category/-level-3---gettin-gnarlier"
+        "href": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
       }
     ]
   },

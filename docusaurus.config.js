@@ -28,7 +28,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en','pt-br','fr'],
+    locales: ['en'],
   },
 
   presets: [
@@ -52,8 +52,18 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+          
         },
+        
       }),
+    ],
+  ],
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        hashed: true,
+      },
     ],
   ],
 
@@ -71,7 +81,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tutorials',
           },
           {to: '/blog', label: 'Videos', position: 'left'},
           {
@@ -81,7 +91,7 @@ const config = {
           },
           {
             type: 'localeDropdown',
-            position: 'left',
+            position: 'right',
           },
         ],
       },
@@ -107,8 +117,12 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/gnarsdao',
               },
+              {
+                label: 'Snapshot',
+                href: 'https://snapshot.org/#/gnars.eth'
+              }
             ],
           },
           {
@@ -124,6 +138,19 @@ const config = {
               },
             ],
           },
+          {
+          title: 'More',
+          items: [
+            {
+              label: 'Blog',
+              to: '/blog',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/sktbrd/gnars-docs',
+            },
+          ],
+        },
         ],
         copyright: `Copyright © is a lie. Built with Weed`,
       },

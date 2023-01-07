@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-1/2-what-is-a-NFT.md",
   "sourceDirName": "Level-1",
   "slug": "/Level-1/what-is-a-NFT",
-  "permalink": "/gnars-docs/fr/docs/Level-1/what-is-a-NFT",
+  "permalink": "/gnars-docs/docs/Level-1/what-is-a-NFT",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-1/2-what-is-a-NFT.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "1) What is Ethereum?",
-    "permalink": "/gnars-docs/fr/docs/Level-1/what-is-ethereum"
+    "permalink": "/gnars-docs/docs/Level-1/what-is-ethereum"
   },
   "next": {
     "title": "3) How to Create a Wallet",
-    "permalink": "/gnars-docs/fr/docs/Level-1/how-to-create-wallet"
+    "permalink": "/gnars-docs/docs/Level-1/how-to-create-wallet"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-3/manage-docs-versions.md",
   "sourceDirName": "Level-3",
   "slug": "/Level-3/manage-docs-versions",
-  "permalink": "/gnars-docs/fr/docs/Level-3/manage-docs-versions",
+  "permalink": "/gnars-docs/docs/Level-3/manage-docs-versions",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Level-3/manage-docs-versions.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🛹 Level 3 - Gettin’ Gnarlier",
-    "permalink": "/gnars-docs/fr/docs/category/-level-3---gettin-gnarlier"
+    "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/gnars-docs/fr/docs/Level-3/translate-your-site"
+    "permalink": "/gnars-docs/docs/Level-3/translate-your-site"
   }
 }
