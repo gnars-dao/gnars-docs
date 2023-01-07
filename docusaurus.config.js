@@ -41,7 +41,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/sktbrd/gnars-docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -93,6 +93,11 @@ const config = {
             type: 'localeDropdown',
             position: 'right',
           },
+          {
+            href: 'https://gnars.wtf',
+            label: 'Get a Gnar NFT',
+            position: 'left'
+          },
         ],
       },
       footer: {
@@ -105,6 +110,10 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+              {
+                label: "Charmverse",
+                href: "https://app.charmverse.io/share/gnars/page-9870330106092746"
+              }
             ],
           },
           {
@@ -126,14 +135,14 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Shred to Earn',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: '🛹 Skatehive App',
+                href: 'https://stoken.wtf',
               },
               {
-                label: 'GitHub',
+                label: '🌊 Surfhive',
                 href: 'https://github.com/sktbrd/gnars-docs',
               },
             ],

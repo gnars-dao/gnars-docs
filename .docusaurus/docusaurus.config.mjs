@@ -29,7 +29,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -78,6 +78,11 @@ export default {
           "position": "right",
           "dropdownItemsBefore": [],
           "dropdownItemsAfter": []
+        },
+        {
+          "href": "https://gnars.wtf",
+          "label": "Get a Gnar NFT",
+          "position": "left"
         }
       ],
       "hideOnScroll": false
@@ -91,6 +96,10 @@ export default {
             {
               "label": "Tutorial",
               "to": "/docs/intro"
+            },
+            {
+              "label": "Charmverse",
+              "href": "https://app.charmverse.io/share/gnars/page-9870330106092746"
             }
           ]
         },
@@ -112,14 +121,14 @@ export default {
           ]
         },
         {
-          "title": "More",
+          "title": "Shred to Earn",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "🛹 Skatehive App",
+              "href": "https://stoken.wtf"
             },
             {
-              "label": "GitHub",
+              "label": "🌊 Surfhive",
               "href": "https://github.com/sktbrd/gnars-docs"
             }
           ]

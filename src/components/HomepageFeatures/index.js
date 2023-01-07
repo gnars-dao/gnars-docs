@@ -8,27 +8,26 @@ const FeatureList = [
     Svg: require('@site/static/img/gnars1.svg').default,
     description: (
       <>
-        Learn WTF is this DAO thing about. And learn how it is changing the world
+        Learn WTF is this DAO thing about. And learn how it is changing the world.         WTF is ETH ? Can I buy wheels with it? Is Discord a BMX trick or some kind of food? 
+
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Get funded for your DIY project',
     Svg: require('@site/static/img/gnars2.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      Our community developed an enviroment that you can earn and get funded for shredding. We like to call proof of stoken. You just need to get everyone stoked !
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'How to Get some ETH for shredding',
     Svg: require('@site/static/img/gnars3.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We prefer a world where kids aren't sold energy drinks by their heroes. So as a community of action sports enthusiasts, we've formed a DAO to rethink how extreme athletes get sponsored. 
       </>
     ),
   },

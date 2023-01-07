@@ -1,16 +1,22 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # 3) What Gnars NFT can do?
 
 1) Governance: GNAR NFTs may be used as votes in the GNAR governance process. Token holders may use their NFTs to cast votes on decisions related to the GNAR project, such as changes to the platform, community or the allocation of funds.
 
+---
+
 <center>
-                                       1 GNAR     === 1 VOTE 
+                                       1 GNAR     === 1 VOTE    
+</center>
+<center>
                                        1 GNAR OG  === 2 VOTES
 
 </center>
+
+---
 
 2) Gated rooms: GNAR NFTs may be used to access gated rooms on the GNAR Discord server. These rooms may be reserved for members of the GNAR community or for holders of certain NFTs, and may be used for discussions, events, or other activities.
 
