@@ -18,8 +18,7 @@ export default {
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en",
-      "pt-br"
+      "en"
     ],
     "path": "i18n",
     "localeConfigs": {}
