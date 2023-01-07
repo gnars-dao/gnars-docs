@@ -23,7 +23,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'How to Get some ETH for shredding',
+    title: '$ for $hredding',
     Svg: require('@site/static/img/gnars3.svg').default,
     description: (
       <>

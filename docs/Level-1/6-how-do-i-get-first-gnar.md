@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# 6) How do I get my first Gnar
+# 1.6) How do I get my first Gnar
 
 <iframe src="https://discord.com/widget?id=928811922244137020&theme=dark" width="250" height="500" align="right" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 

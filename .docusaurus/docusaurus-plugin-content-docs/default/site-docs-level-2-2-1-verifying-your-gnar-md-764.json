@@ -2,7 +2,7 @@
   "unversionedId": "Level-2/2-1-verifying-your-gnar",
   "id": "Level-2/2-1-verifying-your-gnar",
   "title": "2.1) Verifying your Gnar on Discord",
-  "description": "",
+  "description": "To verify your wallet on the Gnars Discord Server and receive roles granted by the Collab Land bot, follow these steps:",
   "source": "@site/docs/Level-2/2-1-verifying-your-gnar.md",
   "sourceDirName": "Level-2",
   "slug": "/Level-2/2-1-verifying-your-gnar",
@@ -21,7 +21,7 @@
     "permalink": "/gnars-docs/docs/category/-level-2---welcome-to-club"
   },
   "next": {
-    "title": "Translate your site",
-    "permalink": "/gnars-docs/docs/Level-2/translate-your-site"
+    "title": "2.2) Gnarly Meetings",
+    "permalink": "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings"
   }
 }

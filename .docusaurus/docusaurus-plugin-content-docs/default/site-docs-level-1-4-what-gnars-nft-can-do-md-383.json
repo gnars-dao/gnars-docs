@@ -1,7 +1,7 @@
 {
   "unversionedId": "Level-1/what-gnars-nft-can-do",
   "id": "Level-1/what-gnars-nft-can-do",
-  "title": "3) What Gnars NFT can do?",
+  "title": "1.4) What Gnars NFT can do?",
   "description": "1) Governance: GNAR NFTs may be used as votes in the GNAR governance process. Token holders may use their NFTs to cast votes on decisions related to the GNAR project, such as changes to the platform, community or the allocation of funds.",
   "source": "@site/docs/Level-1/4-what-gnars-nft-can-do.md",
   "sourceDirName": "Level-1",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "3) How to Create a Wallet",
+    "title": "1.3) How to Create a Wallet",
     "permalink": "/gnars-docs/docs/Level-1/how-to-create-wallet"
   },
   "next": {
-    "title": "5) How to use Discord?",
+    "title": "1.5) How to use Discord?",
     "permalink": "/gnars-docs/docs/Level-1/how-to-use-discord"
   }
 }

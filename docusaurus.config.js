@@ -28,7 +28,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en','pt-br'],
   },
 
   presets: [
@@ -44,11 +44,11 @@ const config = {
             'https://github.com/sktbrd/gnars-docs/tree/main/',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/sktbrd/gnars-docs/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -83,7 +83,7 @@ const config = {
             position: 'left',
             label: 'Tutorials',
           },
-          {to: '/blog', label: 'Videos', position: 'left'},
+          {to: '/blog', label: '🛹 Trickpedia', position: 'left'},
           {
             href: 'https://github.com/sktbrd/gnars-docs',
             label: 'GitHub',
@@ -94,10 +94,20 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://gnars.wtf',
+            type: 'dropdown',
             label: 'Get a Gnar NFT',
-            position: 'left'
-          },
+            position:'left',
+            items: [
+              {
+                label: 'Auctions',
+                href: 'https://gnars.wtf'
+              },
+              {
+                label: 'OpenSea',
+                href: 'https://opensea.io/collection/gnars-v2'
+              }
+            ]
+          }
         ],
       },
       footer: {
@@ -143,7 +153,7 @@ const config = {
               },
               {
                 label: '🌊 Surfhive',
-                href: 'https://github.com/sktbrd/gnars-docs',
+                href: 'https://peakd.com/c/hive-141964/created',
               },
             ],
           },

@@ -51,6 +51,31 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Level-2/2-2-Gnarly-Meetings",
+              "path": "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-2/2-3-How-to-vote-in-the-DAO-proposals",
+              "path": "/gnars-docs/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-2/2-4-how-to-use-eth-to-buy",
+              "path": "/gnars-docs/docs/Level-2/2-4-how-to-use-eth-to-buy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-2/2-5-proposal-guidelines",
+              "path": "/gnars-docs/docs/Level-2/2-5-proposal-guidelines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-2/2-6",
+              "path": "/gnars-docs/docs/Level-2/2-6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Level-2/translate-your-site",
               "path": "/gnars-docs/docs/Level-2/translate-your-site",
               "sidebar": "tutorialSidebar"

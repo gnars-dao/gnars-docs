@@ -18,7 +18,8 @@ export default {
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en"
+      "en",
+      "pt-br"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -32,8 +33,8 @@ export default {
           "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "showReadingTime": false,
+          "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/"
         },
         "theme": {
           "customCss": "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-docs/src/css/custom.css"
@@ -65,7 +66,7 @@ export default {
         },
         {
           "to": "/blog",
-          "label": "Videos",
+          "label": "🛹 Trickpedia",
           "position": "left"
         },
         {
@@ -80,9 +81,19 @@ export default {
           "dropdownItemsAfter": []
         },
         {
-          "href": "https://gnars.wtf",
+          "type": "dropdown",
           "label": "Get a Gnar NFT",
-          "position": "left"
+          "position": "left",
+          "items": [
+            {
+              "label": "Auctions",
+              "href": "https://gnars.wtf"
+            },
+            {
+              "label": "OpenSea",
+              "href": "https://opensea.io/collection/gnars-v2"
+            }
+          ]
         }
       ],
       "hideOnScroll": false
@@ -129,7 +140,7 @@ export default {
             },
             {
               "label": "🌊 Surfhive",
-              "href": "https://github.com/sktbrd/gnars-docs"
+              "href": "https://peakd.com/c/hive-141964/created"
             }
           ]
         },

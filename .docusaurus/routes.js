@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/gnars-docs/blog',
-    component: ComponentCreator('/gnars-docs/blog', 'cc2'),
+    component: ComponentCreator('/gnars-docs/blog', 'a37'),
     exact: true
   },
   {
@@ -48,8 +48,13 @@ export default [
     exact: true
   },
   {
+    path: '/gnars-docs/blog/drop',
+    component: ComponentCreator('/gnars-docs/blog/drop', 'ceb'),
+    exact: true
+  },
+  {
     path: '/gnars-docs/blog/first-blog-post',
-    component: ComponentCreator('/gnars-docs/blog/first-blog-post', '07f'),
+    component: ComponentCreator('/gnars-docs/blog/first-blog-post', '73b'),
     exact: true
   },
   {
@@ -68,28 +73,18 @@ export default [
     exact: true
   },
   {
-    path: '/gnars-docs/blog/tags/docusaurus',
-    component: ComponentCreator('/gnars-docs/blog/tags/docusaurus', 'eda'),
+    path: '/gnars-docs/blog/tags/skateboard',
+    component: ComponentCreator('/gnars-docs/blog/tags/skateboard', 'ee3'),
     exact: true
   },
   {
-    path: '/gnars-docs/blog/tags/facebook',
-    component: ComponentCreator('/gnars-docs/blog/tags/facebook', '908'),
+    path: '/gnars-docs/blog/tags/trickpedia',
+    component: ComponentCreator('/gnars-docs/blog/tags/trickpedia', 'e08'),
     exact: true
   },
   {
-    path: '/gnars-docs/blog/tags/hello',
-    component: ComponentCreator('/gnars-docs/blog/tags/hello', '0f1'),
-    exact: true
-  },
-  {
-    path: '/gnars-docs/blog/tags/hola',
-    component: ComponentCreator('/gnars-docs/blog/tags/hola', '030'),
-    exact: true
-  },
-  {
-    path: '/gnars-docs/blog/welcome',
-    component: ComponentCreator('/gnars-docs/blog/welcome', '56a'),
+    path: '/gnars-docs/blog/tags/video',
+    component: ComponentCreator('/gnars-docs/blog/tags/video', 'b6f'),
     exact: true
   },
   {
@@ -104,7 +99,7 @@ export default [
   },
   {
     path: '/gnars-docs/docs',
-    component: ComponentCreator('/gnars-docs/docs', 'cfa'),
+    component: ComponentCreator('/gnars-docs/docs', '990'),
     routes: [
       {
         path: '/gnars-docs/docs/category/-level-1---enter-gnarnia',
@@ -169,6 +164,36 @@ export default [
       {
         path: '/gnars-docs/docs/Level-2/2-1-verifying-your-gnar',
         component: ComponentCreator('/gnars-docs/docs/Level-2/2-1-verifying-your-gnar', 'aee'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings',
+        component: ComponentCreator('/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings', 'e28'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/gnars-docs/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals',
+        component: ComponentCreator('/gnars-docs/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals', 'fcd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/gnars-docs/docs/Level-2/2-4-how-to-use-eth-to-buy',
+        component: ComponentCreator('/gnars-docs/docs/Level-2/2-4-how-to-use-eth-to-buy', '2c0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/gnars-docs/docs/Level-2/2-5-proposal-guidelines',
+        component: ComponentCreator('/gnars-docs/docs/Level-2/2-5-proposal-guidelines', 'e0a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/gnars-docs/docs/Level-2/2-6',
+        component: ComponentCreator('/gnars-docs/docs/Level-2/2-6', '49c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

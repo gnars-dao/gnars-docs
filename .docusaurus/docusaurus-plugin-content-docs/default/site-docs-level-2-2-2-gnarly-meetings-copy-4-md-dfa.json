@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Level-2/2-2-Gnarly-Meetings copy 4",
+  "id": "Level-2/2-2-Gnarly-Meetings copy 4",
+  "title": "2.2) Gnarly Meetings",
+  "description": "We have weekly board meetings on Tuesdays 8pm UTC-3 and the Gnars Jam sessions on Thursdays at 9pm UTC-3",
+  "source": "@site/docs/Level-2/2-2-Gnarly-Meetings copy 4.md",
+  "sourceDirName": "Level-2",
+  "slug": "/Level-2/2-2-Gnarly-Meetings copy 4",
+  "permalink": "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings copy 4",
+  "draft": false,
+  "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-2-Gnarly-Meetings copy 4.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2.2) Gnarly Meetings",
+    "permalink": "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings copy 3"
+  },
+  "next": {
+    "title": "2.2) Gnarly Meetings",
+    "permalink": "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings copy"
+  }
+}

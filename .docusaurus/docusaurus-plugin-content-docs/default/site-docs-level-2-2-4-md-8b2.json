@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Level-2/2-4",
+  "id": "Level-2/2-4",
+  "title": "2.4) How to use ETH to buy new wheels?",
+  "description": "First you have to try to make your local skateshop to take ETH payments, here are some arguments to do so…",
+  "source": "@site/docs/Level-2/2-4.md",
+  "sourceDirName": "Level-2",
+  "slug": "/Level-2/2-4",
+  "permalink": "/gnars-docs/docs/Level-2/2-4",
+  "draft": false,
+  "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-4.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2.3) How to vote in the DAO proposals?",
+    "permalink": "/gnars-docs/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals"
+  },
+  "next": {
+    "title": "2.2) Gnarly Meetings",
+    "permalink": "/gnars-docs/docs/Level-2/2-5"
+  }
+}

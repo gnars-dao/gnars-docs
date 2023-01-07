@@ -1,8 +1,8 @@
 {
   "unversionedId": "Level-1/how-to-create-wallet",
   "id": "Level-1/how-to-create-wallet",
-  "title": "3) How to Create a Wallet",
-  "description": "",
+  "title": "1.3) How to Create a Wallet",
+  "description": "Ethereum wallets are applications that let you interact with your Ethereum account. Think of it like an internet banking app – without the bank. Your wallet lets you read your balance, send transactions and connect to applications.",
   "source": "@site/docs/Level-1/3-how-to-create-wallet.md",
   "sourceDirName": "Level-1",
   "slug": "/Level-1/how-to-create-wallet",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "2) What is an NFT?",
+    "title": "1.2) What is an NFT?",
     "permalink": "/gnars-docs/docs/Level-1/what-is-a-NFT"
   },
   "next": {
-    "title": "3) What Gnars NFT can do?",
+    "title": "1.4) What Gnars NFT can do?",
     "permalink": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do"
   }
 }

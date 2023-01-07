@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 5) How to use Discord?
+# 1.5) How to use Discord?
 
 
 ### To use Discord on the Gnars Discord Server, follow these steps:

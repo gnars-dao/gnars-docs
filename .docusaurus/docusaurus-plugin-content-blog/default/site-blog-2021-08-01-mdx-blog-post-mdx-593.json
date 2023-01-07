@@ -1,44 +1,57 @@
 {
   "permalink": "/gnars-docs/blog/mdx-blog-post",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+  "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-  "title": "Trickpedia",
-  "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+  "title": "Fs Ollie 180",
+  "description": "alert('Its always 420 somewhere!')}>Tom Says",
   "date": "2021-08-01T00:00:00.000Z",
   "formattedDate": "August 1, 2021",
   "tags": [
     {
-      "label": "docusaurus",
-      "permalink": "/gnars-docs/blog/tags/docusaurus"
+      "label": "trickpedia",
+      "permalink": "/gnars-docs/blog/tags/trickpedia"
+    },
+    {
+      "label": "skateboard",
+      "permalink": "/gnars-docs/blog/tags/skateboard"
+    },
+    {
+      "label": "video",
+      "permalink": "/gnars-docs/blog/tags/video"
     }
   ],
-  "readingTime": 0.175,
   "hasTruncateMarker": false,
   "authors": [
     {
-      "name": "Sébastien Lorber",
-      "title": "Docusaurus maintainer",
-      "url": "https://sebastienlorber.com",
-      "imageURL": "https://github.com/slorber.png",
-      "key": "slorber"
+      "name": "Tom Roher",
+      "title": "Flatground Skater Jedi",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429",
+      "imageURL": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429"
     }
   ],
   "frontMatter": {
     "slug": "mdx-blog-post",
-    "title": "Trickpedia",
-    "authors": [
-      "slorber"
-    ],
+    "title": "Fs Ollie 180",
+    "authors": {
+      "name": "Tom Roher",
+      "title": "Flatground Skater Jedi",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429",
+      "imageURL": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429"
+    },
     "tags": [
-      "docusaurus"
+      "trickpedia",
+      "skateboard",
+      "video"
     ]
   },
   "prevItem": {
-    "title": "Welcome",
-    "permalink": "/gnars-docs/blog/welcome"
+    "title": "Free Drop",
+    "permalink": "/gnars-docs/blog/drop"
   },
   "nextItem": {
-    "title": "Long Blog Post",
+    "title": "360 Pop Shuvit",
     "permalink": "/gnars-docs/blog/long-blog-post"
   }
 }

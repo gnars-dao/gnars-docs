@@ -1,0 +1,53 @@
+{
+  "permalink": "/gnars-docs/blog/first-blog-post",
+  "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/blog/fs180ollie.md",
+  "source": "@site/blog/fs180ollie.md",
+  "title": "360 flip",
+  "description": "",
+  "date": "2023-01-04T22:26:35.384Z",
+  "formattedDate": "January 4, 2023",
+  "tags": [
+    {
+      "label": "trickpedia",
+      "permalink": "/gnars-docs/blog/tags/trickpedia"
+    },
+    {
+      "label": "skateboard",
+      "permalink": "/gnars-docs/blog/tags/skateboard"
+    },
+    {
+      "label": "video",
+      "permalink": "/gnars-docs/blog/tags/video"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Tom Roher",
+      "title": "Flatground Skater Jedi",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429",
+      "imageURL": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429"
+    }
+  ],
+  "frontMatter": {
+    "slug": "first-blog-post",
+    "title": "360 flip",
+    "authors": {
+      "name": "Tom Roher",
+      "title": "Flatground Skater Jedi",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429",
+      "imageURL": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429"
+    },
+    "tags": [
+      "trickpedia",
+      "skateboard",
+      "video"
+    ]
+  },
+  "nextItem": {
+    "title": "Free Drop",
+    "permalink": "/gnars-docs/blog/drop"
+  }
+}

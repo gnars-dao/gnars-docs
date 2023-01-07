@@ -2,20 +2,20 @@
   "title": "Recent posts",
   "items": [
     {
-      "title": "Welcome",
-      "permalink": "/gnars-docs/blog/welcome"
+      "title": "360 flip",
+      "permalink": "/gnars-docs/blog/first-blog-post"
     },
     {
-      "title": "Trickpedia",
+      "title": "Free Drop",
+      "permalink": "/gnars-docs/blog/drop"
+    },
+    {
+      "title": "Fs Ollie 180",
       "permalink": "/gnars-docs/blog/mdx-blog-post"
     },
     {
-      "title": "Long Blog Post",
+      "title": "360 Pop Shuvit",
       "permalink": "/gnars-docs/blog/long-blog-post"
-    },
-    {
-      "title": "First Blog Post",
-      "permalink": "/gnars-docs/blog/first-blog-post"
     }
   ]
 }

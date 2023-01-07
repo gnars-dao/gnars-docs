@@ -1,47 +1,53 @@
 {
   "permalink": "/gnars-docs/blog/long-blog-post",
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+  "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/blog/2019-05-29-long-blog-post.md",
   "source": "@site/blog/2019-05-29-long-blog-post.md",
-  "title": "Long Blog Post",
-  "description": "This is the summary of a very long blog post,",
+  "title": "360 Pop Shuvit",
+  "description": "",
   "date": "2019-05-29T00:00:00.000Z",
   "formattedDate": "May 29, 2019",
   "tags": [
     {
-      "label": "hello",
-      "permalink": "/gnars-docs/blog/tags/hello"
+      "label": "trickpedia",
+      "permalink": "/gnars-docs/blog/tags/trickpedia"
     },
     {
-      "label": "docusaurus",
-      "permalink": "/gnars-docs/blog/tags/docusaurus"
+      "label": "skateboard",
+      "permalink": "/gnars-docs/blog/tags/skateboard"
+    },
+    {
+      "label": "video",
+      "permalink": "/gnars-docs/blog/tags/video"
     }
   ],
-  "readingTime": 2.05,
-  "hasTruncateMarker": true,
+  "hasTruncateMarker": false,
   "authors": [
     {
-      "name": "Endilie Yacop Sucipto",
-      "title": "Maintainer of Docusaurus",
-      "url": "https://github.com/endiliey",
-      "imageURL": "https://github.com/endiliey.png",
-      "key": "endi"
+      "name": "Tom Roher",
+      "title": "Flatground Skater Jedi",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429",
+      "imageURL": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429"
     }
   ],
   "frontMatter": {
     "slug": "long-blog-post",
-    "title": "Long Blog Post",
-    "authors": "endi",
+    "title": "360 Pop Shuvit",
+    "authors": {
+      "name": "Tom Roher",
+      "title": "Flatground Skater Jedi",
+      "url": "https://github.com/wgao19",
+      "image_url": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429",
+      "imageURL": "https://i2.wp.com/hypebeast.com/wp-content/blogs.dir/13/files/2022/08/Screen-Shot-2022-08-03-at-12.02.53-PM.png?fit=750,429"
+    },
     "tags": [
-      "hello",
-      "docusaurus"
+      "trickpedia",
+      "skateboard",
+      "video"
     ]
   },
   "prevItem": {
-    "title": "Trickpedia",
+    "title": "Fs Ollie 180",
     "permalink": "/gnars-docs/blog/mdx-blog-post"
-  },
-  "nextItem": {
-    "title": "First Blog Post",
-    "permalink": "/gnars-docs/blog/first-blog-post"
   }
 }
