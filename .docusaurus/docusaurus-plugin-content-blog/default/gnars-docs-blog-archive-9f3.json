@@ -56,7 +56,7 @@
           ]
         },
         "nextItem": {
-          "title": "MDX Blog Post",
+          "title": "Trickpedia",
           "permalink": "/gnars-docs/blog/mdx-blog-post"
         }
       },
@@ -68,7 +68,7 @@
         "permalink": "/gnars-docs/blog/mdx-blog-post",
         "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
         "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
-        "title": "MDX Blog Post",
+        "title": "Trickpedia",
         "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
         "date": "2021-08-01T00:00:00.000Z",
         "formattedDate": "August 1, 2021",
@@ -91,7 +91,7 @@
         ],
         "frontMatter": {
           "slug": "mdx-blog-post",
-          "title": "MDX Blog Post",
+          "title": "Trickpedia",
           "authors": [
             "slorber"
           ],
@@ -151,7 +151,7 @@
           ]
         },
         "prevItem": {
-          "title": "MDX Blog Post",
+          "title": "Trickpedia",
           "permalink": "/gnars-docs/blog/mdx-blog-post"
         },
         "nextItem": {

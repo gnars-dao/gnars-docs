@@ -1,23 +1,23 @@
 {
-  "permalink": "/gnars-docs/blog/welcome",
+  "permalink": "/gnars-docs/fr/blog/welcome",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
   "source": "@site/blog/2021-08-26-welcome/index.md",
   "title": "Welcome",
   "description": "Docusaurus blogging features are powered by the blog plugin.",
   "date": "2021-08-26T00:00:00.000Z",
-  "formattedDate": "August 26, 2021",
+  "formattedDate": "26 août 2021",
   "tags": [
     {
       "label": "facebook",
-      "permalink": "/gnars-docs/blog/tags/facebook"
+      "permalink": "/gnars-docs/fr/blog/tags/facebook"
     },
     {
       "label": "hello",
-      "permalink": "/gnars-docs/blog/tags/hello"
+      "permalink": "/gnars-docs/fr/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/gnars-docs/blog/tags/docusaurus"
+      "permalink": "/gnars-docs/fr/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.405,
@@ -52,7 +52,7 @@
     ]
   },
   "nextItem": {
-    "title": "MDX Blog Post",
-    "permalink": "/gnars-docs/blog/mdx-blog-post"
+    "title": "Trickpedia",
+    "permalink": "/gnars-docs/fr/blog/mdx-blog-post"
   }
 }

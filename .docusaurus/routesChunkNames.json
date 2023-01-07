@@ -1,5 +1,5 @@
 {
-  "/gnars-docs/blog-cc2": {
+  "/gnars-docs/fr/blog-789": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "d95e9c72"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "d0ead7bb"
+    "metadata": "2ff2a0f4"
   },
-  "/gnars-docs/blog/archive-f83": {
+  "/gnars-docs/fr/blog/archive-9e6": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "d95e9c72"
     },
-    "archive": "d9747260"
+    "archive": "480004d9"
   },
-  "/gnars-docs/blog/first-blog-post-07f": {
+  "/gnars-docs/fr/blog/first-blog-post-acb": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d95e9c72"
@@ -36,7 +36,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/gnars-docs/blog/long-blog-post-2ee": {
+  "/gnars-docs/fr/blog/long-blog-post-abc": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d95e9c72"
@@ -44,7 +44,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/gnars-docs/blog/mdx-blog-post-fdb": {
+  "/gnars-docs/fr/blog/mdx-blog-post-5fa": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d95e9c72"
@@ -52,15 +52,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/gnars-docs/blog/tags-03c": {
+  "/gnars-docs/fr/blog/tags-e96": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "d95e9c72"
     },
     "sidebar": "814f3328",
-    "tags": "8b77a9db"
+    "tags": "c10ecd08"
   },
-  "/gnars-docs/blog/tags/docusaurus-eda": {
+  "/gnars-docs/fr/blog/tags/docusaurus-a3b": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d95e9c72"
@@ -80,10 +80,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "45a01bc0",
-    "listMetadata": "7bf8edbb"
+    "tag": "00ecd709",
+    "listMetadata": "3fb1f011"
   },
-  "/gnars-docs/blog/tags/facebook-908": {
+  "/gnars-docs/fr/blog/tags/facebook-1a0": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d95e9c72"
@@ -94,10 +94,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "99d5bba1",
-    "listMetadata": "7b1aede5"
+    "tag": "4f0c45ea",
+    "listMetadata": "acd0d825"
   },
-  "/gnars-docs/blog/tags/hello-0f1": {
+  "/gnars-docs/fr/blog/tags/hello-5a9": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d95e9c72"
@@ -111,10 +111,10 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "68c78787",
-    "listMetadata": "56d8ee07"
+    "tag": "ac22a3fa",
+    "listMetadata": "fb184c82"
   },
-  "/gnars-docs/blog/tags/hola-030": {
+  "/gnars-docs/fr/blog/tags/hola-648": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d95e9c72"
@@ -125,10 +125,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "da135d36",
-    "listMetadata": "62a20ccd"
+    "tag": "52391cf2",
+    "listMetadata": "e5b697ed"
   },
-  "/gnars-docs/blog/welcome-56a": {
+  "/gnars-docs/fr/blog/welcome-f34": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d95e9c72"
@@ -136,77 +136,77 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/gnars-docs/markdown-page-4d2": {
+  "/gnars-docs/fr/markdown-page-6ec": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "703fe9b1"
     },
     "content": "393be207"
   },
-  "/gnars-docs/docs-cfa": {
+  "/gnars-docs/fr/docs-daa": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "f1603d7b"
     },
     "versionMetadata": "935f2afb"
   },
-  "/gnars-docs/docs/category/-level-1---enter-gnarnia-aef": {
+  "/gnars-docs/fr/docs/category/-level-1---enter-gnarnia-fec": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "8919a7b0"
+    "categoryGeneratedIndex": "b54c4cb0"
   },
-  "/gnars-docs/docs/category/-level-2---welcome-to-club-f00": {
+  "/gnars-docs/fr/docs/category/-level-2---welcome-to-club-49b": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "006d889b"
+    "categoryGeneratedIndex": "e19adede"
   },
-  "/gnars-docs/docs/category/-level-3---gettin-gnarlier-490": {
+  "/gnars-docs/fr/docs/category/-level-3---gettin-gnarlier-373": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "e5e69591"
+    "categoryGeneratedIndex": "673058a8"
   },
-  "/gnars-docs/docs/intro-bd9": {
+  "/gnars-docs/fr/docs/intro-a07": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/gnars-docs/docs/Level-1/how-do-i-get-first-gnar-ec6": {
+  "/gnars-docs/fr/docs/Level-1/how-do-i-get-first-gnar-7c1": {
     "__comp": "17896441",
     "content": "2b51d100"
   },
-  "/gnars-docs/docs/Level-1/how-to-create-wallet-285": {
+  "/gnars-docs/fr/docs/Level-1/how-to-create-wallet-578": {
     "__comp": "17896441",
     "content": "8e34322a"
   },
-  "/gnars-docs/docs/Level-1/how-to-use-discord-1d6": {
+  "/gnars-docs/fr/docs/Level-1/how-to-use-discord-319": {
     "__comp": "17896441",
     "content": "48c1e311"
   },
-  "/gnars-docs/docs/Level-1/what-gnars-nft-can-do-f3a": {
+  "/gnars-docs/fr/docs/Level-1/what-gnars-nft-can-do-e39": {
     "__comp": "17896441",
     "content": "383ce887"
   },
-  "/gnars-docs/docs/Level-1/what-is-a-NFT-88e": {
+  "/gnars-docs/fr/docs/Level-1/what-is-a-NFT-d38": {
     "__comp": "17896441",
     "content": "a94c4a33"
   },
-  "/gnars-docs/docs/Level-1/what-is-ethereum-c28": {
+  "/gnars-docs/fr/docs/Level-1/what-is-ethereum-f23": {
     "__comp": "17896441",
     "content": "15907259"
   },
-  "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar-aee": {
+  "/gnars-docs/fr/docs/Level-2/2-1-verifying-your-gnar-807": {
     "__comp": "17896441",
     "content": "76445d59"
   },
-  "/gnars-docs/docs/Level-2/translate-your-site-61a": {
+  "/gnars-docs/fr/docs/Level-2/translate-your-site-f8d": {
     "__comp": "17896441",
     "content": "e4be51fd"
   },
-  "/gnars-docs/docs/Level-3/manage-docs-versions-94b": {
+  "/gnars-docs/fr/docs/Level-3/manage-docs-versions-b4c": {
     "__comp": "17896441",
     "content": "52088c19"
   },
-  "/gnars-docs/docs/Level-3/translate-your-site-3a2": {
+  "/gnars-docs/fr/docs/Level-3/translate-your-site-95a": {
     "__comp": "17896441",
     "content": "ad89e399"
   },
-  "/gnars-docs/-bb9": {
+  "/gnars-docs/fr/-348": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "703fe9b1"

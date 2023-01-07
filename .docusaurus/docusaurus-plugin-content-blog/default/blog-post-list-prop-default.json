@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/gnars-docs/blog/welcome"
+      "permalink": "/gnars-docs/fr/blog/welcome"
     },
     {
-      "title": "MDX Blog Post",
-      "permalink": "/gnars-docs/blog/mdx-blog-post"
+      "title": "Trickpedia",
+      "permalink": "/gnars-docs/fr/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/gnars-docs/blog/long-blog-post"
+      "permalink": "/gnars-docs/fr/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/gnars-docs/blog/first-blog-post"
+      "permalink": "/gnars-docs/fr/blog/first-blog-post"
     }
   ]
 }

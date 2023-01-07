@@ -1,83 +1,83 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/gnars-docs/docs",
+      "path": "/gnars-docs/fr/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/gnars-docs/docs",
+          "path": "/gnars-docs/fr/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/gnars-docs/docs/intro",
+              "path": "/gnars-docs/fr/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/how-do-i-get-first-gnar",
-              "path": "/gnars-docs/docs/Level-1/how-do-i-get-first-gnar",
+              "path": "/gnars-docs/fr/docs/Level-1/how-do-i-get-first-gnar",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/how-to-create-wallet",
-              "path": "/gnars-docs/docs/Level-1/how-to-create-wallet",
+              "path": "/gnars-docs/fr/docs/Level-1/how-to-create-wallet",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/how-to-use-discord",
-              "path": "/gnars-docs/docs/Level-1/how-to-use-discord",
+              "path": "/gnars-docs/fr/docs/Level-1/how-to-use-discord",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/what-gnars-nft-can-do",
-              "path": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do",
+              "path": "/gnars-docs/fr/docs/Level-1/what-gnars-nft-can-do",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/what-is-a-NFT",
-              "path": "/gnars-docs/docs/Level-1/what-is-a-NFT",
+              "path": "/gnars-docs/fr/docs/Level-1/what-is-a-NFT",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-1/what-is-ethereum",
-              "path": "/gnars-docs/docs/Level-1/what-is-ethereum",
+              "path": "/gnars-docs/fr/docs/Level-1/what-is-ethereum",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-2/2-1-verifying-your-gnar",
-              "path": "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar",
+              "path": "/gnars-docs/fr/docs/Level-2/2-1-verifying-your-gnar",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-2/translate-your-site",
-              "path": "/gnars-docs/docs/Level-2/translate-your-site",
+              "path": "/gnars-docs/fr/docs/Level-2/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-3/manage-docs-versions",
-              "path": "/gnars-docs/docs/Level-3/manage-docs-versions",
+              "path": "/gnars-docs/fr/docs/Level-3/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Level-3/translate-your-site",
-              "path": "/gnars-docs/docs/Level-3/translate-your-site",
+              "path": "/gnars-docs/fr/docs/Level-3/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/-level-1---enter-gnarnia",
-              "path": "/gnars-docs/docs/category/-level-1---enter-gnarnia",
+              "path": "/gnars-docs/fr/docs/category/-level-1---enter-gnarnia",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/-level-2---welcome-to-club",
-              "path": "/gnars-docs/docs/category/-level-2---welcome-to-club",
+              "path": "/gnars-docs/fr/docs/category/-level-2---welcome-to-club",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/-level-3---gettin-gnarlier",
-              "path": "/gnars-docs/docs/category/-level-3---gettin-gnarlier",
+              "path": "/gnars-docs/fr/docs/category/-level-3---gettin-gnarlier",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -85,7 +85,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/gnars-docs/docs/intro",
+                "path": "/gnars-docs/fr/docs/intro",
                 "label": "intro"
               }
             }

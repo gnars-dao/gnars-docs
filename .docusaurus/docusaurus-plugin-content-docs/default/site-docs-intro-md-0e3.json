@@ -1,12 +1,12 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "intro",
-  "description": "<<<<<<< HEAD",
+  "title": "🐣 - Intro",
+  "description": "Let's discover Gnars Dao in less than 5 minutes.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/gnars-docs/docs/intro",
+  "permalink": "/gnars-docs/fr/docs/intro",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
   "tags": [],
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "🛹 Level 1 - Enter Gnarnia",
-    "permalink": "/gnars-docs/docs/category/-level-1---enter-gnarnia"
+    "permalink": "/gnars-docs/fr/docs/category/-level-1---enter-gnarnia"
   }
 }

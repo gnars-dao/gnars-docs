@@ -28,7 +28,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en','pt-br','fr'],
   },
 
   presets: [
@@ -78,6 +78,10 @@ const config = {
             href: 'https://github.com/sktbrd/gnars-docs',
             label: 'GitHub',
             position: 'right',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'left',
           },
         ],
       },

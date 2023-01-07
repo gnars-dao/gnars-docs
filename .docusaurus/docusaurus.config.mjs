@@ -7,7 +7,7 @@ export default {
   "title": "Gnarly Docs ⌐◨-◨",
   "tagline": "Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools",
   "url": "https://sktbrd.github.io",
-  "baseUrl": "/gnars-docs/",
+  "baseUrl": "/gnars-docs/fr/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -18,7 +18,9 @@ export default {
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en"
+      "en",
+      "pt-br",
+      "fr"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -64,6 +66,12 @@ export default {
           "href": "https://github.com/sktbrd/gnars-docs",
           "label": "GitHub",
           "position": "right"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "left",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false
