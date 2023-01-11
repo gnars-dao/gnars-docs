@@ -20,7 +20,7 @@ cd gnars-docs
 npm run start
 ```
 
-You gotta have Node.Js and know some shit, or you can just be gnarly about it 
+You gotta have [Node.Js](https://nodejs.org/en/) and know some shit, or you can just be gnarly about it 
 
 
 ![](https://i.ibb.co/G25YWmL/image.png)
