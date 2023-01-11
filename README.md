@@ -1,11 +1,14 @@
 # Gnarly Docs ⌐◨-◨
 
+Live View: https://sktbrd.github.io/gnars-docs/ 
+
 # Repository for Gnars Docs and Tutorials 
 
-> You can contribute by directly editing the .md files in `/docs` folder
+Lets make the most complete community guide of the internet!
+
+> You can contribute by directly editing the .md files in `/docs` folder. 
 
 ## If you wanna run localy: 
-
 
 Fork it, or not  
 
