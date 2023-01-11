@@ -8,7 +8,7 @@ Lets make the most complete community guide of the internet!
 
 > You can contribute by directly editing the .md files in `/docs` folder. 
 
-## If you wanna run localy: 
+## If you wanna run localy like a pro: 
 
 Fork it, or not  
 
