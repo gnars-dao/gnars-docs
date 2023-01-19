@@ -81,8 +81,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Level-3/bots",
+              "path": "/gnars-docs/docs/Level-3/bots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Level-3/manage-docs-versions",
               "path": "/gnars-docs/docs/Level-3/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-3/nounish-lifestyle",
+              "path": "/gnars-docs/docs/Level-3/nounish-lifestyle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Level-3/nounish-lifestyle copy",
+              "path": "/gnars-docs/docs/Level-3/nounish-lifestyle copy",
               "sidebar": "tutorialSidebar"
             },
             {

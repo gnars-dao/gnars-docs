@@ -95,6 +95,21 @@ const config = {
           },
           {
             type: 'dropdown',
+            label: 'Projects',
+            position:'left',
+            items: [
+              {
+                label: 'ThatsGnarly',
+                href: 'https://thatsgnar.ly'
+              },
+              {
+                label: 'OpenSea',
+                href: 'https://opensea.io/collection/gnars-v2'
+              }
+            ]
+          },
+          {
+            type: 'dropdown',
             label: 'Get a Gnar NFT',
             position:'left',
             items: [
@@ -152,8 +167,12 @@ const config = {
                 href: 'https://stoken.wtf',
               },
               {
-                label: '🌊 Surfhive',
+                label: '🌊 Surfhive App',
                 href: 'https://peakd.com/c/hive-141964/created',
+              },
+              {
+                label: '🤘 Thats Gnarly',
+                href: 'https://thatsgnar.ly',
               },
             ],
           },

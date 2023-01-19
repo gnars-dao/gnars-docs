@@ -394,6 +394,33 @@
               }
             },
             {
+              "unversionedId": "Level-3/bots",
+              "id": "Level-3/bots",
+              "title": "Bots",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/Level-3/bots.md",
+              "sourceDirName": "Level-3",
+              "slug": "/Level-3/bots",
+              "permalink": "/gnars-docs/docs/Level-3/bots",
+              "draft": false,
+              "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/bots.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Spreading the Nounish Lifestyle",
+                "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/gnars-docs/docs/Level-3/translate-your-site"
+              }
+            },
+            {
               "unversionedId": "Level-3/manage-docs-versions",
               "id": "Level-3/manage-docs-versions",
               "title": "Manage Docs Versions",
@@ -416,8 +443,62 @@
                 "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
               },
               "next": {
-                "title": "Translate your site",
-                "permalink": "/gnars-docs/docs/Level-3/translate-your-site"
+                "title": "Hardware Wallets",
+                "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle copy"
+              }
+            },
+            {
+              "unversionedId": "Level-3/nounish-lifestyle",
+              "id": "Level-3/nounish-lifestyle",
+              "title": "Spreading the Nounish Lifestyle",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/Level-3/nounish-lifestyle.md",
+              "sourceDirName": "Level-3",
+              "slug": "/Level-3/nounish-lifestyle",
+              "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle",
+              "draft": false,
+              "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/nounish-lifestyle.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Hardware Wallets",
+                "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle copy"
+              },
+              "next": {
+                "title": "Bots",
+                "permalink": "/gnars-docs/docs/Level-3/bots"
+              }
+            },
+            {
+              "unversionedId": "Level-3/nounish-lifestyle copy",
+              "id": "Level-3/nounish-lifestyle copy",
+              "title": "Hardware Wallets",
+              "description": "",
+              "source": "@site/docs/Level-3/nounish-lifestyle copy.md",
+              "sourceDirName": "Level-3",
+              "slug": "/Level-3/nounish-lifestyle copy",
+              "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle copy",
+              "draft": false,
+              "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/nounish-lifestyle copy.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/gnars-docs/docs/Level-3/manage-docs-versions"
+              },
+              "next": {
+                "title": "Spreading the Nounish Lifestyle",
+                "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle"
               }
             },
             {
@@ -439,8 +520,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/gnars-docs/docs/Level-3/manage-docs-versions"
+                "title": "Bots",
+                "permalink": "/gnars-docs/docs/Level-3/bots"
               }
             }
           ],
@@ -539,6 +620,18 @@
                   {
                     "type": "doc",
                     "id": "Level-3/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Level-3/nounish-lifestyle copy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Level-3/nounish-lifestyle"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Level-3/bots"
                   },
                   {
                     "type": "doc",

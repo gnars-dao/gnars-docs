@@ -125,6 +125,24 @@
           },
           {
             "type": "link",
+            "label": "Hardware Wallets",
+            "href": "/gnars-docs/docs/Level-3/nounish-lifestyle copy",
+            "docId": "Level-3/nounish-lifestyle copy"
+          },
+          {
+            "type": "link",
+            "label": "Spreading the Nounish Lifestyle",
+            "href": "/gnars-docs/docs/Level-3/nounish-lifestyle",
+            "docId": "Level-3/nounish-lifestyle"
+          },
+          {
+            "type": "link",
+            "label": "Bots",
+            "href": "/gnars-docs/docs/Level-3/bots",
+            "docId": "Level-3/bots"
+          },
+          {
+            "type": "link",
             "label": "Translate your site",
             "href": "/gnars-docs/docs/Level-3/translate-your-site",
             "docId": "Level-3/translate-your-site"
@@ -219,10 +237,28 @@
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"
     },
+    "Level-3/bots": {
+      "id": "Level-3/bots",
+      "title": "Bots",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
     "Level-3/manage-docs-versions": {
       "id": "Level-3/manage-docs-versions",
       "title": "Manage Docs Versions",
       "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-3/nounish-lifestyle": {
+      "id": "Level-3/nounish-lifestyle",
+      "title": "Spreading the Nounish Lifestyle",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-3/nounish-lifestyle copy": {
+      "id": "Level-3/nounish-lifestyle copy",
+      "title": "Hardware Wallets",
+      "description": "",
       "sidebar": "tutorialSidebar"
     },
     "Level-3/translate-your-site": {

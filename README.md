@@ -2,6 +2,8 @@
 
 Live View: https://sktbrd.github.io/gnars-docs/ 
 
+![](https://i.ibb.co/zXk6YdR/image.png)
+
 # Repository for Gnars Docs and Tutorials 
 
 Lets make the most complete community guide of the internet!

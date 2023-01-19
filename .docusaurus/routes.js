@@ -99,7 +99,7 @@ export default [
   },
   {
     path: '/gnars-docs/docs',
-    component: ComponentCreator('/gnars-docs/docs', '990'),
+    component: ComponentCreator('/gnars-docs/docs', '3aa'),
     routes: [
       {
         path: '/gnars-docs/docs/category/-level-1---enter-gnarnia',
@@ -204,8 +204,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/gnars-docs/docs/Level-3/bots',
+        component: ComponentCreator('/gnars-docs/docs/Level-3/bots', '79c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/gnars-docs/docs/Level-3/manage-docs-versions',
         component: ComponentCreator('/gnars-docs/docs/Level-3/manage-docs-versions', '94b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/gnars-docs/docs/Level-3/nounish-lifestyle',
+        component: ComponentCreator('/gnars-docs/docs/Level-3/nounish-lifestyle', 'deb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/gnars-docs/docs/Level-3/nounish-lifestyle copy',
+        component: ComponentCreator('/gnars-docs/docs/Level-3/nounish-lifestyle copy', 'fd3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
