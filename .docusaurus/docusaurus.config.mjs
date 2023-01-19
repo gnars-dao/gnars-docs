@@ -64,11 +64,6 @@ export default {
           "label": "Tutorials"
         },
         {
-          "to": "/blog",
-          "label": "🛹 Trickpedia",
-          "position": "left"
-        },
-        {
           "href": "https://github.com/sktbrd/gnars-docs",
           "label": "GitHub",
           "position": "right"
@@ -89,7 +84,7 @@ export default {
               "href": "https://thatsgnar.ly"
             },
             {
-              "label": "OpenSea",
+              "label": "Skatehive",
               "href": "https://opensea.io/collection/gnars-v2"
             }
           ]
@@ -106,6 +101,21 @@ export default {
             {
               "label": "OpenSea",
               "href": "https://opensea.io/collection/gnars-v2"
+            }
+          ]
+        },
+        {
+          "type": "dropdown",
+          "label": "Games",
+          "position": "left",
+          "items": [
+            {
+              "label": "Quest For Stoken",
+              "href": "https://gnars.wtf"
+            },
+            {
+              "label": "Grinderz",
+              "href": "https://gnars.fun/"
             }
           ]
         }
@@ -150,7 +160,7 @@ export default {
           "items": [
             {
               "label": "🛹 Skatehive App",
-              "href": "https://stoken.wtf"
+              "href": "https://skatehive.app"
             },
             {
               "label": "🌊 Surfhive App",
