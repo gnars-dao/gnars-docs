@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Level-3/bots",
+  "id": "Level-3/bots",
+  "title": "Bots",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/Level-3/bots.md",
+  "sourceDirName": "Level-3",
+  "slug": "/Level-3/bots",
+  "permalink": "/gnars-docs/docs/Level-3/bots",
+  "draft": false,
+  "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/bots.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spreading the Nounish Lifestyle",
+    "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle"
+  }
+}
