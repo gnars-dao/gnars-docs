@@ -271,9 +271,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.53f92a04.js",
-          "hash": "ccc0834ebb612cd9",
-          "publicPath": "/gnars-docs/assets/js/main.53f92a04.js"
+          "file": "assets/js/main.9327b056.js",
+          "hash": "1f95bd1efba9cff3",
+          "publicPath": "/gnars-docs/assets/js/main.9327b056.js"
         }
       ]
     },
@@ -344,7 +344,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.4dbe14fc.js",
-          "hash": "d0eb47f89c96bd34",
+          "hash": "a1c54a0884457795",
           "publicPath": "/gnars-docs/assets/js/runtime~main.4dbe14fc.js"
         }
       ]

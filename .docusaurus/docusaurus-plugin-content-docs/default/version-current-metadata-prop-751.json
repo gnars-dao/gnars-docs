@@ -119,12 +119,6 @@
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/gnars-docs/docs/Level-3/manage-docs-versions",
-            "docId": "Level-3/manage-docs-versions"
-          },
-          {
-            "type": "link",
             "label": "Hardware Wallets",
             "href": "/gnars-docs/docs/Level-3/nounish-lifestyle copy",
             "docId": "Level-3/nounish-lifestyle copy"
@@ -241,12 +235,6 @@
       "id": "Level-3/bots",
       "title": "Bots",
       "description": "Let's translate docs/intro.md to French.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Level-3/manage-docs-versions": {
-      "id": "Level-3/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
       "sidebar": "tutorialSidebar"
     },
     "Level-3/nounish-lifestyle": {

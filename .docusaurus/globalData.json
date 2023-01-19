@@ -86,11 +86,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Level-3/manage-docs-versions",
-              "path": "/gnars-docs/docs/Level-3/manage-docs-versions",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Level-3/nounish-lifestyle",
               "path": "/gnars-docs/docs/Level-3/nounish-lifestyle",
               "sidebar": "tutorialSidebar"

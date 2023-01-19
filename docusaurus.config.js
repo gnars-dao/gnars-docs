@@ -28,7 +28,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en','fr'],
   },
 
   presets: [
@@ -82,7 +82,7 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Tutorials',
-          },
+          },  
 /**        {
             to: '/blog',
             label: '🛹 Trickpedia',
@@ -108,6 +108,10 @@ const config = {
               },
               {
                 label: 'Skatehive',
+                href: 'https://skatehive.app'
+              },
+              {
+                label: 'Alps DAO',
                 href: 'https://opensea.io/collection/gnars-v2'
               }
             ]
@@ -134,7 +138,7 @@ const config = {
             items: [
               {
                 label: 'Quest For Stoken',
-                href: 'https://gnars.wtf'
+                href: 'https://stoken.quest/'
               },
               {
                 label: 'Grinderz',

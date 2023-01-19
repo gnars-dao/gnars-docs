@@ -193,7 +193,7 @@
       "plugin": "plugin---gnars-docs-searchd-4-a-3b4"
     }
   },
-  "/gnars-docs/docs-3aa": {
+  "/gnars-docs/docs-bfb": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---gnars-docs-docsf-16-c03"
@@ -271,10 +271,6 @@
   "/gnars-docs/docs/Level-3/bots-79c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---gnars-docs-docs-level-3-botsa-34-3d8"
-  },
-  "/gnars-docs/docs/Level-3/manage-docs-versions-94b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-3-manage-docs-versions-520-bc6"
   },
   "/gnars-docs/docs/Level-3/nounish-lifestyle-deb": {
     "__comp": "__comp---theme-doc-item-178-a40",

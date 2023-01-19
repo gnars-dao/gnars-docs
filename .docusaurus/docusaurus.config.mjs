@@ -18,7 +18,8 @@ export default {
   "i18n": {
     "defaultLocale": "en",
     "locales": [
-      "en"
+      "en",
+      "fr"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -85,6 +86,10 @@ export default {
             },
             {
               "label": "Skatehive",
+              "href": "https://skatehive.app"
+            },
+            {
+              "label": "Alps DAO",
               "href": "https://opensea.io/collection/gnars-v2"
             }
           ]

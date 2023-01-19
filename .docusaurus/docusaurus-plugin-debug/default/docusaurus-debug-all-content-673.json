@@ -421,33 +421,6 @@
               }
             },
             {
-              "unversionedId": "Level-3/manage-docs-versions",
-              "id": "Level-3/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/Level-3/manage-docs-versions.md",
-              "sourceDirName": "Level-3",
-              "slug": "/Level-3/manage-docs-versions",
-              "permalink": "/gnars-docs/docs/Level-3/manage-docs-versions",
-              "draft": false,
-              "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/manage-docs-versions.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "🛹 Level 3 - Gettin’ Gnarlier",
-                "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
-              },
-              "next": {
-                "title": "Hardware Wallets",
-                "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle copy"
-              }
-            },
-            {
               "unversionedId": "Level-3/nounish-lifestyle",
               "id": "Level-3/nounish-lifestyle",
               "title": "Spreading the Nounish Lifestyle",
@@ -493,8 +466,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/gnars-docs/docs/Level-3/manage-docs-versions"
+                "title": "🛹 Level 3 - Gettin’ Gnarlier",
+                "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
               },
               "next": {
                 "title": "Spreading the Nounish Lifestyle",
@@ -617,10 +590,6 @@
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
-                  {
-                    "type": "doc",
-                    "id": "Level-3/manage-docs-versions"
-                  },
                   {
                     "type": "doc",
                     "id": "Level-3/nounish-lifestyle copy"
