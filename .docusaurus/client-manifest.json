@@ -53,18 +53,12 @@
       532,
       1303
     ],
-    "006d889b": [
-      5701
-    ],
     "01a85c17": [
       532,
       4013
     ],
     "051a9e3d": [
       7739
-    ],
-    "0e384e19": [
-      9671
     ],
     "14eb3368": [
       532,
@@ -89,23 +83,35 @@
     "2b51d100": [
       1489
     ],
+    "2ff2a0f4": [
+      1291
+    ],
     "383ce887": [
       4383
     ],
     "393be207": [
       7414
     ],
+    "480004d9": [
+      9310
+    ],
     "48c1e311": [
       1206
     ],
-    "4a18f298": [
-      1667
+    "57a1d77e": [
+      1467
     ],
-    "52088c19": [
-      1180
+    "59c9b7d4": [
+      7889
+    ],
+    "5c6eeea0": [
+      1355
     ],
     "5cee5653": [
       5918
+    ],
+    "673058a8": [
+      1641
     ],
     "6875c492": [
       143,
@@ -113,14 +119,17 @@
       2529,
       8610
     ],
+    "6e1d03ec": [
+      1500
+    ],
     "703fe9b1": [
       6405
     ],
-    "729a4b0b": [
-      7894
-    ],
     "73664a40": [
       3514
+    ],
+    "73be2dbd": [
+      7782
     ],
     "76445d59": [
       5810
@@ -128,26 +137,11 @@
     "7661071f": [
       9642
     ],
-    "79aebea8": [
-      1715
-    ],
-    "7cbac9a9": [
-      5816
-    ],
     "814f3328": [
       2535
     ],
     "8717b14a": [
       948
-    ],
-    "881a74d4": [
-      3888
-    ],
-    "8919a7b0": [
-      3971
-    ],
-    "8b77a9db": [
-      8398
     ],
     "8e34322a": [
       1476
@@ -155,14 +149,17 @@
     "935f2afb": [
       53
     ],
-    "9bd0b758": [
-      6275
-    ],
     "9e4087bc": [
       3608
     ],
+    "9f0d4a29": [
+      5316
+    ],
     "a34b5da6": [
       7666
+    ],
+    "a4417624": [
+      5572
     ],
     "a6aa9e1f": [
       143,
@@ -182,8 +179,14 @@
     "ad89e399": [
       3811
     ],
+    "b54c4cb0": [
+      5323
+    ],
     "bd6ef198": [
       7836
+    ],
+    "c10ecd08": [
+      2041
     ],
     "c4f5d8e4": [
       532,
@@ -195,26 +198,20 @@
       2529,
       6103
     ],
-    "d0ead7bb": [
-      8176
-    ],
     "d4a48d62": [
       526
     ],
     "d95e9c72": [
       5692
     ],
-    "d9747260": [
-      3056
-    ],
     "d9f32620": [
       1914
     ],
+    "e19adede": [
+      5378
+    ],
     "e4be51fd": [
       5546
-    ],
-    "e5e69591": [
-      8793
     ],
     "e8306329": [
       5991
@@ -253,9 +250,9 @@
     "53": {
       "js": [
         {
-          "file": "assets/js/935f2afb.57aa0c80.js",
-          "hash": "cf289b3d8a35f2a3",
-          "publicPath": "/gnars-docs/assets/js/935f2afb.57aa0c80.js"
+          "file": "assets/js/935f2afb.ca1bdfab.js",
+          "hash": "124d8ec35ed4cbb5",
+          "publicPath": "/gnars-docs/fr/assets/js/935f2afb.ca1bdfab.js"
         }
       ]
     },
@@ -264,25 +261,25 @@
         {
           "file": "assets/js/143.54c1ee62.js",
           "hash": "7f4ed1ff4eb1b76a",
-          "publicPath": "/gnars-docs/assets/js/143.54c1ee62.js"
+          "publicPath": "/gnars-docs/fr/assets/js/143.54c1ee62.js"
         }
       ]
     },
     "179": {
       "js": [
         {
-          "file": "assets/js/main.9327b056.js",
-          "hash": "1f95bd1efba9cff3",
-          "publicPath": "/gnars-docs/assets/js/main.9327b056.js"
+          "file": "assets/js/main.842b5863.js",
+          "hash": "4a3e70dddc41a2c3",
+          "publicPath": "/gnars-docs/fr/assets/js/main.842b5863.js"
         }
       ]
     },
     "236": {
       "js": [
         {
-          "file": "assets/js/abd0ca9a.76d01730.js",
-          "hash": "9e714aff96f1f858",
-          "publicPath": "/gnars-docs/assets/js/abd0ca9a.76d01730.js"
+          "file": "assets/js/abd0ca9a.4298e96f.js",
+          "hash": "76b175dbe17bc4a6",
+          "publicPath": "/gnars-docs/fr/assets/js/abd0ca9a.4298e96f.js"
         }
       ]
     },
@@ -291,7 +288,7 @@
         {
           "file": "assets/js/d4a48d62.2c19b983.js",
           "hash": "9d4dcce3cddf07d6",
-          "publicPath": "/gnars-docs/assets/js/d4a48d62.2c19b983.js"
+          "publicPath": "/gnars-docs/fr/assets/js/d4a48d62.2c19b983.js"
         }
       ]
     },
@@ -300,115 +297,142 @@
         {
           "file": "assets/css/styles.860ff119.css",
           "hash": "585a2bb826a0793c",
-          "publicPath": "/gnars-docs/assets/css/styles.860ff119.css"
+          "publicPath": "/gnars-docs/fr/assets/css/styles.860ff119.css"
         }
       ]
     },
     "914": {
       "js": [
         {
-          "file": "assets/js/a94c4a33.1be8585f.js",
-          "hash": "04618c52920da9e1",
-          "publicPath": "/gnars-docs/assets/js/a94c4a33.1be8585f.js"
+          "file": "assets/js/a94c4a33.55cc4b26.js",
+          "hash": "79da0fa36dadff07",
+          "publicPath": "/gnars-docs/fr/assets/js/a94c4a33.55cc4b26.js"
         }
       ]
     },
     "948": {
       "js": [
         {
-          "file": "assets/js/8717b14a.6522caa6.js",
-          "hash": "d6cbfb4eeb3bab1e",
-          "publicPath": "/gnars-docs/assets/js/8717b14a.6522caa6.js"
-        }
-      ]
-    },
-    "1180": {
-      "js": [
-        {
-          "file": "assets/js/52088c19.0de8d380.js",
-          "hash": "cb6b9417555764dc",
-          "publicPath": "/gnars-docs/assets/js/52088c19.0de8d380.js"
+          "file": "assets/js/8717b14a.18b01259.js",
+          "hash": "945557a18001dc44",
+          "publicPath": "/gnars-docs/fr/assets/js/8717b14a.18b01259.js"
         }
       ]
     },
     "1206": {
       "js": [
         {
-          "file": "assets/js/48c1e311.fd0cb605.js",
-          "hash": "ec1a3c8573120a6e",
-          "publicPath": "/gnars-docs/assets/js/48c1e311.fd0cb605.js"
+          "file": "assets/js/48c1e311.8256b130.js",
+          "hash": "82e218e26588ef88",
+          "publicPath": "/gnars-docs/fr/assets/js/48c1e311.8256b130.js"
+        }
+      ]
+    },
+    "1291": {
+      "js": [
+        {
+          "file": "assets/js/2ff2a0f4.635c45ea.js",
+          "hash": "d667d0799f58ca76",
+          "publicPath": "/gnars-docs/fr/assets/js/2ff2a0f4.635c45ea.js"
         }
       ]
     },
     "1303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.4dbe14fc.js",
-          "hash": "a1c54a0884457795",
-          "publicPath": "/gnars-docs/assets/js/runtime~main.4dbe14fc.js"
+          "file": "assets/js/runtime~main.196cb5d6.js",
+          "hash": "a8d42e0b6313055a",
+          "publicPath": "/gnars-docs/fr/assets/js/runtime~main.196cb5d6.js"
+        }
+      ]
+    },
+    "1355": {
+      "js": [
+        {
+          "file": "assets/js/5c6eeea0.0641c73d.js",
+          "hash": "8e855d5a8414f2fc",
+          "publicPath": "/gnars-docs/fr/assets/js/5c6eeea0.0641c73d.js"
+        }
+      ]
+    },
+    "1467": {
+      "js": [
+        {
+          "file": "assets/js/57a1d77e.2ae9d137.js",
+          "hash": "938f4a15749fd038",
+          "publicPath": "/gnars-docs/fr/assets/js/57a1d77e.2ae9d137.js"
         }
       ]
     },
     "1476": {
       "js": [
         {
-          "file": "assets/js/8e34322a.a0877763.js",
-          "hash": "abeb3d1ccfee444b",
-          "publicPath": "/gnars-docs/assets/js/8e34322a.a0877763.js"
+          "file": "assets/js/8e34322a.776fced5.js",
+          "hash": "6768bd68d8afdf51",
+          "publicPath": "/gnars-docs/fr/assets/js/8e34322a.776fced5.js"
         }
       ]
     },
     "1489": {
       "js": [
         {
-          "file": "assets/js/2b51d100.8ca898ab.js",
-          "hash": "fa3d8a1a308a26e6",
-          "publicPath": "/gnars-docs/assets/js/2b51d100.8ca898ab.js"
+          "file": "assets/js/2b51d100.f78da03b.js",
+          "hash": "a64367d8ebefc5e8",
+          "publicPath": "/gnars-docs/fr/assets/js/2b51d100.f78da03b.js"
         }
       ]
     },
-    "1667": {
+    "1500": {
       "js": [
         {
-          "file": "assets/js/4a18f298.1807109e.js",
-          "hash": "95b13715a67fce9b",
-          "publicPath": "/gnars-docs/assets/js/4a18f298.1807109e.js"
+          "file": "assets/js/6e1d03ec.82ed7db2.js",
+          "hash": "a6417208aef334dc",
+          "publicPath": "/gnars-docs/fr/assets/js/6e1d03ec.82ed7db2.js"
         }
       ]
     },
-    "1715": {
+    "1641": {
       "js": [
         {
-          "file": "assets/js/79aebea8.97631b56.js",
-          "hash": "99489531f4020715",
-          "publicPath": "/gnars-docs/assets/js/79aebea8.97631b56.js"
+          "file": "assets/js/673058a8.d44ad9df.js",
+          "hash": "b8ae301c46e6efdb",
+          "publicPath": "/gnars-docs/fr/assets/js/673058a8.d44ad9df.js"
         }
       ]
     },
     "1824": {
       "js": [
         {
-          "file": "assets/js/15907259.811d54a7.js",
-          "hash": "0eb7c321c67f93d2",
-          "publicPath": "/gnars-docs/assets/js/15907259.811d54a7.js"
+          "file": "assets/js/15907259.00d4ccfd.js",
+          "hash": "3b4307a2973a578d",
+          "publicPath": "/gnars-docs/fr/assets/js/15907259.00d4ccfd.js"
         }
       ]
     },
     "1914": {
       "js": [
         {
-          "file": "assets/js/d9f32620.eff669ba.js",
-          "hash": "04a7a519b5e6d6f6",
-          "publicPath": "/gnars-docs/assets/js/d9f32620.eff669ba.js"
+          "file": "assets/js/d9f32620.8d28cb7c.js",
+          "hash": "c1d067d92a7aeaeb",
+          "publicPath": "/gnars-docs/fr/assets/js/d9f32620.8d28cb7c.js"
+        }
+      ]
+    },
+    "2041": {
+      "js": [
+        {
+          "file": "assets/js/c10ecd08.446ed71f.js",
+          "hash": "1ed896d07be3470f",
+          "publicPath": "/gnars-docs/fr/assets/js/c10ecd08.446ed71f.js"
         }
       ]
     },
     "2267": {
       "js": [
         {
-          "file": "assets/js/59362658.49fc6d8e.js",
-          "hash": "ea91d7adc5b4d7d3",
-          "publicPath": "/gnars-docs/assets/js/59362658.49fc6d8e.js"
+          "file": "assets/js/59362658.18436525.js",
+          "hash": "19bd525309ab837a",
+          "publicPath": "/gnars-docs/fr/assets/js/59362658.18436525.js"
         }
       ]
     },
@@ -417,25 +441,16 @@
         {
           "file": "assets/js/2529.4fd7b9fe.js",
           "hash": "b0c58ebabf0b9747",
-          "publicPath": "/gnars-docs/assets/js/2529.4fd7b9fe.js"
+          "publicPath": "/gnars-docs/fr/assets/js/2529.4fd7b9fe.js"
         }
       ]
     },
     "2535": {
       "js": [
         {
-          "file": "assets/js/814f3328.b52c5b2d.js",
-          "hash": "ffb89fceb65d765f",
-          "publicPath": "/gnars-docs/assets/js/814f3328.b52c5b2d.js"
-        }
-      ]
-    },
-    "3056": {
-      "js": [
-        {
-          "file": "assets/js/d9747260.d8b439f8.js",
-          "hash": "9c10d5b9a7c2478c",
-          "publicPath": "/gnars-docs/assets/js/d9747260.d8b439f8.js"
+          "file": "assets/js/814f3328.8766ae0f.js",
+          "hash": "c89706f1e56046bb",
+          "publicPath": "/gnars-docs/fr/assets/js/814f3328.8766ae0f.js"
         }
       ]
     },
@@ -444,7 +459,7 @@
         {
           "file": "assets/js/1f391b9e.ecfd4338.js",
           "hash": "65d10421d40c6bed",
-          "publicPath": "/gnars-docs/assets/js/1f391b9e.ecfd4338.js"
+          "publicPath": "/gnars-docs/fr/assets/js/1f391b9e.ecfd4338.js"
         }
       ]
     },
@@ -453,16 +468,16 @@
         {
           "file": "assets/js/a6aa9e1f.49fdb278.js",
           "hash": "37a17da7d32ec2dc",
-          "publicPath": "/gnars-docs/assets/js/a6aa9e1f.49fdb278.js"
+          "publicPath": "/gnars-docs/fr/assets/js/a6aa9e1f.49fdb278.js"
         }
       ]
     },
     "3514": {
       "js": [
         {
-          "file": "assets/js/73664a40.ca3366b3.js",
-          "hash": "0dd06b10afb4fb8f",
-          "publicPath": "/gnars-docs/assets/js/73664a40.ca3366b3.js"
+          "file": "assets/js/73664a40.67b917d0.js",
+          "hash": "727eff37056df855",
+          "publicPath": "/gnars-docs/fr/assets/js/73664a40.67b917d0.js"
         }
       ]
     },
@@ -471,34 +486,16 @@
         {
           "file": "assets/js/9e4087bc.aa1545e6.js",
           "hash": "b0cc2e85e3e3884c",
-          "publicPath": "/gnars-docs/assets/js/9e4087bc.aa1545e6.js"
+          "publicPath": "/gnars-docs/fr/assets/js/9e4087bc.aa1545e6.js"
         }
       ]
     },
     "3811": {
       "js": [
         {
-          "file": "assets/js/ad89e399.feac2fb3.js",
-          "hash": "ccee4e06d0bae1e6",
-          "publicPath": "/gnars-docs/assets/js/ad89e399.feac2fb3.js"
-        }
-      ]
-    },
-    "3888": {
-      "js": [
-        {
-          "file": "assets/js/881a74d4.b6572c6a.js",
-          "hash": "6876d4019f27d6ea",
-          "publicPath": "/gnars-docs/assets/js/881a74d4.b6572c6a.js"
-        }
-      ]
-    },
-    "3971": {
-      "js": [
-        {
-          "file": "assets/js/8919a7b0.ee1b9bf7.js",
-          "hash": "b16720b793154ff9",
-          "publicPath": "/gnars-docs/assets/js/8919a7b0.ee1b9bf7.js"
+          "file": "assets/js/ad89e399.2c1cdebe.js",
+          "hash": "7b70464895c003d7",
+          "publicPath": "/gnars-docs/fr/assets/js/ad89e399.2c1cdebe.js"
         }
       ]
     },
@@ -507,7 +504,7 @@
         {
           "file": "assets/js/01a85c17.7b2d07de.js",
           "hash": "10c77419786fdc9e",
-          "publicPath": "/gnars-docs/assets/js/01a85c17.7b2d07de.js"
+          "publicPath": "/gnars-docs/fr/assets/js/01a85c17.7b2d07de.js"
         }
       ]
     },
@@ -516,16 +513,16 @@
         {
           "file": "assets/js/c4f5d8e4.765fc7c8.js",
           "hash": "352f174bafa1d698",
-          "publicPath": "/gnars-docs/assets/js/c4f5d8e4.765fc7c8.js"
+          "publicPath": "/gnars-docs/fr/assets/js/c4f5d8e4.765fc7c8.js"
         }
       ]
     },
     "4383": {
       "js": [
         {
-          "file": "assets/js/383ce887.a4bfc46c.js",
-          "hash": "852f82d1fc08a32c",
-          "publicPath": "/gnars-docs/assets/js/383ce887.a4bfc46c.js"
+          "file": "assets/js/383ce887.ced8e5a3.js",
+          "hash": "29f9d74770caef88",
+          "publicPath": "/gnars-docs/fr/assets/js/383ce887.ced8e5a3.js"
         }
       ]
     },
@@ -534,7 +531,7 @@
         {
           "file": "assets/js/f1603d7b.32191ab3.js",
           "hash": "e6256559024ebf5e",
-          "publicPath": "/gnars-docs/assets/js/f1603d7b.32191ab3.js"
+          "publicPath": "/gnars-docs/fr/assets/js/f1603d7b.32191ab3.js"
         }
       ]
     },
@@ -543,12 +540,39 @@
         {
           "file": "assets/js/4972.49f92c1f.js",
           "hash": "b80767a81fd6243f",
-          "publicPath": "/gnars-docs/assets/js/4972.49f92c1f.js"
+          "publicPath": "/gnars-docs/fr/assets/js/4972.49f92c1f.js"
         },
         {
           "file": "assets/js/1be78505.2fcd406a.js",
           "hash": "512079f20a3933b2",
-          "publicPath": "/gnars-docs/assets/js/1be78505.2fcd406a.js"
+          "publicPath": "/gnars-docs/fr/assets/js/1be78505.2fcd406a.js"
+        }
+      ]
+    },
+    "5316": {
+      "js": [
+        {
+          "file": "assets/js/9f0d4a29.952681b0.js",
+          "hash": "acac658b5fbae62c",
+          "publicPath": "/gnars-docs/fr/assets/js/9f0d4a29.952681b0.js"
+        }
+      ]
+    },
+    "5323": {
+      "js": [
+        {
+          "file": "assets/js/b54c4cb0.38b04cd7.js",
+          "hash": "ad0121567cff97f4",
+          "publicPath": "/gnars-docs/fr/assets/js/b54c4cb0.38b04cd7.js"
+        }
+      ]
+    },
+    "5378": {
+      "js": [
+        {
+          "file": "assets/js/e19adede.ccd30d36.js",
+          "hash": "ab68ae4c02b2b0c8",
+          "publicPath": "/gnars-docs/fr/assets/js/e19adede.ccd30d36.js"
         }
       ]
     },
@@ -557,16 +581,25 @@
         {
           "file": "assets/js/5525.17e8a6ff.js",
           "hash": "aee6c0813c54c30d",
-          "publicPath": "/gnars-docs/assets/js/5525.17e8a6ff.js"
+          "publicPath": "/gnars-docs/fr/assets/js/5525.17e8a6ff.js"
         }
       ]
     },
     "5546": {
       "js": [
         {
-          "file": "assets/js/e4be51fd.05898639.js",
-          "hash": "a5ad7a4356191e2a",
-          "publicPath": "/gnars-docs/assets/js/e4be51fd.05898639.js"
+          "file": "assets/js/e4be51fd.0711f0ce.js",
+          "hash": "1fa32b72edf27034",
+          "publicPath": "/gnars-docs/fr/assets/js/e4be51fd.0711f0ce.js"
+        }
+      ]
+    },
+    "5572": {
+      "js": [
+        {
+          "file": "assets/js/a4417624.074c3c48.js",
+          "hash": "7a3e41de46de2f96",
+          "publicPath": "/gnars-docs/fr/assets/js/a4417624.074c3c48.js"
         }
       ]
     },
@@ -575,52 +608,34 @@
         {
           "file": "assets/js/d95e9c72.668c907d.js",
           "hash": "d9a2f006584a48df",
-          "publicPath": "/gnars-docs/assets/js/d95e9c72.668c907d.js"
-        }
-      ]
-    },
-    "5701": {
-      "js": [
-        {
-          "file": "assets/js/006d889b.10c56568.js",
-          "hash": "6c202ad2d4ce0495",
-          "publicPath": "/gnars-docs/assets/js/006d889b.10c56568.js"
+          "publicPath": "/gnars-docs/fr/assets/js/d95e9c72.668c907d.js"
         }
       ]
     },
     "5810": {
       "js": [
         {
-          "file": "assets/js/76445d59.21e3a128.js",
-          "hash": "8c4ef4b2228497ab",
-          "publicPath": "/gnars-docs/assets/js/76445d59.21e3a128.js"
-        }
-      ]
-    },
-    "5816": {
-      "js": [
-        {
-          "file": "assets/js/7cbac9a9.19f67da4.js",
-          "hash": "402cc52870e70ef9",
-          "publicPath": "/gnars-docs/assets/js/7cbac9a9.19f67da4.js"
+          "file": "assets/js/76445d59.a4936881.js",
+          "hash": "fdc563c9da9db994",
+          "publicPath": "/gnars-docs/fr/assets/js/76445d59.a4936881.js"
         }
       ]
     },
     "5918": {
       "js": [
         {
-          "file": "assets/js/5cee5653.50ae1e2f.js",
-          "hash": "ea86d97975a2a45a",
-          "publicPath": "/gnars-docs/assets/js/5cee5653.50ae1e2f.js"
+          "file": "assets/js/5cee5653.5d7e0086.js",
+          "hash": "c8c7828e5ef065ed",
+          "publicPath": "/gnars-docs/fr/assets/js/5cee5653.5d7e0086.js"
         }
       ]
     },
     "5991": {
       "js": [
         {
-          "file": "assets/js/e8306329.1ba3ea18.js",
-          "hash": "3f9160b45b084aaa",
-          "publicPath": "/gnars-docs/assets/js/e8306329.1ba3ea18.js"
+          "file": "assets/js/e8306329.681bd21a.js",
+          "hash": "412711b9e684424b",
+          "publicPath": "/gnars-docs/fr/assets/js/e8306329.681bd21a.js"
         }
       ]
     },
@@ -629,25 +644,16 @@
         {
           "file": "assets/js/ccc49370.879d9f3e.js",
           "hash": "6758d2c0a3540434",
-          "publicPath": "/gnars-docs/assets/js/ccc49370.879d9f3e.js"
-        }
-      ]
-    },
-    "6275": {
-      "js": [
-        {
-          "file": "assets/js/9bd0b758.220b9f3f.js",
-          "hash": "e58a869e89de55e7",
-          "publicPath": "/gnars-docs/assets/js/9bd0b758.220b9f3f.js"
+          "publicPath": "/gnars-docs/fr/assets/js/ccc49370.879d9f3e.js"
         }
       ]
     },
     "6381": {
       "js": [
         {
-          "file": "assets/js/176b66fc.b72689bc.js",
-          "hash": "b85649c24da51929",
-          "publicPath": "/gnars-docs/assets/js/176b66fc.b72689bc.js"
+          "file": "assets/js/176b66fc.8b6d1310.js",
+          "hash": "6ce771feda365fa7",
+          "publicPath": "/gnars-docs/fr/assets/js/176b66fc.8b6d1310.js"
         }
       ]
     },
@@ -656,70 +662,79 @@
         {
           "file": "assets/js/703fe9b1.a74b46d0.js",
           "hash": "bdc7a6ba0233f784",
-          "publicPath": "/gnars-docs/assets/js/703fe9b1.a74b46d0.js"
+          "publicPath": "/gnars-docs/fr/assets/js/703fe9b1.a74b46d0.js"
         }
       ]
     },
     "7039": {
       "js": [
         {
-          "file": "assets/js/f9f122ab.3ada00cc.js",
-          "hash": "e24b1b80018a8fa2",
-          "publicPath": "/gnars-docs/assets/js/f9f122ab.3ada00cc.js"
+          "file": "assets/js/f9f122ab.c39b4faf.js",
+          "hash": "f4d190259f8516c0",
+          "publicPath": "/gnars-docs/fr/assets/js/f9f122ab.c39b4faf.js"
         }
       ]
     },
     "7414": {
       "js": [
         {
-          "file": "assets/js/393be207.39f9f726.js",
-          "hash": "b03b5b767240b4b1",
-          "publicPath": "/gnars-docs/assets/js/393be207.39f9f726.js"
+          "file": "assets/js/393be207.0ee6f889.js",
+          "hash": "2b9d70d2396f63e1",
+          "publicPath": "/gnars-docs/fr/assets/js/393be207.0ee6f889.js"
         }
       ]
     },
     "7666": {
       "js": [
         {
-          "file": "assets/js/a34b5da6.02a0d96b.js",
-          "hash": "bbaaedce63902610",
-          "publicPath": "/gnars-docs/assets/js/a34b5da6.02a0d96b.js"
+          "file": "assets/js/a34b5da6.36100c2c.js",
+          "hash": "e4e26bd5cd6dab16",
+          "publicPath": "/gnars-docs/fr/assets/js/a34b5da6.36100c2c.js"
         }
       ]
     },
     "7739": {
       "js": [
         {
-          "file": "assets/js/051a9e3d.53f3ad23.js",
-          "hash": "5f063cb25bdcf754",
-          "publicPath": "/gnars-docs/assets/js/051a9e3d.53f3ad23.js"
+          "file": "assets/js/051a9e3d.50e0fa18.js",
+          "hash": "0ad3dbbff26aefa1",
+          "publicPath": "/gnars-docs/fr/assets/js/051a9e3d.50e0fa18.js"
+        }
+      ]
+    },
+    "7782": {
+      "js": [
+        {
+          "file": "assets/js/73be2dbd.525334e9.js",
+          "hash": "a0144e4a3d06b974",
+          "publicPath": "/gnars-docs/fr/assets/js/73be2dbd.525334e9.js"
         }
       ]
     },
     "7827": {
       "js": [
         {
-          "file": "assets/js/f05a2965.89b19c89.js",
-          "hash": "939ca7cfe7d8169a",
-          "publicPath": "/gnars-docs/assets/js/f05a2965.89b19c89.js"
+          "file": "assets/js/f05a2965.11046163.js",
+          "hash": "f2d6f87dddc40760",
+          "publicPath": "/gnars-docs/fr/assets/js/f05a2965.11046163.js"
         }
       ]
     },
     "7836": {
       "js": [
         {
-          "file": "assets/js/bd6ef198.80324778.js",
-          "hash": "d47c44bb3d79632e",
-          "publicPath": "/gnars-docs/assets/js/bd6ef198.80324778.js"
+          "file": "assets/js/bd6ef198.019d63b8.js",
+          "hash": "1e8f710b7ffcb4d4",
+          "publicPath": "/gnars-docs/fr/assets/js/bd6ef198.019d63b8.js"
         }
       ]
     },
-    "7894": {
+    "7889": {
       "js": [
         {
-          "file": "assets/js/729a4b0b.f17e5277.js",
-          "hash": "3e27bb7ab278dd52",
-          "publicPath": "/gnars-docs/assets/js/729a4b0b.f17e5277.js"
+          "file": "assets/js/59c9b7d4.7926d69d.js",
+          "hash": "871ddbe984f595b7",
+          "publicPath": "/gnars-docs/fr/assets/js/59c9b7d4.7926d69d.js"
         }
       ]
     },
@@ -728,7 +743,7 @@
         {
           "file": "assets/js/17896441.b93f0809.js",
           "hash": "c3038a4536fccdcf",
-          "publicPath": "/gnars-docs/assets/js/17896441.b93f0809.js"
+          "publicPath": "/gnars-docs/fr/assets/js/17896441.b93f0809.js"
         }
       ]
     },
@@ -737,25 +752,7 @@
         {
           "file": "assets/js/1a4e3797.3262aa65.js",
           "hash": "51a646f8b5ecf9e7",
-          "publicPath": "/gnars-docs/assets/js/1a4e3797.3262aa65.js"
-        }
-      ]
-    },
-    "8176": {
-      "js": [
-        {
-          "file": "assets/js/d0ead7bb.04d403c8.js",
-          "hash": "552837f22515b6a2",
-          "publicPath": "/gnars-docs/assets/js/d0ead7bb.04d403c8.js"
-        }
-      ]
-    },
-    "8398": {
-      "js": [
-        {
-          "file": "assets/js/8b77a9db.28a8851e.js",
-          "hash": "5cda082e63262a8c",
-          "publicPath": "/gnars-docs/assets/js/8b77a9db.28a8851e.js"
+          "publicPath": "/gnars-docs/fr/assets/js/1a4e3797.3262aa65.js"
         }
       ]
     },
@@ -764,16 +761,16 @@
         {
           "file": "assets/js/8443.c3774136.js",
           "hash": "52982e66f24d5863",
-          "publicPath": "/gnars-docs/assets/js/8443.c3774136.js"
+          "publicPath": "/gnars-docs/fr/assets/js/8443.c3774136.js"
         }
       ]
     },
     "8465": {
       "js": [
         {
-          "file": "assets/js/a6c5af5a.744f65a3.js",
-          "hash": "e737655eccfe6b41",
-          "publicPath": "/gnars-docs/assets/js/a6c5af5a.744f65a3.js"
+          "file": "assets/js/a6c5af5a.80b899cc.js",
+          "hash": "3b7c1aced2925336",
+          "publicPath": "/gnars-docs/fr/assets/js/a6c5af5a.80b899cc.js"
         }
       ]
     },
@@ -782,43 +779,34 @@
         {
           "file": "assets/js/6875c492.850658b3.js",
           "hash": "ce93872e1b7a10b1",
-          "publicPath": "/gnars-docs/assets/js/6875c492.850658b3.js"
+          "publicPath": "/gnars-docs/fr/assets/js/6875c492.850658b3.js"
         }
       ]
     },
     "8636": {
       "js": [
         {
-          "file": "assets/js/f4f34a3a.1b964355.js",
-          "hash": "ccdf6da2383a9d03",
-          "publicPath": "/gnars-docs/assets/js/f4f34a3a.1b964355.js"
+          "file": "assets/js/f4f34a3a.e1dea043.js",
+          "hash": "24c3b780b93f388a",
+          "publicPath": "/gnars-docs/fr/assets/js/f4f34a3a.e1dea043.js"
         }
       ]
     },
-    "8793": {
+    "9310": {
       "js": [
         {
-          "file": "assets/js/e5e69591.a3fbf7ca.js",
-          "hash": "9f3d7dd09e01e9a4",
-          "publicPath": "/gnars-docs/assets/js/e5e69591.a3fbf7ca.js"
+          "file": "assets/js/480004d9.834ec1a6.js",
+          "hash": "ef53f583f55b2f3c",
+          "publicPath": "/gnars-docs/fr/assets/js/480004d9.834ec1a6.js"
         }
       ]
     },
     "9642": {
       "js": [
         {
-          "file": "assets/js/7661071f.9e94e27c.js",
-          "hash": "f6f18a5160ce11e6",
-          "publicPath": "/gnars-docs/assets/js/7661071f.9e94e27c.js"
-        }
-      ]
-    },
-    "9671": {
-      "js": [
-        {
-          "file": "assets/js/0e384e19.9ee63295.js",
-          "hash": "669075b6a77e2023",
-          "publicPath": "/gnars-docs/assets/js/0e384e19.9ee63295.js"
+          "file": "assets/js/7661071f.725f834e.js",
+          "hash": "94068b13e6c772d6",
+          "publicPath": "/gnars-docs/fr/assets/js/7661071f.725f834e.js"
         }
       ]
     },
@@ -827,7 +815,7 @@
         {
           "file": "assets/js/14eb3368.54c368ef.js",
           "hash": "269e9c100d3191ec",
-          "publicPath": "/gnars-docs/assets/js/14eb3368.54c368ef.js"
+          "publicPath": "/gnars-docs/fr/assets/js/14eb3368.54c368ef.js"
         }
       ]
     }

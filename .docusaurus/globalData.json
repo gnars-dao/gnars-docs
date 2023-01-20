@@ -96,6 +96,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Level-3/thats-gnarly",
+              "path": "/gnars-docs/docs/Level-3/thats-gnarly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Level-3/translate-your-site",
               "path": "/gnars-docs/docs/Level-3/translate-your-site",
               "sidebar": "tutorialSidebar"

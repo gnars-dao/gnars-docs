@@ -193,7 +193,7 @@
       "plugin": "plugin---gnars-docs-searchd-4-a-3b4"
     }
   },
-  "/gnars-docs/docs-bfb": {
+  "/gnars-docs/docs-898": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---gnars-docs-docsf-16-c03"
@@ -279,6 +279,10 @@
   "/gnars-docs/docs/Level-3/nounish-lifestyle copy-fd3": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---gnars-docs-docs-level-3-nounish-lifestyle-copyf-05-6da"
+  },
+  "/gnars-docs/docs/Level-3/thats-gnarly-e16": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---gnars-docs-docs-level-3-thats-gnarly-200-9af"
   },
   "/gnars-docs/docs/Level-3/translate-your-site-3a2": {
     "__comp": "__comp---theme-doc-item-178-a40",

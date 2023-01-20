@@ -1,0 +1,23 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "🐣 - Intro",
+  "description": "Let's discover Gnars Dao in less than 5 minutes.",
+  "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/gnars-docs/fr/docs/intro",
+  "draft": false,
+  "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "🛹 Level 1 - Enter Gnarnia",
+    "permalink": "/gnars-docs/fr/docs/category/-level-1---enter-gnarnia"
+  }
+}

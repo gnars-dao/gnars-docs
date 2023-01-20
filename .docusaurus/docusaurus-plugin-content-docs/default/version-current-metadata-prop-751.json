@@ -140,6 +140,12 @@
             "label": "Translate your site",
             "href": "/gnars-docs/docs/Level-3/translate-your-site",
             "docId": "Level-3/translate-your-site"
+          },
+          {
+            "type": "link",
+            "label": "Thatsgnar.ly - NFT Social media powered by Gnars",
+            "href": "/gnars-docs/docs/Level-3/thats-gnarly",
+            "docId": "Level-3/thats-gnarly"
           }
         ],
         "href": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
@@ -247,6 +253,12 @@
       "id": "Level-3/nounish-lifestyle copy",
       "title": "Hardware Wallets",
       "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Level-3/thats-gnarly": {
+      "id": "Level-3/thats-gnarly",
+      "title": "Thatsgnar.ly - NFT Social media powered by Gnars",
+      "description": "A week ago Gnars community launched ThatsGnar.ly, a new social movement owned by the extreme sports community where athletes and creators earn money for content they create.",
       "sidebar": "tutorialSidebar"
     },
     "Level-3/translate-your-site": {

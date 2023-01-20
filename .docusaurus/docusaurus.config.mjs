@@ -116,7 +116,7 @@ export default {
           "items": [
             {
               "label": "Quest For Stoken",
-              "href": "https://gnars.wtf"
+              "href": "https://stoken.quest/"
             },
             {
               "label": "Grinderz",

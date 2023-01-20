@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Level-3/thats-gnarly",
+  "id": "Level-3/thats-gnarly",
+  "title": "Thatsgnar.ly - NFT Social media powered by Gnars",
+  "description": "A week ago Gnars community launched ThatsGnar.ly, a new social movement owned by the extreme sports community where athletes and creators earn money for content they create.",
+  "source": "@site/docs/Level-3/thats-gnarly.md",
+  "sourceDirName": "Level-3",
+  "slug": "/Level-3/thats-gnarly",
+  "permalink": "/gnars-docs/docs/Level-3/thats-gnarly",
+  "draft": false,
+  "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/thats-gnarly.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/gnars-docs/docs/Level-3/translate-your-site"
+  }
+}

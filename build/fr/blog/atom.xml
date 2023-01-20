@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sktbrd.github.io/gnars-docs/fr/blog</id>
+    <title>Gnarly Docs ⌐◨-◨ Blog</title>
+    <updated>2023-01-07T06:42:51.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sktbrd.github.io/gnars-docs/fr/blog"/>
+    <subtitle>Gnarly Docs ⌐◨-◨ Blog</subtitle>
+    <icon>https://sktbrd.github.io/gnars-docs/fr/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[360 flip]]></title>
+        <id>first-blog-post</id>
+        <link href="https://sktbrd.github.io/gnars-docs/fr/blog/first-blog-post"/>
+        <updated>2023-01-07T06:42:51.000Z</updated>
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/rvyutE3qvJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content>
+        <author>
+            <name>Tom Roher</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="trickpedia" term="trickpedia"/>
+        <category label="skateboard" term="skateboard"/>
+        <category label="video" term="video"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Drop]]></title>
+        <id>drop</id>
+        <link href="https://sktbrd.github.io/gnars-docs/fr/blog/drop"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/gPdbd8O6438" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content>
+        <author>
+            <name>Tom Roher</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="trickpedia" term="trickpedia"/>
+        <category label="skateboard" term="skateboard"/>
+        <category label="video" term="video"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fs Ollie 180]]></title>
+        <id>mdx-blog-post</id>
+        <link href="https://sktbrd.github.io/gnars-docs/fr/blog/mdx-blog-post"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[alert('Its always 420 somewhere!')}>Tom Says]]></summary>
+        <content type="html"><![CDATA[<button>Tom Says</button><iframe width="560" height="315" src="https://www.youtube.com/embed/Ize_UuHKxJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content>
+        <author>
+            <name>Tom Roher</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="trickpedia" term="trickpedia"/>
+        <category label="skateboard" term="skateboard"/>
+        <category label="video" term="video"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[360 Pop Shuvit]]></title>
+        <id>long-blog-post</id>
+        <link href="https://sktbrd.github.io/gnars-docs/fr/blog/long-blog-post"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/K44MnTjMXBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content>
+        <author>
+            <name>Tom Roher</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="trickpedia" term="trickpedia"/>
+        <category label="skateboard" term="skateboard"/>
+        <category label="video" term="video"/>
+    </entry>
+</feed>
