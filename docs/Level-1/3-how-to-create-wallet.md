@@ -20,6 +20,11 @@ That's because wallets don't have custody of your funds, you do. They're just a 
 
 ## Easiest Way - Metamask 
 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/85296013/213943325-e8f6b851-438b-41c5-b1a5-d7d9cc5d1c51.gif)
+
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/85296013/213943341-09f0869e-a943-47ca-9443-857be9afd4f2.gif)
+
    
 ## Coolest way - ShapeShift + Metamask 
 
@@ -32,11 +37,3 @@ That's because wallets don't have custody of your funds, you do. They're just a 
 
 ETH is like a flip, hive still a hardflip, so you are going to learn that in Level 3.
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/85296013/213943325-e8f6b851-438b-41c5-b1a5-d7d9cc5d1c51.gif)
-
-
-
-
-
-
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/85296013/213943341-09f0869e-a943-47ca-9443-857be9afd4f2.gif)
