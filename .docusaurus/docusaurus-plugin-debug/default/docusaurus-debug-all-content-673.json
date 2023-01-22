@@ -412,7 +412,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Spreading the Nounish Lifestyle",
+                "title": "Spreading the ⌐◨-◨",
                 "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle"
               },
               "next": {
@@ -423,8 +423,8 @@
             {
               "unversionedId": "Level-3/nounish-lifestyle",
               "id": "Level-3/nounish-lifestyle",
-              "title": "Spreading the Nounish Lifestyle",
-              "description": "Docusaurus can manage multiple versions of your docs.",
+              "title": "Spreading the ⌐◨-◨",
+              "description": "",
               "source": "@site/docs/Level-3/nounish-lifestyle.md",
               "sourceDirName": "Level-3",
               "slug": "/Level-3/nounish-lifestyle",
@@ -470,7 +470,7 @@
                 "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
               },
               "next": {
-                "title": "Spreading the Nounish Lifestyle",
+                "title": "Spreading the ⌐◨-◨",
                 "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle"
               }
             },
