@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-3/nounish-lifestyle copy.md",
   "sourceDirName": "Level-3",
   "slug": "/Level-3/nounish-lifestyle copy",
-  "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle copy",
+  "permalink": "/gnars-docs/fr/docs/Level-3/nounish-lifestyle copy",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/nounish-lifestyle copy.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🛹 Level 3 - Gettin’ Gnarlier",
-    "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
+    "permalink": "/gnars-docs/fr/docs/category/-level-3---gettin-gnarlier"
   },
   "next": {
     "title": "Spreading the ⌐◨-◨",
-    "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle"
+    "permalink": "/gnars-docs/fr/docs/Level-3/nounish-lifestyle"
   }
 }

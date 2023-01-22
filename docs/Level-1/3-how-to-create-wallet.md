@@ -28,5 +28,9 @@ That's because wallets don't have custody of your funds, you do. They're just a 
 </video>
 
 
+## Hive Wallet 
+
+ETH is like a flip, hive still a hardflip, so you are going to learn that in Level 3.
+
 
 

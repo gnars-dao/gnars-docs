@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-2/2-4-how-to-use-eth-to-buy.md",
   "sourceDirName": "Level-2",
   "slug": "/Level-2/2-4-how-to-use-eth-to-buy",
-  "permalink": "/gnars-docs/docs/Level-2/2-4-how-to-use-eth-to-buy",
+  "permalink": "/gnars-docs/fr/docs/Level-2/2-4-how-to-use-eth-to-buy",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-4-how-to-use-eth-to-buy.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "2.3) How to vote in the DAO proposals?",
-    "permalink": "/gnars-docs/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals"
+    "permalink": "/gnars-docs/fr/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals"
   },
   "next": {
     "title": "2.5) Proposal Guidelines",
-    "permalink": "/gnars-docs/docs/Level-2/2-5-proposal-guidelines"
+    "permalink": "/gnars-docs/fr/docs/Level-2/2-5-proposal-guidelines"
   }
 }
