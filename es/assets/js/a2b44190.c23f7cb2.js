@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3697],{7931:e=>{e.exports=JSON.parse('[{"label":"trickpedia","permalink":"/gnars-docs/es/blog/tags/trickpedia","count":4},{"label":"skateboard","permalink":"/gnars-docs/es/blog/tags/skateboard","count":4},{"label":"video","permalink":"/gnars-docs/es/blog/tags/video","count":4}]')}}]);

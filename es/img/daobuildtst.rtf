@@ -1,0 +1,169 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 import web3\
+from web3 import Web3\
+from datetime import datetime, timedelta\
+\
+# define the Ethereum network provider\
+provider = Web3.HTTPProvider("https://mainnet.infura.io/v3/your-api-key")\
+\
+# create a web3 connection to the Ethereum network\
+w3 = Web3(provider)\
+\
+# define the contract addresses for the ERC 1155 and ERC 20 tokens\
+erc1155_contract_address = "0xea50837B942e8C44B62937A2ff5FfB6258373169"\
+erc20_contract_address = "0xdae70C69E07949505A305E158877b449a3F5053f"\
+\
+# define the ABIs for the ERC 1155 and ERC 20 contracts\
+erc1155_abi = [\
+    \{\
+        "inputs": [],\
+        "name": "name",\
+        "outputs": [\
+            \{\
+                "internalType": "string",\
+                "name": "",\
+                "type": "string"\
+            \}\
+        ],\
+        "stateMutability": "view",\
+        "type": "function"\
+    \},\
+    # other ABI definitions omitted for brevity\
+]\
+\
+erc20_abi = [\
+    \{\
+        "inputs": [],\
+        "name": "name",\
+        "outputs": [\
+            \{\
+                "internalType": "string",\
+                "name": "",\
+                "type": "string"\
+            \}\
+        ],\
+        "stateMutability": "view",\
+        "type": "function"\
+    \},\
+    # other ABI definitions omitted for brevity\
+]\
+\
+# create contract objects for the ERC 1155 and ERC 20 contracts\
+erc1155_contract = w3.eth.contract(address=erc1155_contract_address, abi=erc1155_abi)\
+erc20_contract = w3.eth.contract(address=erc20_contract_address, abi=erc20_abi)\
+\
+# define the list of voters and their wallet addresses\
+voters = [\
+    \{"name": "Alice", "wallet": "0x123...", "xcp_address": "1A..."\},\
+    \{"name": "Bob", "wallet": "0x456...", "xcp_address": "1B..."\},\
+    \{"name": "Charlie", "wallet": "0x789...", "xcp_address": "1C..."\},\
+    \{"name": "Diana", "wallet": "0xabc...", "xcp_address": "1D..."\},\
+]\
+\
+# define the list of votes\
+votes = [\
+    \{"voter": "Alice", "vote": "A"\},\
+    \{"voter": "Bob", "vote": "B"\},\
+    \{"voter": "Charlie", "vote": "C"\},\
+    \{"voter": "Diana", "vote": "A"\},\
+]\
+\
+# define the start and end times for the vote\
+start_time = datetime.utcnow()\
+end_time = start_time + timedelta(weeks=1)\
+\
+# check if the voting period is still active\
+if datetime.utcnow() < end_time:\
+    # create a dictionary to store the results\
+    results = \{\}\
+\
+    # loop through the votes and tally the results\
+    for vote in votes:\
+        voter_name = vote["voter"]\
+        choice = vote["vote"]\
+\
+        # find the voter's wallet and XCP address\
+        voter = next(v for v in voters if v["name"] == voter_name)\
+        wallet = voter["wallet"]\
+        xcp_address = voter["xcp_address"]\
+\
+               # check that the voter has at least one RAREALIEN.FROGCEPTION token\
+        rarealien_balance = w3.xcp.get_balance(xcp_address, "RAREALIEN.FROGCEPTION")\
+        if rarealien_balance < 1:\
+            continue  # skip this vote if the voter does not have a RAREALIEN.FROGCEPTION token\
+        \
+        # check if the voter is eligible to participate in the emergency voting process\
+        if rarealien_balance > 0:\
+            # prompt the voter to enter their vote\
+            emergency_vote = input(f"\{voter_name\}, do you want to propose an emergency vote (y/n)? ")\
+            if emergency_vote.lower() == "y":\
+                # create a new emergency vote with one person, one vote\
+                emergency_results = \{choice: 1\}\
+                emergency_winners = [choice]\
+                \
+                # check if the contract creator wants to veto the emergency vote\
+                veto = input("Contract creator, do you want to veto the emergency vote (y/n)? ")\
+                if veto.lower() == "y":\
+                    emergency_winners = []  # veto the emergency vote\
+                break  # end the emergency voting process\
+        \
+        # check that the voter has not already voted\
+        if voter_name in results:\
+            continue  # skip this vote if the voter has already voted\
+\
+                # calculate the voter's ERC 20 token balance\
+        erc20_balance = erc20_contract.functions.balanceOf(wallet).call()\
+\
+        # calculate the total supply of ERC 20 tokens\
+        total_supply = erc20_contract.functions.totalSupply().call()\
+\
+        # calculate the voter's XCP balance\
+        xcp_balance = w3.xcp.get_balance(xcp_address)\
+\
+        # calculate the voter's total voting power\
+        voting_power = 1.0  # base voting power is 1.0\
+        voting_power += erc1155_balance * 0.05  # add 5% per ERC 1155 token, up to a maximum of 1.5\
+        voting_power = min(voting_power, 1.5)\
+        voting_power += erc20_balance / total_supply  # add the voter's percentage of total ERC 20 token holdings\
+        voting_power += xcp_balance * 0.01  # add 1% per XCP\
+\
+        # add the weighted vote to the results\
+        if choice in results:\
+            results[choice] += voting_power\
+        else:\
+            results[choice] = voting_power\
+else:\
+    # the voting period has ended\
+    print("The voting period has ended.")\
+\
+# check if an emergency vote was held\
+if "emergency_results" in locals():\
+    # use the emergency vote results\
+    results = emergency_results\
+    winners = emergency_winners\
+else:\
+    # find the winner(s) by identifying the choice(s) with the highest vote total\
+    winners = []\
+    max_votes = 0\
+    for choice, votes in results.items():\
+        # check if the percentage of ERC 20 tokens held by the voters who voted for or against the proposal is over 50%\
+        erc20_voters = [v for v in votes if v["vote"] == choice]\
+        erc20_total = sum(v["erc20_balance"] for v in erc20_voters)\
+        if erc20_total / total_supply > 0.5:\
+            if votes > max_votes:\
+                winners = [choice]\
+                max_votes = votes\
+            elif votes == max_votes:\
+                winners.append(choice)\
+\
+# print the results\
+print(f"Winners: \{winners\}")\
+      \
+       \
+}
