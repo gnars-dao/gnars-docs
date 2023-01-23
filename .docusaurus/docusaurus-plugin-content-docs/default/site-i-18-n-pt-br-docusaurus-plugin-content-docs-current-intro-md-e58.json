@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "🐣 - Intro",
-  "description": "Let's discover Gnars Dao in less than 5 minutes.",
+  "title": "🐣 - Comece aqui",
+  "description": "Vamos descobrir que PORRA é a Gnars Dao em menos de 5 minutos.",
   "source": "@site/i18n/pt-br/docusaurus-plugin-content-docs/current/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
