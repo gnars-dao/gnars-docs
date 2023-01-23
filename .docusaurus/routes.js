@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/gnars-docs/__docusaurus/debug',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug', '70e'),
-    exact: true
-  },
-  {
-    path: '/gnars-docs/__docusaurus/debug/config',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/config', '709'),
-    exact: true
-  },
-  {
-    path: '/gnars-docs/__docusaurus/debug/content',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/content', 'cf6'),
-    exact: true
-  },
-  {
-    path: '/gnars-docs/__docusaurus/debug/globalData',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/globalData', 'c02'),
-    exact: true
-  },
-  {
-    path: '/gnars-docs/__docusaurus/debug/metadata',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/metadata', '471'),
-    exact: true
-  },
-  {
-    path: '/gnars-docs/__docusaurus/debug/registry',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/registry', 'c56'),
-    exact: true
-  },
-  {
-    path: '/gnars-docs/__docusaurus/debug/routes',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/routes', 'a7b'),
-    exact: true
-  },
-  {
     path: '/gnars-docs/blog',
     component: ComponentCreator('/gnars-docs/blog', 'a37'),
     exact: true
@@ -99,7 +64,7 @@ export default [
   },
   {
     path: '/gnars-docs/docs',
-    component: ComponentCreator('/gnars-docs/docs', '898'),
+    component: ComponentCreator('/gnars-docs/docs', '740'),
     routes: [
       {
         path: '/gnars-docs/docs/category/-level-1---enter-gnarnia',
@@ -121,7 +86,7 @@ export default [
       },
       {
         path: '/gnars-docs/docs/intro',
-        component: ComponentCreator('/gnars-docs/docs/intro', 'bd9'),
+        component: ComponentCreator('/gnars-docs/docs/intro', 'dc5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -4,17 +4,16 @@ sidebar_position: 1
 
 # 🐣 - Intro
 
-Let's discover **Gnars Dao in less than 5 minutes**.
+Découvrons Gnars Dao **en moins de 5 minutes.**
 
 
 <iframe width="900" height="500" src="https://www.youtube.com/embed/61xVd5wjQ2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Getting Started
 
-Based on **Nouns open source** and **CC0 artwork**, they're stored fully **on-chain** with no external dependencies. Each one gets you a **DAO vote** and memberships are available at auction, **forever**.
+Basé sur les Noms open source et l'œuvre d'art CC0, ils sont stockés entièrement sur la chaîne sans dépendances externes. Chacun vous donne un vote DAO et les adhésions sont disponibles aux enchères, pour toujours.
 
-> ### God damn, that was not simple !
+### Mon dieu, ce n'était pas simple !
 
-Let's slow down a little and understand this new disruptive systems that are disrupting extreme sports market. 
-
+Ralentissons un peu et comprenons ce nouveau système perturbateur qui bouleverse le marché des sports extrêmes.
 

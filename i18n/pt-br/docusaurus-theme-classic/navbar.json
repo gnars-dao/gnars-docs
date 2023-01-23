@@ -1,0 +1,54 @@
+{
+  "title": {
+    "message": "Gnars",
+    "description": "The title in the navbar"
+  },
+  "item.label.Tutorials": {
+    "message": "Tutorials",
+    "description": "Navbar item with label Tutorials"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Projects": {
+    "message": "Projects",
+    "description": "Navbar item with label Projects"
+  },
+  "item.label.Get a Gnar NFT": {
+    "message": "Get a Gnar NFT",
+    "description": "Navbar item with label Get a Gnar NFT"
+  },
+  "item.label.Games": {
+    "message": "Games",
+    "description": "Navbar item with label Games"
+  },
+  "item.label.ThatsGnarly": {
+    "message": "ThatsGnarly",
+    "description": "Navbar item with label ThatsGnarly"
+  },
+  "item.label.Skatehive": {
+    "message": "Skatehive",
+    "description": "Navbar item with label Skatehive"
+  },
+  "item.label.Alps DAO": {
+    "message": "Alps DAO",
+    "description": "Navbar item with label Alps DAO"
+  },
+  "item.label.Auctions": {
+    "message": "Auctions",
+    "description": "Navbar item with label Auctions"
+  },
+  "item.label.OpenSea": {
+    "message": "OpenSea",
+    "description": "Navbar item with label OpenSea"
+  },
+  "item.label.Quest For Stoken": {
+    "message": "Quest For Stoken",
+    "description": "Navbar item with label Quest For Stoken"
+  },
+  "item.label.Grinderz": {
+    "message": "Grinderz",
+    "description": "Navbar item with label Grinderz"
+  }
+}

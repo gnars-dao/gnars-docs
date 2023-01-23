@@ -9,25 +9,25 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/gnars-docs/docs",
-          "tagsPath": "/gnars-docs/docs/tags",
+          "path": "/gnars-docs/es/docs",
+          "tagsPath": "/gnars-docs/es/docs/tags",
           "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs",
-          "editUrlLocalized": "https://github.com/sktbrd/gnars-docs/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "editUrlLocalized": "https://github.com/sktbrd/gnars-docs/tree/main/i18n/es/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-docs/sidebars.js",
           "contentPath": "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-docs/docs",
-          "contentPathLocalized": "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "contentPathLocalized": "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-docs/i18n/es/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "🐣 - Intro",
+              "title": "🐣 - Comecio",
               "description": "Let's discover Gnars Dao in less than 5 minutes.",
-              "source": "@site/docs/intro.md",
+              "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/gnars-docs/docs/intro",
+              "permalink": "/gnars-docs/es/docs/intro",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/intro.md",
               "tags": [],
@@ -39,7 +39,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "🛹 Level 1 - Enter Gnarnia",
-                "permalink": "/gnars-docs/docs/category/-level-1---enter-gnarnia"
+                "permalink": "/gnars-docs/es/docs/category/-level-1---enter-gnarnia"
               }
             },
             {
@@ -50,7 +50,7 @@
               "source": "@site/docs/Level-1/6-how-do-i-get-first-gnar.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/how-do-i-get-first-gnar",
-              "permalink": "/gnars-docs/docs/Level-1/how-do-i-get-first-gnar",
+              "permalink": "/gnars-docs/es/docs/Level-1/how-do-i-get-first-gnar",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-1/6-how-do-i-get-first-gnar.md",
               "tags": [],
@@ -62,11 +62,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "1.5) How to use Discord?",
-                "permalink": "/gnars-docs/docs/Level-1/how-to-use-discord"
+                "permalink": "/gnars-docs/es/docs/Level-1/how-to-use-discord"
               },
               "next": {
                 "title": "🛹 Level 2 - Welcome to Club",
-                "permalink": "/gnars-docs/docs/category/-level-2---welcome-to-club"
+                "permalink": "/gnars-docs/es/docs/category/-level-2---welcome-to-club"
               }
             },
             {
@@ -77,7 +77,7 @@
               "source": "@site/docs/Level-1/3-how-to-create-wallet.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/how-to-create-wallet",
-              "permalink": "/gnars-docs/docs/Level-1/how-to-create-wallet",
+              "permalink": "/gnars-docs/es/docs/Level-1/how-to-create-wallet",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-1/3-how-to-create-wallet.md",
               "tags": [],
@@ -89,11 +89,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "1.2) What is an NFT?",
-                "permalink": "/gnars-docs/docs/Level-1/what-is-a-NFT"
+                "permalink": "/gnars-docs/es/docs/Level-1/what-is-a-NFT"
               },
               "next": {
                 "title": "1.4) What Gnars NFT can do?",
-                "permalink": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do"
+                "permalink": "/gnars-docs/es/docs/Level-1/what-gnars-nft-can-do"
               }
             },
             {
@@ -104,7 +104,7 @@
               "source": "@site/docs/Level-1/5-how-to-use-discord.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/how-to-use-discord",
-              "permalink": "/gnars-docs/docs/Level-1/how-to-use-discord",
+              "permalink": "/gnars-docs/es/docs/Level-1/how-to-use-discord",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-1/5-how-to-use-discord.md",
               "tags": [],
@@ -116,11 +116,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "1.4) What Gnars NFT can do?",
-                "permalink": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do"
+                "permalink": "/gnars-docs/es/docs/Level-1/what-gnars-nft-can-do"
               },
               "next": {
                 "title": "1.6) How do I get my first Gnar",
-                "permalink": "/gnars-docs/docs/Level-1/how-do-i-get-first-gnar"
+                "permalink": "/gnars-docs/es/docs/Level-1/how-do-i-get-first-gnar"
               }
             },
             {
@@ -131,7 +131,7 @@
               "source": "@site/docs/Level-1/4-what-gnars-nft-can-do.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/what-gnars-nft-can-do",
-              "permalink": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do",
+              "permalink": "/gnars-docs/es/docs/Level-1/what-gnars-nft-can-do",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-1/4-what-gnars-nft-can-do.md",
               "tags": [],
@@ -143,11 +143,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "1.3) How to Create a Wallet",
-                "permalink": "/gnars-docs/docs/Level-1/how-to-create-wallet"
+                "permalink": "/gnars-docs/es/docs/Level-1/how-to-create-wallet"
               },
               "next": {
                 "title": "1.5) How to use Discord?",
-                "permalink": "/gnars-docs/docs/Level-1/how-to-use-discord"
+                "permalink": "/gnars-docs/es/docs/Level-1/how-to-use-discord"
               }
             },
             {
@@ -158,7 +158,7 @@
               "source": "@site/docs/Level-1/2-what-is-a-NFT.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/what-is-a-NFT",
-              "permalink": "/gnars-docs/docs/Level-1/what-is-a-NFT",
+              "permalink": "/gnars-docs/es/docs/Level-1/what-is-a-NFT",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-1/2-what-is-a-NFT.md",
               "tags": [],
@@ -170,11 +170,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "1.1) What is Ethereum?",
-                "permalink": "/gnars-docs/docs/Level-1/what-is-ethereum"
+                "permalink": "/gnars-docs/es/docs/Level-1/what-is-ethereum"
               },
               "next": {
                 "title": "1.3) How to Create a Wallet",
-                "permalink": "/gnars-docs/docs/Level-1/how-to-create-wallet"
+                "permalink": "/gnars-docs/es/docs/Level-1/how-to-create-wallet"
               }
             },
             {
@@ -185,7 +185,7 @@
               "source": "@site/docs/Level-1/1-what-is-ethereum.md",
               "sourceDirName": "Level-1",
               "slug": "/Level-1/what-is-ethereum",
-              "permalink": "/gnars-docs/docs/Level-1/what-is-ethereum",
+              "permalink": "/gnars-docs/es/docs/Level-1/what-is-ethereum",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-1/1-what-is-ethereum.md",
               "tags": [],
@@ -197,11 +197,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "🛹 Level 1 - Enter Gnarnia",
-                "permalink": "/gnars-docs/docs/category/-level-1---enter-gnarnia"
+                "permalink": "/gnars-docs/es/docs/category/-level-1---enter-gnarnia"
               },
               "next": {
                 "title": "1.2) What is an NFT?",
-                "permalink": "/gnars-docs/docs/Level-1/what-is-a-NFT"
+                "permalink": "/gnars-docs/es/docs/Level-1/what-is-a-NFT"
               }
             },
             {
@@ -212,7 +212,7 @@
               "source": "@site/docs/Level-2/2-1-verifying-your-gnar.md",
               "sourceDirName": "Level-2",
               "slug": "/Level-2/2-1-verifying-your-gnar",
-              "permalink": "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar",
+              "permalink": "/gnars-docs/es/docs/Level-2/2-1-verifying-your-gnar",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-1-verifying-your-gnar.md",
               "tags": [],
@@ -224,11 +224,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "🛹 Level 2 - Welcome to Club",
-                "permalink": "/gnars-docs/docs/category/-level-2---welcome-to-club"
+                "permalink": "/gnars-docs/es/docs/category/-level-2---welcome-to-club"
               },
               "next": {
                 "title": "2.2) Gnarly Meetings",
-                "permalink": "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings"
+                "permalink": "/gnars-docs/es/docs/Level-2/2-2-Gnarly-Meetings"
               }
             },
             {
@@ -239,7 +239,7 @@
               "source": "@site/docs/Level-2/2-2-Gnarly-Meetings.md",
               "sourceDirName": "Level-2",
               "slug": "/Level-2/2-2-Gnarly-Meetings",
-              "permalink": "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings",
+              "permalink": "/gnars-docs/es/docs/Level-2/2-2-Gnarly-Meetings",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-2-Gnarly-Meetings.md",
               "tags": [],
@@ -251,11 +251,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2.1) Verifying your Gnar on Discord",
-                "permalink": "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar"
+                "permalink": "/gnars-docs/es/docs/Level-2/2-1-verifying-your-gnar"
               },
               "next": {
                 "title": "2.3) How to vote in the DAO proposals?",
-                "permalink": "/gnars-docs/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals"
+                "permalink": "/gnars-docs/es/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals"
               }
             },
             {
@@ -266,7 +266,7 @@
               "source": "@site/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals.md",
               "sourceDirName": "Level-2",
               "slug": "/Level-2/2-3-How-to-vote-in-the-DAO-proposals",
-              "permalink": "/gnars-docs/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals",
+              "permalink": "/gnars-docs/es/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals.md",
               "tags": [],
@@ -278,11 +278,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2.2) Gnarly Meetings",
-                "permalink": "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings"
+                "permalink": "/gnars-docs/es/docs/Level-2/2-2-Gnarly-Meetings"
               },
               "next": {
                 "title": "2.4) How to use ETH to buy new wheels?",
-                "permalink": "/gnars-docs/docs/Level-2/2-4-how-to-use-eth-to-buy"
+                "permalink": "/gnars-docs/es/docs/Level-2/2-4-how-to-use-eth-to-buy"
               }
             },
             {
@@ -293,7 +293,7 @@
               "source": "@site/docs/Level-2/2-4-how-to-use-eth-to-buy.md",
               "sourceDirName": "Level-2",
               "slug": "/Level-2/2-4-how-to-use-eth-to-buy",
-              "permalink": "/gnars-docs/docs/Level-2/2-4-how-to-use-eth-to-buy",
+              "permalink": "/gnars-docs/es/docs/Level-2/2-4-how-to-use-eth-to-buy",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-4-how-to-use-eth-to-buy.md",
               "tags": [],
@@ -305,11 +305,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2.3) How to vote in the DAO proposals?",
-                "permalink": "/gnars-docs/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals"
+                "permalink": "/gnars-docs/es/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals"
               },
               "next": {
                 "title": "2.5) Proposal Guidelines",
-                "permalink": "/gnars-docs/docs/Level-2/2-5-proposal-guidelines"
+                "permalink": "/gnars-docs/es/docs/Level-2/2-5-proposal-guidelines"
               }
             },
             {
@@ -320,7 +320,7 @@
               "source": "@site/docs/Level-2/2-5-proposal-guidelines.md",
               "sourceDirName": "Level-2",
               "slug": "/Level-2/2-5-proposal-guidelines",
-              "permalink": "/gnars-docs/docs/Level-2/2-5-proposal-guidelines",
+              "permalink": "/gnars-docs/es/docs/Level-2/2-5-proposal-guidelines",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-5-proposal-guidelines.md",
               "tags": [],
@@ -332,11 +332,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2.4) How to use ETH to buy new wheels?",
-                "permalink": "/gnars-docs/docs/Level-2/2-4-how-to-use-eth-to-buy"
+                "permalink": "/gnars-docs/es/docs/Level-2/2-4-how-to-use-eth-to-buy"
               },
               "next": {
                 "title": "2.2) Gnarly Meetings",
-                "permalink": "/gnars-docs/docs/Level-2/2-6"
+                "permalink": "/gnars-docs/es/docs/Level-2/2-6"
               }
             },
             {
@@ -347,7 +347,7 @@
               "source": "@site/docs/Level-2/2-6.md",
               "sourceDirName": "Level-2",
               "slug": "/Level-2/2-6",
-              "permalink": "/gnars-docs/docs/Level-2/2-6",
+              "permalink": "/gnars-docs/es/docs/Level-2/2-6",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-6.md",
               "tags": [],
@@ -359,11 +359,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2.5) Proposal Guidelines",
-                "permalink": "/gnars-docs/docs/Level-2/2-5-proposal-guidelines"
+                "permalink": "/gnars-docs/es/docs/Level-2/2-5-proposal-guidelines"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/gnars-docs/docs/Level-2/translate-your-site"
+                "permalink": "/gnars-docs/es/docs/Level-2/translate-your-site"
               }
             },
             {
@@ -374,7 +374,7 @@
               "source": "@site/docs/Level-2/translate-your-site.md",
               "sourceDirName": "Level-2",
               "slug": "/Level-2/translate-your-site",
-              "permalink": "/gnars-docs/docs/Level-2/translate-your-site",
+              "permalink": "/gnars-docs/es/docs/Level-2/translate-your-site",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/translate-your-site.md",
               "tags": [],
@@ -386,11 +386,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "2.2) Gnarly Meetings",
-                "permalink": "/gnars-docs/docs/Level-2/2-6"
+                "permalink": "/gnars-docs/es/docs/Level-2/2-6"
               },
               "next": {
                 "title": "🛹 Level 3 - Gettin’ Gnarlier",
-                "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
+                "permalink": "/gnars-docs/es/docs/category/-level-3---gettin-gnarlier"
               }
             },
             {
@@ -401,7 +401,7 @@
               "source": "@site/docs/Level-3/bots.md",
               "sourceDirName": "Level-3",
               "slug": "/Level-3/bots",
-              "permalink": "/gnars-docs/docs/Level-3/bots",
+              "permalink": "/gnars-docs/es/docs/Level-3/bots",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/bots.md",
               "tags": [],
@@ -413,11 +413,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Spreading the ⌐◨-◨",
-                "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle"
+                "permalink": "/gnars-docs/es/docs/Level-3/nounish-lifestyle"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/gnars-docs/docs/Level-3/translate-your-site"
+                "permalink": "/gnars-docs/es/docs/Level-3/translate-your-site"
               }
             },
             {
@@ -428,7 +428,7 @@
               "source": "@site/docs/Level-3/nounish-lifestyle.md",
               "sourceDirName": "Level-3",
               "slug": "/Level-3/nounish-lifestyle",
-              "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle",
+              "permalink": "/gnars-docs/es/docs/Level-3/nounish-lifestyle",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/nounish-lifestyle.md",
               "tags": [],
@@ -440,11 +440,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Hardware Wallets",
-                "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle copy"
+                "permalink": "/gnars-docs/es/docs/Level-3/nounish-lifestyle copy"
               },
               "next": {
                 "title": "Bots",
-                "permalink": "/gnars-docs/docs/Level-3/bots"
+                "permalink": "/gnars-docs/es/docs/Level-3/bots"
               }
             },
             {
@@ -455,7 +455,7 @@
               "source": "@site/docs/Level-3/nounish-lifestyle copy.md",
               "sourceDirName": "Level-3",
               "slug": "/Level-3/nounish-lifestyle copy",
-              "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle copy",
+              "permalink": "/gnars-docs/es/docs/Level-3/nounish-lifestyle copy",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/nounish-lifestyle copy.md",
               "tags": [],
@@ -467,11 +467,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "🛹 Level 3 - Gettin’ Gnarlier",
-                "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
+                "permalink": "/gnars-docs/es/docs/category/-level-3---gettin-gnarlier"
               },
               "next": {
                 "title": "Spreading the ⌐◨-◨",
-                "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle"
+                "permalink": "/gnars-docs/es/docs/Level-3/nounish-lifestyle"
               }
             },
             {
@@ -482,7 +482,7 @@
               "source": "@site/docs/Level-3/thats-gnarly.md",
               "sourceDirName": "Level-3",
               "slug": "/Level-3/thats-gnarly",
-              "permalink": "/gnars-docs/docs/Level-3/thats-gnarly",
+              "permalink": "/gnars-docs/es/docs/Level-3/thats-gnarly",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/thats-gnarly.md",
               "tags": [],
@@ -491,7 +491,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Translate your site",
-                "permalink": "/gnars-docs/docs/Level-3/translate-your-site"
+                "permalink": "/gnars-docs/es/docs/Level-3/translate-your-site"
               }
             },
             {
@@ -502,7 +502,7 @@
               "source": "@site/docs/Level-3/translate-your-site.md",
               "sourceDirName": "Level-3",
               "slug": "/Level-3/translate-your-site",
-              "permalink": "/gnars-docs/docs/Level-3/translate-your-site",
+              "permalink": "/gnars-docs/es/docs/Level-3/translate-your-site",
               "draft": false,
               "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/translate-your-site.md",
               "tags": [],
@@ -514,11 +514,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Bots",
-                "permalink": "/gnars-docs/docs/Level-3/bots"
+                "permalink": "/gnars-docs/es/docs/Level-3/bots"
               },
               "next": {
                 "title": "Thatsgnar.ly - NFT Social media powered by Gnars",
-                "permalink": "/gnars-docs/docs/Level-3/thats-gnarly"
+                "permalink": "/gnars-docs/es/docs/Level-3/thats-gnarly"
               }
             }
           ],
@@ -564,7 +564,7 @@
                   "type": "generated-index",
                   "description": "First onboarding level, your first steps to become a Gnarly Member",
                   "slug": "/category/-level-1---enter-gnarnia",
-                  "permalink": "/gnars-docs/docs/category/-level-1---enter-gnarnia"
+                  "permalink": "/gnars-docs/es/docs/category/-level-1---enter-gnarnia"
                 }
               },
               {
@@ -605,7 +605,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/-level-2---welcome-to-club",
-                  "permalink": "/gnars-docs/docs/category/-level-2---welcome-to-club"
+                  "permalink": "/gnars-docs/es/docs/category/-level-2---welcome-to-club"
                 }
               },
               {
@@ -638,7 +638,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/-level-3---gettin-gnarlier",
-                  "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
+                  "permalink": "/gnars-docs/es/docs/category/-level-3---gettin-gnarlier"
                 }
               }
             ]
@@ -654,25 +654,25 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/gnars-docs/blog/first-blog-post",
+            "permalink": "/gnars-docs/es/blog/first-blog-post",
             "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/blog/fs180ollie.md",
             "source": "@site/blog/fs180ollie.md",
             "title": "360 flip",
             "description": "",
             "date": "2023-01-07T06:42:51.000Z",
-            "formattedDate": "January 7, 2023",
+            "formattedDate": "7 de enero de 2023",
             "tags": [
               {
                 "label": "trickpedia",
-                "permalink": "/gnars-docs/blog/tags/trickpedia"
+                "permalink": "/gnars-docs/es/blog/tags/trickpedia"
               },
               {
                 "label": "skateboard",
-                "permalink": "/gnars-docs/blog/tags/skateboard"
+                "permalink": "/gnars-docs/es/blog/tags/skateboard"
               },
               {
                 "label": "video",
-                "permalink": "/gnars-docs/blog/tags/video"
+                "permalink": "/gnars-docs/es/blog/tags/video"
               }
             ],
             "hasTruncateMarker": false,
@@ -703,7 +703,7 @@
             },
             "nextItem": {
               "title": "Free Drop",
-              "permalink": "/gnars-docs/blog/drop"
+              "permalink": "/gnars-docs/es/blog/drop"
             }
           },
           "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rvyutE3qvJU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
@@ -711,25 +711,25 @@
         {
           "id": "drop",
           "metadata": {
-            "permalink": "/gnars-docs/blog/drop",
+            "permalink": "/gnars-docs/es/blog/drop",
             "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Free Drop",
             "description": "",
             "date": "2021-08-26T00:00:00.000Z",
-            "formattedDate": "August 26, 2021",
+            "formattedDate": "26 de agosto de 2021",
             "tags": [
               {
                 "label": "trickpedia",
-                "permalink": "/gnars-docs/blog/tags/trickpedia"
+                "permalink": "/gnars-docs/es/blog/tags/trickpedia"
               },
               {
                 "label": "skateboard",
-                "permalink": "/gnars-docs/blog/tags/skateboard"
+                "permalink": "/gnars-docs/es/blog/tags/skateboard"
               },
               {
                 "label": "video",
-                "permalink": "/gnars-docs/blog/tags/video"
+                "permalink": "/gnars-docs/es/blog/tags/video"
               }
             ],
             "hasTruncateMarker": false,
@@ -760,11 +760,11 @@
             },
             "prevItem": {
               "title": "360 flip",
-              "permalink": "/gnars-docs/blog/first-blog-post"
+              "permalink": "/gnars-docs/es/blog/first-blog-post"
             },
             "nextItem": {
               "title": "Fs Ollie 180",
-              "permalink": "/gnars-docs/blog/mdx-blog-post"
+              "permalink": "/gnars-docs/es/blog/mdx-blog-post"
             }
           },
           "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gPdbd8O6438\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
@@ -772,25 +772,25 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/gnars-docs/blog/mdx-blog-post",
+            "permalink": "/gnars-docs/es/blog/mdx-blog-post",
             "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "Fs Ollie 180",
             "description": "alert('Its always 420 somewhere!')}>Tom Says",
             "date": "2021-08-01T00:00:00.000Z",
-            "formattedDate": "August 1, 2021",
+            "formattedDate": "1 de agosto de 2021",
             "tags": [
               {
                 "label": "trickpedia",
-                "permalink": "/gnars-docs/blog/tags/trickpedia"
+                "permalink": "/gnars-docs/es/blog/tags/trickpedia"
               },
               {
                 "label": "skateboard",
-                "permalink": "/gnars-docs/blog/tags/skateboard"
+                "permalink": "/gnars-docs/es/blog/tags/skateboard"
               },
               {
                 "label": "video",
-                "permalink": "/gnars-docs/blog/tags/video"
+                "permalink": "/gnars-docs/es/blog/tags/video"
               }
             ],
             "hasTruncateMarker": false,
@@ -821,11 +821,11 @@
             },
             "prevItem": {
               "title": "Free Drop",
-              "permalink": "/gnars-docs/blog/drop"
+              "permalink": "/gnars-docs/es/blog/drop"
             },
             "nextItem": {
               "title": "360 Pop Shuvit",
-              "permalink": "/gnars-docs/blog/long-blog-post"
+              "permalink": "/gnars-docs/es/blog/long-blog-post"
             }
           },
           "content": "<button onClick={() => alert('Its always 420 somewhere!')}>Tom Says</button>\n\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Ize_UuHKxJ4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
@@ -833,25 +833,25 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/gnars-docs/blog/long-blog-post",
+            "permalink": "/gnars-docs/es/blog/long-blog-post",
             "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "360 Pop Shuvit",
             "description": "",
             "date": "2019-05-29T00:00:00.000Z",
-            "formattedDate": "May 29, 2019",
+            "formattedDate": "29 de mayo de 2019",
             "tags": [
               {
                 "label": "trickpedia",
-                "permalink": "/gnars-docs/blog/tags/trickpedia"
+                "permalink": "/gnars-docs/es/blog/tags/trickpedia"
               },
               {
                 "label": "skateboard",
-                "permalink": "/gnars-docs/blog/tags/skateboard"
+                "permalink": "/gnars-docs/es/blog/tags/skateboard"
               },
               {
                 "label": "video",
-                "permalink": "/gnars-docs/blog/tags/video"
+                "permalink": "/gnars-docs/es/blog/tags/video"
               }
             ],
             "hasTruncateMarker": false,
@@ -882,7 +882,7 @@
             },
             "prevItem": {
               "title": "Fs Ollie 180",
-              "permalink": "/gnars-docs/blog/mdx-blog-post"
+              "permalink": "/gnars-docs/es/blog/mdx-blog-post"
             }
           },
           "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/K44MnTjMXBA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
@@ -897,7 +897,7 @@
             "long-blog-post"
           ],
           "metadata": {
-            "permalink": "/gnars-docs/blog",
+            "permalink": "/gnars-docs/es/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -908,7 +908,7 @@
         }
       ],
       "blogTags": {
-        "/gnars-docs/blog/tags/trickpedia": {
+        "/gnars-docs/es/blog/tags/trickpedia": {
           "label": "trickpedia",
           "items": [
             "first-blog-post",
@@ -916,7 +916,7 @@
             "mdx-blog-post",
             "long-blog-post"
           ],
-          "permalink": "/gnars-docs/blog/tags/trickpedia",
+          "permalink": "/gnars-docs/es/blog/tags/trickpedia",
           "pages": [
             {
               "items": [
@@ -926,7 +926,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/gnars-docs/blog/tags/trickpedia",
+                "permalink": "/gnars-docs/es/blog/tags/trickpedia",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -937,7 +937,7 @@
             }
           ]
         },
-        "/gnars-docs/blog/tags/skateboard": {
+        "/gnars-docs/es/blog/tags/skateboard": {
           "label": "skateboard",
           "items": [
             "first-blog-post",
@@ -945,7 +945,7 @@
             "mdx-blog-post",
             "long-blog-post"
           ],
-          "permalink": "/gnars-docs/blog/tags/skateboard",
+          "permalink": "/gnars-docs/es/blog/tags/skateboard",
           "pages": [
             {
               "items": [
@@ -955,7 +955,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/gnars-docs/blog/tags/skateboard",
+                "permalink": "/gnars-docs/es/blog/tags/skateboard",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -966,7 +966,7 @@
             }
           ]
         },
-        "/gnars-docs/blog/tags/video": {
+        "/gnars-docs/es/blog/tags/video": {
           "label": "video",
           "items": [
             "first-blog-post",
@@ -974,7 +974,7 @@
             "mdx-blog-post",
             "long-blog-post"
           ],
-          "permalink": "/gnars-docs/blog/tags/video",
+          "permalink": "/gnars-docs/es/blog/tags/video",
           "pages": [
             {
               "items": [
@@ -984,7 +984,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/gnars-docs/blog/tags/video",
+                "permalink": "/gnars-docs/es/blog/tags/video",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -996,19 +996,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/gnars-docs/blog/tags"
+      "blogTagsListPath": "/gnars-docs/es/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/gnars-docs/",
+        "permalink": "/gnars-docs/es/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/gnars-docs/markdown-page",
+        "permalink": "/gnars-docs/es/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "🐣 - Intro",
+        "label": "🐣 - Comecio",
         "href": "/gnars-docs/docs/intro",
         "docId": "intro"
       },
@@ -155,7 +155,7 @@
   "docs": {
     "intro": {
       "id": "intro",
-      "title": "🐣 - Intro",
+      "title": "🐣 - Comecio",
       "description": "Let's discover Gnars Dao in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },

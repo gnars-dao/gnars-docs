@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "🐣 - Intro",
-  "description": "Let's discover Gnars Dao in less than 5 minutes.",
+  "description": "Découvrons Gnars Dao en moins de 5 minutes.",
   "source": "@site/i18n/fr/docusaurus-plugin-content-docs/current/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
