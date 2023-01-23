@@ -8,11 +8,11 @@
     "description": "The label of the button to try again when the page crashed"
   },
   "theme.NotFound.title": {
-    "message": "Página não encontrada",
+    "message": "Se Fudeu",
     "description": "The title of the 404 page"
   },
   "theme.NotFound.p1": {
-    "message": "Se Fudeu.",
+    "message": "Nao tem nada aqui.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
