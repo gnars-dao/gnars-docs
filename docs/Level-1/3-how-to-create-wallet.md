@@ -20,10 +20,12 @@ That's because wallets don't have custody of your funds, you do. They're just a 
 
 ## Easiest Way - Metamask 
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/85296013/213943325-e8f6b851-438b-41c5-b1a5-d7d9cc5d1c51.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/85296013/213961063-c01ddd2a-523f-47bc-83a5-148a75b59c2b.gif)
 
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/85296013/213943341-09f0869e-a943-47ca-9443-857be9afd4f2.gif)
+![ezgif com-gif-maker_1](https://user-images.githubusercontent.com/85296013/213961142-b3a77e13-ff19-4777-8b62-c467e3f71c19.gif)
+
+
 
    
 ## Coolest way - ShapeShift + Metamask 
