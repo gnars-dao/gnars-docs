@@ -4,7 +4,7 @@
     "description": "The title in the navbar"
   },
   "item.label.Tutorials": {
-    "message": "Tutorials",
+    "message": "Tutoriais",
     "description": "Navbar item with label Tutorials"
   },
   "item.label.GitHub": {
@@ -12,7 +12,7 @@
     "description": "Navbar item with label GitHub"
   },
   "item.label.Projects": {
-    "message": "Projects",
+    "message": "Projetoss",
     "description": "Navbar item with label Projects"
   },
   "item.label.Get a Gnar NFT": {
@@ -36,7 +36,7 @@
     "description": "Navbar item with label Alps DAO"
   },
   "item.label.Auctions": {
-    "message": "Auctions",
+    "message": "Leilões",
     "description": "Navbar item with label Auctions"
   },
   "item.label.OpenSea": {
