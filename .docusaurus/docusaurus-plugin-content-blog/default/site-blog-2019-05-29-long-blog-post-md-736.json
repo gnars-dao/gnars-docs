@@ -1,5 +1,5 @@
 {
-  "permalink": "/gnars-docs/blog/long-blog-post",
+  "permalink": "/gnars-docs/es/blog/long-blog-post",
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/blog/2019-05-29-long-blog-post.md",
   "source": "@site/blog/2019-05-29-long-blog-post.md",
   "title": "360 Pop Shuvit",
@@ -9,15 +9,15 @@
   "tags": [
     {
       "label": "trickpedia",
-      "permalink": "/gnars-docs/blog/tags/trickpedia"
+      "permalink": "/gnars-docs/es/blog/tags/trickpedia"
     },
     {
       "label": "skateboard",
-      "permalink": "/gnars-docs/blog/tags/skateboard"
+      "permalink": "/gnars-docs/es/blog/tags/skateboard"
     },
     {
       "label": "video",
-      "permalink": "/gnars-docs/blog/tags/video"
+      "permalink": "/gnars-docs/es/blog/tags/video"
     }
   ],
   "hasTruncateMarker": false,
@@ -48,6 +48,6 @@
   },
   "prevItem": {
     "title": "Fs Ollie 180",
-    "permalink": "/gnars-docs/blog/mdx-blog-post"
+    "permalink": "/gnars-docs/es/blog/mdx-blog-post"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-2/2-5-proposal-guidelines.md",
   "sourceDirName": "Level-2",
   "slug": "/Level-2/2-5-proposal-guidelines",
-  "permalink": "/gnars-docs/docs/Level-2/2-5-proposal-guidelines",
+  "permalink": "/gnars-docs/es/docs/Level-2/2-5-proposal-guidelines",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-5-proposal-guidelines.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "2.4) How to use ETH to buy new wheels?",
-    "permalink": "/gnars-docs/docs/Level-2/2-4-how-to-use-eth-to-buy"
+    "permalink": "/gnars-docs/es/docs/Level-2/2-4-how-to-use-eth-to-buy"
   },
   "next": {
     "title": "2.2) Gnarly Meetings",
-    "permalink": "/gnars-docs/docs/Level-2/2-6"
+    "permalink": "/gnars-docs/es/docs/Level-2/2-6"
   }
 }

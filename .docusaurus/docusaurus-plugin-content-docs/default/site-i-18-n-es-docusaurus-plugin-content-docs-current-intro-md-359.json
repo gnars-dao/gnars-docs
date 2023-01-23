@@ -6,7 +6,7 @@
   "source": "@site/i18n/es/docusaurus-plugin-content-docs/current/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/gnars-docs/docs/intro",
+  "permalink": "/gnars-docs/es/docs/intro",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/intro.md",
   "tags": [],
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "🛹 Level 1 - Enter Gnarnia",
-    "permalink": "/gnars-docs/docs/category/-level-1---enter-gnarnia"
+    "permalink": "/gnars-docs/es/docs/category/-level-1---enter-gnarnia"
   }
 }

@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "🐣 - Comecio",
-        "href": "/gnars-docs/docs/intro",
+        "href": "/gnars-docs/es/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,41 +24,41 @@
           {
             "type": "link",
             "label": "1.1) What is Ethereum?",
-            "href": "/gnars-docs/docs/Level-1/what-is-ethereum",
+            "href": "/gnars-docs/es/docs/Level-1/what-is-ethereum",
             "docId": "Level-1/what-is-ethereum"
           },
           {
             "type": "link",
             "label": "1.2) What is an NFT?",
-            "href": "/gnars-docs/docs/Level-1/what-is-a-NFT",
+            "href": "/gnars-docs/es/docs/Level-1/what-is-a-NFT",
             "docId": "Level-1/what-is-a-NFT"
           },
           {
             "type": "link",
             "label": "1.3) How to Create a Wallet",
-            "href": "/gnars-docs/docs/Level-1/how-to-create-wallet",
+            "href": "/gnars-docs/es/docs/Level-1/how-to-create-wallet",
             "docId": "Level-1/how-to-create-wallet"
           },
           {
             "type": "link",
             "label": "1.4) What Gnars NFT can do?",
-            "href": "/gnars-docs/docs/Level-1/what-gnars-nft-can-do",
+            "href": "/gnars-docs/es/docs/Level-1/what-gnars-nft-can-do",
             "docId": "Level-1/what-gnars-nft-can-do"
           },
           {
             "type": "link",
             "label": "1.5) How to use Discord?",
-            "href": "/gnars-docs/docs/Level-1/how-to-use-discord",
+            "href": "/gnars-docs/es/docs/Level-1/how-to-use-discord",
             "docId": "Level-1/how-to-use-discord"
           },
           {
             "type": "link",
             "label": "1.6) How do I get my first Gnar",
-            "href": "/gnars-docs/docs/Level-1/how-do-i-get-first-gnar",
+            "href": "/gnars-docs/es/docs/Level-1/how-do-i-get-first-gnar",
             "docId": "Level-1/how-do-i-get-first-gnar"
           }
         ],
-        "href": "/gnars-docs/docs/category/-level-1---enter-gnarnia"
+        "href": "/gnars-docs/es/docs/category/-level-1---enter-gnarnia"
       },
       {
         "type": "category",
@@ -69,47 +69,47 @@
           {
             "type": "link",
             "label": "2.1) Verifying your Gnar on Discord",
-            "href": "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar",
+            "href": "/gnars-docs/es/docs/Level-2/2-1-verifying-your-gnar",
             "docId": "Level-2/2-1-verifying-your-gnar"
           },
           {
             "type": "link",
             "label": "2.2) Gnarly Meetings",
-            "href": "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings",
+            "href": "/gnars-docs/es/docs/Level-2/2-2-Gnarly-Meetings",
             "docId": "Level-2/2-2-Gnarly-Meetings"
           },
           {
             "type": "link",
             "label": "2.3) How to vote in the DAO proposals?",
-            "href": "/gnars-docs/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals",
+            "href": "/gnars-docs/es/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals",
             "docId": "Level-2/2-3-How-to-vote-in-the-DAO-proposals"
           },
           {
             "type": "link",
             "label": "2.4) How to use ETH to buy new wheels?",
-            "href": "/gnars-docs/docs/Level-2/2-4-how-to-use-eth-to-buy",
+            "href": "/gnars-docs/es/docs/Level-2/2-4-how-to-use-eth-to-buy",
             "docId": "Level-2/2-4-how-to-use-eth-to-buy"
           },
           {
             "type": "link",
             "label": "2.5) Proposal Guidelines",
-            "href": "/gnars-docs/docs/Level-2/2-5-proposal-guidelines",
+            "href": "/gnars-docs/es/docs/Level-2/2-5-proposal-guidelines",
             "docId": "Level-2/2-5-proposal-guidelines"
           },
           {
             "type": "link",
             "label": "2.2) Gnarly Meetings",
-            "href": "/gnars-docs/docs/Level-2/2-6",
+            "href": "/gnars-docs/es/docs/Level-2/2-6",
             "docId": "Level-2/2-6"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/gnars-docs/docs/Level-2/translate-your-site",
+            "href": "/gnars-docs/es/docs/Level-2/translate-your-site",
             "docId": "Level-2/translate-your-site"
           }
         ],
-        "href": "/gnars-docs/docs/category/-level-2---welcome-to-club"
+        "href": "/gnars-docs/es/docs/category/-level-2---welcome-to-club"
       },
       {
         "type": "category",
@@ -120,35 +120,35 @@
           {
             "type": "link",
             "label": "Hardware Wallets",
-            "href": "/gnars-docs/docs/Level-3/nounish-lifestyle copy",
+            "href": "/gnars-docs/es/docs/Level-3/nounish-lifestyle copy",
             "docId": "Level-3/nounish-lifestyle copy"
           },
           {
             "type": "link",
             "label": "Spreading the ⌐◨-◨",
-            "href": "/gnars-docs/docs/Level-3/nounish-lifestyle",
+            "href": "/gnars-docs/es/docs/Level-3/nounish-lifestyle",
             "docId": "Level-3/nounish-lifestyle"
           },
           {
             "type": "link",
             "label": "Bots",
-            "href": "/gnars-docs/docs/Level-3/bots",
+            "href": "/gnars-docs/es/docs/Level-3/bots",
             "docId": "Level-3/bots"
           },
           {
             "type": "link",
             "label": "Translate your site",
-            "href": "/gnars-docs/docs/Level-3/translate-your-site",
+            "href": "/gnars-docs/es/docs/Level-3/translate-your-site",
             "docId": "Level-3/translate-your-site"
           },
           {
             "type": "link",
             "label": "Thatsgnar.ly - NFT Social media powered by Gnars",
-            "href": "/gnars-docs/docs/Level-3/thats-gnarly",
+            "href": "/gnars-docs/es/docs/Level-3/thats-gnarly",
             "docId": "Level-3/thats-gnarly"
           }
         ],
-        "href": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
+        "href": "/gnars-docs/es/docs/category/-level-3---gettin-gnarlier"
       }
     ]
   },

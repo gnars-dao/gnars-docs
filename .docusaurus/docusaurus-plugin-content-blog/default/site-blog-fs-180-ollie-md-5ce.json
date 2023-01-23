@@ -1,5 +1,5 @@
 {
-  "permalink": "/gnars-docs/blog/first-blog-post",
+  "permalink": "/gnars-docs/es/blog/first-blog-post",
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/blog/fs180ollie.md",
   "source": "@site/blog/fs180ollie.md",
   "title": "360 flip",
@@ -9,15 +9,15 @@
   "tags": [
     {
       "label": "trickpedia",
-      "permalink": "/gnars-docs/blog/tags/trickpedia"
+      "permalink": "/gnars-docs/es/blog/tags/trickpedia"
     },
     {
       "label": "skateboard",
-      "permalink": "/gnars-docs/blog/tags/skateboard"
+      "permalink": "/gnars-docs/es/blog/tags/skateboard"
     },
     {
       "label": "video",
-      "permalink": "/gnars-docs/blog/tags/video"
+      "permalink": "/gnars-docs/es/blog/tags/video"
     }
   ],
   "hasTruncateMarker": false,
@@ -48,6 +48,6 @@
   },
   "nextItem": {
     "title": "Free Drop",
-    "permalink": "/gnars-docs/blog/drop"
+    "permalink": "/gnars-docs/es/blog/drop"
   }
 }
