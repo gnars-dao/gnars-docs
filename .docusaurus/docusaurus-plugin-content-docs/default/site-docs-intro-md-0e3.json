@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "🐣 - Intro",
-  "description": "Let's discover Gnars Dao in less than 5 minutes.",
+  "title": "🐣 - Comece aqui",
+  "description": "Vamos entender que porra é a Gnars Dao em menos de 5 minutos.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
