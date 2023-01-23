@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-3/nounish-lifestyle.md",
   "sourceDirName": "Level-3",
   "slug": "/Level-3/nounish-lifestyle",
-  "permalink": "/gnars-docs/fr/docs/Level-3/nounish-lifestyle",
+  "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/nounish-lifestyle.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Hardware Wallets",
-    "permalink": "/gnars-docs/fr/docs/Level-3/nounish-lifestyle copy"
+    "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle copy"
   },
   "next": {
     "title": "Bots",
-    "permalink": "/gnars-docs/fr/docs/Level-3/bots"
+    "permalink": "/gnars-docs/docs/Level-3/bots"
   }
 }

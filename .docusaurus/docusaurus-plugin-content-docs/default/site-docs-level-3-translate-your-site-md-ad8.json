@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-3/translate-your-site.md",
   "sourceDirName": "Level-3",
   "slug": "/Level-3/translate-your-site",
-  "permalink": "/gnars-docs/fr/docs/Level-3/translate-your-site",
+  "permalink": "/gnars-docs/docs/Level-3/translate-your-site",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/translate-your-site.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Bots",
-    "permalink": "/gnars-docs/fr/docs/Level-3/bots"
+    "permalink": "/gnars-docs/docs/Level-3/bots"
   },
   "next": {
     "title": "Thatsgnar.ly - NFT Social media powered by Gnars",
-    "permalink": "/gnars-docs/fr/docs/Level-3/thats-gnarly"
+    "permalink": "/gnars-docs/docs/Level-3/thats-gnarly"
   }
 }
