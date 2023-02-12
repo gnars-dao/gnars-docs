@@ -12,11 +12,11 @@
     "description": "The generated-index page description for category 🛹 Level 1 - Enter Gnarnia in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.🛹 Level 2 - Welcome to Club": {
-    "message": "🛹 Level 2 - Welcome to Club",
+    "message": "🛹 Level 2 - Bem-vindo ao Clube",
     "description": "The label for category 🛹 Level 2 - Welcome to Club in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.🛹 Level 3 - Gettin’ Gnarlier": {
-    "message": "🛹 Level 3 - Gettin’ Gnarlier",
+    "message": "🛹 Level 3 - Ficando brabo",
     "description": "The label for category 🛹 Level 3 - Gettin’ Gnarlier in sidebar tutorialSidebar"
   }
 }
