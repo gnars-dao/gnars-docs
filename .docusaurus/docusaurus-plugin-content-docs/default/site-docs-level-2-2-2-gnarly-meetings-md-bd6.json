@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-2/2-2-Gnarly-Meetings.md",
   "sourceDirName": "Level-2",
   "slug": "/Level-2/2-2-Gnarly-Meetings",
-  "permalink": "/gnars-docs/es/docs/Level-2/2-2-Gnarly-Meetings",
+  "permalink": "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-2-Gnarly-Meetings.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "2.1) Verifying your Gnar on Discord",
-    "permalink": "/gnars-docs/es/docs/Level-2/2-1-verifying-your-gnar"
+    "permalink": "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar"
   },
   "next": {
     "title": "2.3) How to vote in the DAO proposals?",
-    "permalink": "/gnars-docs/es/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals"
+    "permalink": "/gnars-docs/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals"
   }
 }

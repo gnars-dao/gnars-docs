@@ -1,23 +1,23 @@
 {
-  "permalink": "/gnars-docs/es/blog/mdx-blog-post",
+  "permalink": "/gnars-docs/blog/mdx-blog-post",
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/blog/2021-08-01-mdx-blog-post.mdx",
   "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
   "title": "Fs Ollie 180",
   "description": "alert('Its always 420 somewhere!')}>Tom Says",
   "date": "2021-08-01T00:00:00.000Z",
-  "formattedDate": "1 de agosto de 2021",
+  "formattedDate": "August 1, 2021",
   "tags": [
     {
       "label": "trickpedia",
-      "permalink": "/gnars-docs/es/blog/tags/trickpedia"
+      "permalink": "/gnars-docs/blog/tags/trickpedia"
     },
     {
       "label": "skateboard",
-      "permalink": "/gnars-docs/es/blog/tags/skateboard"
+      "permalink": "/gnars-docs/blog/tags/skateboard"
     },
     {
       "label": "video",
-      "permalink": "/gnars-docs/es/blog/tags/video"
+      "permalink": "/gnars-docs/blog/tags/video"
     }
   ],
   "hasTruncateMarker": false,
@@ -48,10 +48,10 @@
   },
   "prevItem": {
     "title": "Free Drop",
-    "permalink": "/gnars-docs/es/blog/drop"
+    "permalink": "/gnars-docs/blog/drop"
   },
   "nextItem": {
     "title": "360 Pop Shuvit",
-    "permalink": "/gnars-docs/es/blog/long-blog-post"
+    "permalink": "/gnars-docs/blog/long-blog-post"
   }
 }

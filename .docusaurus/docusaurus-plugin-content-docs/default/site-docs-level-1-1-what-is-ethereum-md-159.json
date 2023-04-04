@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-1/1-what-is-ethereum.md",
   "sourceDirName": "Level-1",
   "slug": "/Level-1/what-is-ethereum",
-  "permalink": "/gnars-docs/es/docs/Level-1/what-is-ethereum",
+  "permalink": "/gnars-docs/docs/Level-1/what-is-ethereum",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-1/1-what-is-ethereum.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🛹 Level 1 - Enter Gnarnia",
-    "permalink": "/gnars-docs/es/docs/category/-level-1---enter-gnarnia"
+    "permalink": "/gnars-docs/docs/category/-level-1---enter-gnarnia"
   },
   "next": {
     "title": "1.2) What is an NFT?",
-    "permalink": "/gnars-docs/es/docs/Level-1/what-is-a-NFT"
+    "permalink": "/gnars-docs/docs/Level-1/what-is-a-NFT"
   }
 }

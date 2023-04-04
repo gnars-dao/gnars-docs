@@ -1,9 +1,9 @@
-import lunr from "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-docs/node_modules/lunr/lunr.js";
+import lunr from "/Users/web3warrior/Documents/code/gnars-docs-v2/gnars-docs/node_modules/lunr/lunr.js";
 export const language = ["en"];
 export const removeDefaultStopWordFilter = false;
 export const removeDefaultStemmer = false;
 export const Mark = null;
-export const searchIndexUrl = "search-index{dir}.json?_=dbad5014";
+export const searchIndexUrl = "search-index{dir}.json?_=556620b2";
 export const searchResultLimits = 8;
 export const searchResultContextMaxLength = 50;
 export const explicitSearchResultPath = false;

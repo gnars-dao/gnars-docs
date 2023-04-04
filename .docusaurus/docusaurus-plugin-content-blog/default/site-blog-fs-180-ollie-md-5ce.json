@@ -1,23 +1,23 @@
 {
-  "permalink": "/gnars-docs/es/blog/first-blog-post",
+  "permalink": "/gnars-docs/blog/first-blog-post",
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/blog/fs180ollie.md",
   "source": "@site/blog/fs180ollie.md",
   "title": "360 flip",
   "description": "",
   "date": "2023-01-07T06:42:51.000Z",
-  "formattedDate": "7 de enero de 2023",
+  "formattedDate": "January 7, 2023",
   "tags": [
     {
       "label": "trickpedia",
-      "permalink": "/gnars-docs/es/blog/tags/trickpedia"
+      "permalink": "/gnars-docs/blog/tags/trickpedia"
     },
     {
       "label": "skateboard",
-      "permalink": "/gnars-docs/es/blog/tags/skateboard"
+      "permalink": "/gnars-docs/blog/tags/skateboard"
     },
     {
       "label": "video",
-      "permalink": "/gnars-docs/es/blog/tags/video"
+      "permalink": "/gnars-docs/blog/tags/video"
     }
   ],
   "hasTruncateMarker": false,
@@ -48,6 +48,6 @@
   },
   "nextItem": {
     "title": "Free Drop",
-    "permalink": "/gnars-docs/es/blog/drop"
+    "permalink": "/gnars-docs/blog/drop"
   }
 }

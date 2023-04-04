@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-3/bots.md",
   "sourceDirName": "Level-3",
   "slug": "/Level-3/bots",
-  "permalink": "/gnars-docs/es/docs/Level-3/bots",
+  "permalink": "/gnars-docs/docs/Level-3/bots",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-3/bots.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Spreading the ⌐◨-◨",
-    "permalink": "/gnars-docs/es/docs/Level-3/nounish-lifestyle"
+    "permalink": "/gnars-docs/docs/Level-3/nounish-lifestyle"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/gnars-docs/es/docs/Level-3/translate-your-site"
+    "permalink": "/gnars-docs/docs/Level-3/translate-your-site"
   }
 }

@@ -7,7 +7,7 @@ export default {
   "title": "Gnarly Docs ⌐◨-◨",
   "tagline": "Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools",
   "url": "https://sktbrd.github.io",
-  "baseUrl": "/gnars-docs/es/",
+  "baseUrl": "/gnars-docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
@@ -31,7 +31,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-docs/sidebars.js",
+          "sidebarPath": "/Users/web3warrior/Documents/code/gnars-docs-v2/gnars-docs/sidebars.js",
           "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/"
         },
         "blog": {
@@ -39,14 +39,14 @@ export default {
           "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/"
         },
         "theme": {
-          "customCss": "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-docs/src/css/custom.css"
+          "customCss": "/Users/web3warrior/Documents/code/gnars-docs-v2/gnars-docs/src/css/custom.css"
         }
       }
     ]
   ],
   "themes": [
     [
-      "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-docs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      "/Users/web3warrior/Documents/code/gnars-docs-v2/gnars-docs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
       {
         "hashed": true
       }

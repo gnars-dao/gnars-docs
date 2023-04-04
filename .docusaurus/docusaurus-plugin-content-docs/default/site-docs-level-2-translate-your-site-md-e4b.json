@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-2/translate-your-site.md",
   "sourceDirName": "Level-2",
   "slug": "/Level-2/translate-your-site",
-  "permalink": "/gnars-docs/es/docs/Level-2/translate-your-site",
+  "permalink": "/gnars-docs/docs/Level-2/translate-your-site",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/translate-your-site.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "2.2) Gnarly Meetings",
-    "permalink": "/gnars-docs/es/docs/Level-2/2-6"
+    "permalink": "/gnars-docs/docs/Level-2/2-6"
   },
   "next": {
     "title": "🛹 Level 3 - Gettin’ Gnarlier",
-    "permalink": "/gnars-docs/es/docs/category/-level-3---gettin-gnarlier"
+    "permalink": "/gnars-docs/docs/category/-level-3---gettin-gnarlier"
   }
 }
