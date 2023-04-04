@@ -11,7 +11,7 @@ const config = {
   tagline: 'Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools',
   url: 'https://sktbrd.github.io',
 
-  baseUrl: '/gnars-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
