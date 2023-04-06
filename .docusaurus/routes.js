@@ -4,102 +4,102 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/gnars-docs/__docusaurus/debug',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug', '49e'),
+    component: ComponentCreator('/gnars-docs/__docusaurus/debug', '59e'),
     exact: true
   },
   {
     path: '/gnars-docs/__docusaurus/debug/config',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/config', '605'),
+    component: ComponentCreator('/gnars-docs/__docusaurus/debug/config', '696'),
     exact: true
   },
   {
     path: '/gnars-docs/__docusaurus/debug/content',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/content', '468'),
+    component: ComponentCreator('/gnars-docs/__docusaurus/debug/content', 'a26'),
     exact: true
   },
   {
     path: '/gnars-docs/__docusaurus/debug/globalData',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/globalData', '73e'),
+    component: ComponentCreator('/gnars-docs/__docusaurus/debug/globalData', 'bcf'),
     exact: true
   },
   {
     path: '/gnars-docs/__docusaurus/debug/metadata',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/metadata', 'fb0'),
+    component: ComponentCreator('/gnars-docs/__docusaurus/debug/metadata', 'b81'),
     exact: true
   },
   {
     path: '/gnars-docs/__docusaurus/debug/registry',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/registry', 'b4c'),
+    component: ComponentCreator('/gnars-docs/__docusaurus/debug/registry', '736'),
     exact: true
   },
   {
     path: '/gnars-docs/__docusaurus/debug/routes',
-    component: ComponentCreator('/gnars-docs/__docusaurus/debug/routes', '131'),
+    component: ComponentCreator('/gnars-docs/__docusaurus/debug/routes', '68b'),
     exact: true
   },
   {
     path: '/gnars-docs/blog',
-    component: ComponentCreator('/gnars-docs/blog', 'f7e'),
+    component: ComponentCreator('/gnars-docs/blog', '019'),
     exact: true
   },
   {
     path: '/gnars-docs/blog/archive',
-    component: ComponentCreator('/gnars-docs/blog/archive', 'ec1'),
+    component: ComponentCreator('/gnars-docs/blog/archive', '04c'),
     exact: true
   },
   {
     path: '/gnars-docs/blog/drop',
-    component: ComponentCreator('/gnars-docs/blog/drop', 'c47'),
+    component: ComponentCreator('/gnars-docs/blog/drop', 'dac'),
     exact: true
   },
   {
     path: '/gnars-docs/blog/first-blog-post',
-    component: ComponentCreator('/gnars-docs/blog/first-blog-post', '035'),
+    component: ComponentCreator('/gnars-docs/blog/first-blog-post', '6a0'),
     exact: true
   },
   {
     path: '/gnars-docs/blog/long-blog-post',
-    component: ComponentCreator('/gnars-docs/blog/long-blog-post', '07b'),
+    component: ComponentCreator('/gnars-docs/blog/long-blog-post', 'ad4'),
     exact: true
   },
   {
     path: '/gnars-docs/blog/mdx-blog-post',
-    component: ComponentCreator('/gnars-docs/blog/mdx-blog-post', '2cd'),
+    component: ComponentCreator('/gnars-docs/blog/mdx-blog-post', '236'),
     exact: true
   },
   {
     path: '/gnars-docs/blog/tags',
-    component: ComponentCreator('/gnars-docs/blog/tags', '20a'),
+    component: ComponentCreator('/gnars-docs/blog/tags', 'b6d'),
     exact: true
   },
   {
     path: '/gnars-docs/blog/tags/skateboard',
-    component: ComponentCreator('/gnars-docs/blog/tags/skateboard', '5fc'),
+    component: ComponentCreator('/gnars-docs/blog/tags/skateboard', 'd96'),
     exact: true
   },
   {
     path: '/gnars-docs/blog/tags/trickpedia',
-    component: ComponentCreator('/gnars-docs/blog/tags/trickpedia', 'e93'),
+    component: ComponentCreator('/gnars-docs/blog/tags/trickpedia', '068'),
     exact: true
   },
   {
     path: '/gnars-docs/blog/tags/video',
-    component: ComponentCreator('/gnars-docs/blog/tags/video', '10c'),
+    component: ComponentCreator('/gnars-docs/blog/tags/video', 'cfd'),
     exact: true
   },
   {
     path: '/gnars-docs/markdown-page',
-    component: ComponentCreator('/gnars-docs/markdown-page', '758'),
+    component: ComponentCreator('/gnars-docs/markdown-page', 'adc'),
     exact: true
   },
   {
     path: '/gnars-docs/search',
-    component: ComponentCreator('/gnars-docs/search', 'a6b'),
+    component: ComponentCreator('/gnars-docs/search', 'f03'),
     exact: true
   },
   {
     path: '/gnars-docs/docs',
-    component: ComponentCreator('/gnars-docs/docs', 'c12'),
+    component: ComponentCreator('/gnars-docs/docs', 'd64'),
     routes: [
       {
         path: '/gnars-docs/docs/category/-level-1---enter-gnarnia',
@@ -237,7 +237,7 @@ export default [
   },
   {
     path: '/gnars-docs/',
-    component: ComponentCreator('/gnars-docs/', '3a3'),
+    component: ComponentCreator('/gnars-docs/', 'c4b'),
     exact: true
   },
   {

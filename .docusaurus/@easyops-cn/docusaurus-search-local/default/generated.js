@@ -1,4 +1,4 @@
-import lunr from "/Users/web3warrior/Documents/code/gnars-docs-v2/gnars-docs/node_modules/lunr/lunr.js";
+import lunr from "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-2/gnars-docs/node_modules/lunr/lunr.js";
 export const language = ["en"];
 export const removeDefaultStopWordFilter = false;
 export const removeDefaultStemmer = false;

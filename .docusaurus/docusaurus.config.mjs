@@ -31,7 +31,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/web3warrior/Documents/code/gnars-docs-v2/gnars-docs/sidebars.js",
+          "sidebarPath": "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-2/gnars-docs/sidebars.js",
           "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/"
         },
         "blog": {
@@ -39,14 +39,14 @@ export default {
           "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/"
         },
         "theme": {
-          "customCss": "/Users/web3warrior/Documents/code/gnars-docs-v2/gnars-docs/src/css/custom.css"
+          "customCss": "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-2/gnars-docs/src/css/custom.css"
         }
       }
     ]
   ],
   "themes": [
     [
-      "/Users/web3warrior/Documents/code/gnars-docs-v2/gnars-docs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
+      "/Users/web3warrior/Documents/code/gnars-docs/gnars-docs-git/gnars-2/gnars-docs/node_modules/@easyops-cn/docusaurus-search-local/dist/server/server/index.js",
       {
         "hashed": true
       }
