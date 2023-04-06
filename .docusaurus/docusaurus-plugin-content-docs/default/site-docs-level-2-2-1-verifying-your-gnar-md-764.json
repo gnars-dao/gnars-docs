@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-2/2-1-verifying-your-gnar.md",
   "sourceDirName": "Level-2",
   "slug": "/Level-2/2-1-verifying-your-gnar",
-  "permalink": "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar",
+  "permalink": "/gnars-docs/es/docs/Level-2/2-1-verifying-your-gnar",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-2/2-1-verifying-your-gnar.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🛹 Level 2 - Welcome to Club",
-    "permalink": "/gnars-docs/docs/category/-level-2---welcome-to-club"
+    "permalink": "/gnars-docs/es/docs/category/-level-2---welcome-to-club"
   },
   "next": {
     "title": "2.2) Gnarly Meetings",
-    "permalink": "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings"
+    "permalink": "/gnars-docs/es/docs/Level-2/2-2-Gnarly-Meetings"
   }
 }

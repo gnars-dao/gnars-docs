@@ -6,7 +6,7 @@
   "source": "@site/docs/Level-1/6-how-do-i-get-first-gnar.md",
   "sourceDirName": "Level-1",
   "slug": "/Level-1/how-do-i-get-first-gnar",
-  "permalink": "/gnars-docs/docs/Level-1/how-do-i-get-first-gnar",
+  "permalink": "/gnars-docs/es/docs/Level-1/how-do-i-get-first-gnar",
   "draft": false,
   "editUrl": "https://github.com/sktbrd/gnars-docs/tree/main/docs/Level-1/6-how-do-i-get-first-gnar.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "1.5) How to use Discord?",
-    "permalink": "/gnars-docs/docs/Level-1/how-to-use-discord"
+    "permalink": "/gnars-docs/es/docs/Level-1/how-to-use-discord"
   },
   "next": {
     "title": "🛹 Level 2 - Welcome to Club",
-    "permalink": "/gnars-docs/docs/category/-level-2---welcome-to-club"
+    "permalink": "/gnars-docs/es/docs/category/-level-2---welcome-to-club"
   }
 }

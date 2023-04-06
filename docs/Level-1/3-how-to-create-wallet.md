@@ -40,7 +40,7 @@ If Dawn isn't supported on your platform (you're not using an iPhone), then Meta
 
 
    
-## Coolest way - ShapeShift + Metamask 
+## Coolest way - ShapeShift + Wallet Connect  
 
 <video> 
    <source src="/static/shapeshift.mp4"></source>

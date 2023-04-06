@@ -1,298 +1,255 @@
 {
-  "/gnars-docs/__docusaurus/debug-59e": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/gnars-docs/es/blog-b25": {
+    "__comp": "a6aa9e1f",
     "__context": {
-      "plugin": "plugin---gnars-docs-docusaurus-debugc-91-5b6"
-    }
-  },
-  "/gnars-docs/__docusaurus/debug/config-696": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---gnars-docs-docusaurus-debugc-91-5b6"
-    }
-  },
-  "/gnars-docs/__docusaurus/debug/content-a26": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---gnars-docs-docusaurus-debugc-91-5b6"
+      "plugin": "bf96ea75"
     },
-    "allContent": "allContent---gnars-docs-docusaurus-debug-content-246-966"
-  },
-  "/gnars-docs/__docusaurus/debug/globalData-bcf": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---gnars-docs-docusaurus-debugc-91-5b6"
-    }
-  },
-  "/gnars-docs/__docusaurus/debug/metadata-b81": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---gnars-docs-docusaurus-debugc-91-5b6"
-    }
-  },
-  "/gnars-docs/__docusaurus/debug/registry-736": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---gnars-docs-docusaurus-debugc-91-5b6"
-    }
-  },
-  "/gnars-docs/__docusaurus/debug/routes-68b": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---gnars-docs-docusaurus-debugc-91-5b6"
-    }
-  },
-  "/gnars-docs/blog-019": {
-    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
-    "__context": {
-      "plugin": "plugin---gnars-docs-blogbf-9-520"
-    },
-    "sidebar": "sidebar---gnars-docs-blog-814-b64",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---gnars-docs-bloge-83-582"
+        "content": "e8306329"
       },
       {
-        "content": "content---gnars-docs-blog-766-1a6"
+        "content": "7661071f"
       },
       {
-        "content": "content---gnars-docs-blogf-4-f-c43"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---gnars-docs-blog-871-b99"
+        "content": "8717b14a"
       }
     ],
-    "metadata": "metadata---gnars-docs-blogd-0-e-bf3"
+    "metadata": "9c0e618b"
   },
-  "/gnars-docs/blog/archive-04c": {
-    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+  "/gnars-docs/es/blog/archive-919": {
+    "__comp": "9e4087bc",
     "__context": {
-      "plugin": "plugin---gnars-docs-blogbf-9-520"
+      "plugin": "bf96ea75"
     },
-    "archive": "archive---gnars-docs-blog-archived-97-ac8"
+    "archive": "c7c799f0"
   },
-  "/gnars-docs/blog/drop-dac": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/gnars-docs/es/blog/drop-2ef": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---gnars-docs-blogbf-9-520"
+      "plugin": "bf96ea75"
     },
-    "sidebar": "sidebar---gnars-docs-blog-814-b64",
-    "content": "content---gnars-docs-blog-dropd-9-f-d33"
+    "sidebar": "814f3328",
+    "content": "d9f32620"
   },
-  "/gnars-docs/blog/first-blog-post-6a0": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/gnars-docs/es/blog/first-blog-post-117": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---gnars-docs-blogbf-9-520"
+      "plugin": "bf96ea75"
     },
-    "sidebar": "sidebar---gnars-docs-blog-814-b64",
-    "content": "content---gnars-docs-blog-first-blog-post-5-ce-731"
+    "sidebar": "814f3328",
+    "content": "5cee5653"
   },
-  "/gnars-docs/blog/long-blog-post-ad4": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/gnars-docs/es/blog/long-blog-post-efe": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---gnars-docs-blogbf-9-520"
+      "plugin": "bf96ea75"
     },
-    "sidebar": "sidebar---gnars-docs-blog-814-b64",
-    "content": "content---gnars-docs-blog-long-blog-post-736-e3b"
+    "sidebar": "814f3328",
+    "content": "73664a40"
   },
-  "/gnars-docs/blog/mdx-blog-post-236": {
-    "__comp": "__comp---theme-blog-post-pageccc-cab",
+  "/gnars-docs/es/blog/mdx-blog-post-de1": {
+    "__comp": "ccc49370",
     "__context": {
-      "plugin": "plugin---gnars-docs-blogbf-9-520"
+      "plugin": "bf96ea75"
     },
-    "sidebar": "sidebar---gnars-docs-blog-814-b64",
-    "content": "content---gnars-docs-blog-mdx-blog-post-593-6bd"
+    "sidebar": "814f3328",
+    "content": "59362658"
   },
-  "/gnars-docs/blog/tags-b6d": {
-    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+  "/gnars-docs/es/blog/tags-045": {
+    "__comp": "01a85c17",
     "__context": {
-      "plugin": "plugin---gnars-docs-blogbf-9-520"
+      "plugin": "bf96ea75"
     },
-    "sidebar": "sidebar---gnars-docs-blog-814-b64",
-    "tags": "tags---gnars-docs-blog-tags-8-b-7-6c8"
+    "sidebar": "814f3328",
+    "tags": "a2b44190"
   },
-  "/gnars-docs/blog/tags/skateboard-d96": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/gnars-docs/es/blog/tags/skateboard-882": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---gnars-docs-blogbf-9-520"
+      "plugin": "bf96ea75"
     },
-    "sidebar": "sidebar---gnars-docs-blog-814-b64",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---gnars-docs-bloge-83-582"
+        "content": "e8306329"
       },
       {
-        "content": "content---gnars-docs-blog-766-1a6"
+        "content": "7661071f"
       },
       {
-        "content": "content---gnars-docs-blogf-4-f-c43"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---gnars-docs-blog-871-b99"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---gnars-docs-blog-tags-skateboard-729-62e",
-    "listMetadata": "listMetadata---gnars-docs-blog-tags-skateboard-7-cb-9f9"
+    "tag": "3a4cf496",
+    "listMetadata": "11d7d851"
   },
-  "/gnars-docs/blog/tags/trickpedia-068": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/gnars-docs/es/blog/tags/trickpedia-139": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---gnars-docs-blogbf-9-520"
+      "plugin": "bf96ea75"
     },
-    "sidebar": "sidebar---gnars-docs-blog-814-b64",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---gnars-docs-bloge-83-582"
+        "content": "e8306329"
       },
       {
-        "content": "content---gnars-docs-blog-766-1a6"
+        "content": "7661071f"
       },
       {
-        "content": "content---gnars-docs-blogf-4-f-c43"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---gnars-docs-blog-871-b99"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---gnars-docs-blog-tags-trickpedia-79-a-bee",
-    "listMetadata": "listMetadata---gnars-docs-blog-tags-trickpedia-9-bd-503"
+    "tag": "617766fb",
+    "listMetadata": "bd5ba71d"
   },
-  "/gnars-docs/blog/tags/video-cfd": {
-    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+  "/gnars-docs/es/blog/tags/video-966": {
+    "__comp": "6875c492",
     "__context": {
-      "plugin": "plugin---gnars-docs-blogbf-9-520"
+      "plugin": "bf96ea75"
     },
-    "sidebar": "sidebar---gnars-docs-blog-814-b64",
+    "sidebar": "814f3328",
     "items": [
       {
-        "content": "content---gnars-docs-bloge-83-582"
+        "content": "e8306329"
       },
       {
-        "content": "content---gnars-docs-blog-766-1a6"
+        "content": "7661071f"
       },
       {
-        "content": "content---gnars-docs-blogf-4-f-c43"
+        "content": "f4f34a3a"
       },
       {
-        "content": "content---gnars-docs-blog-871-b99"
+        "content": "8717b14a"
       }
     ],
-    "tag": "tag---gnars-docs-blog-tags-video-4-a-1-cc7",
-    "listMetadata": "listMetadata---gnars-docs-blog-tags-video-881-173"
+    "tag": "ef45f84d",
+    "listMetadata": "5ef6d0f2"
   },
-  "/gnars-docs/markdown-page-adc": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+  "/gnars-docs/es/markdown-page-c73": {
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---gnars-docs-markdown-page-612-b81"
+      "plugin": "6125362a"
     },
-    "content": "content---gnars-docs-markdown-page-393-877"
+    "content": "393be207"
   },
-  "/gnars-docs/search-f03": {
-    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+  "/gnars-docs/es/search-c6d": {
+    "__comp": "1a4e3797",
     "__context": {
-      "plugin": "plugin---gnars-docs-search-571-78e"
+      "plugin": "5712b3b2"
     }
   },
-  "/gnars-docs/docs-d64": {
-    "__comp": "__comp---theme-doc-page-1-be-9be",
+  "/gnars-docs/es/docs-e85": {
+    "__comp": "1be78505",
     "__context": {
-      "plugin": "plugin---gnars-docs-docs-6-b-5-b71"
+      "plugin": "6b57605c"
     },
-    "versionMetadata": "versionMetadata---gnars-docs-docs-935-4dd"
+    "versionMetadata": "935f2afb"
   },
-  "/gnars-docs/docs/category/-level-1---enter-gnarnia-aef": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---gnars-docs-docs-category-level-1-enter-gnarnia-891-44a"
+  "/gnars-docs/es/docs/category/-level-1---enter-gnarnia-74c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "9295fe0e"
   },
-  "/gnars-docs/docs/category/-level-2---welcome-to-club-f00": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---gnars-docs-docs-category-level-2-welcome-to-club-006-2b5"
+  "/gnars-docs/es/docs/category/-level-2---welcome-to-club-bff": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "652fed6d"
   },
-  "/gnars-docs/docs/category/-level-3---gettin-gnarlier-490": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---gnars-docs-docs-category-level-3-gettin-gnarliere-5-e-d93"
+  "/gnars-docs/es/docs/category/-level-3---gettin-gnarlier-6ba": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "b4d801c9"
   },
-  "/gnars-docs/docs/intro-bd9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-intro-0-e-3-9d4"
+  "/gnars-docs/es/docs/intro-f7c": {
+    "__comp": "17896441",
+    "content": "359fb69f"
   },
-  "/gnars-docs/docs/Level-1/how-do-i-get-first-gnar-ec6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-1-how-do-i-get-first-gnar-2-b-5-ac0"
+  "/gnars-docs/es/docs/Level-1/how-do-i-get-first-gnar-17b": {
+    "__comp": "17896441",
+    "content": "2b51d100"
   },
-  "/gnars-docs/docs/Level-1/how-to-create-wallet-285": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-1-how-to-create-wallet-8-e-3-ac4"
+  "/gnars-docs/es/docs/Level-1/how-to-create-wallet-38f": {
+    "__comp": "17896441",
+    "content": "8e34322a"
   },
-  "/gnars-docs/docs/Level-1/how-to-use-discord-1d6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-1-how-to-use-discord-48-c-ed7"
+  "/gnars-docs/es/docs/Level-1/how-to-use-discord-fcd": {
+    "__comp": "17896441",
+    "content": "48c1e311"
   },
-  "/gnars-docs/docs/Level-1/what-gnars-nft-can-do-f3a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-1-what-gnars-nft-can-do-383-7e6"
+  "/gnars-docs/es/docs/Level-1/what-gnars-nft-can-do-264": {
+    "__comp": "17896441",
+    "content": "383ce887"
   },
-  "/gnars-docs/docs/Level-1/what-is-a-NFT-88e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-1-what-is-a-nf-ta-94-5c6"
+  "/gnars-docs/es/docs/Level-1/what-is-a-NFT-b58": {
+    "__comp": "17896441",
+    "content": "a94c4a33"
   },
-  "/gnars-docs/docs/Level-1/what-is-ethereum-c28": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-1-what-is-ethereum-159-322"
+  "/gnars-docs/es/docs/Level-1/what-is-ethereum-731": {
+    "__comp": "17896441",
+    "content": "15907259"
   },
-  "/gnars-docs/docs/Level-2/2-1-verifying-your-gnar-aee": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-2-2-1-verifying-your-gnar-764-c5d"
+  "/gnars-docs/es/docs/Level-2/2-1-verifying-your-gnar-e05": {
+    "__comp": "17896441",
+    "content": "76445d59"
   },
-  "/gnars-docs/docs/Level-2/2-2-Gnarly-Meetings-e28": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-2-2-2-gnarly-meetingsbd-6-e12"
+  "/gnars-docs/es/docs/Level-2/2-2-Gnarly-Meetings-a34": {
+    "__comp": "17896441",
+    "content": "bd6ef198"
   },
-  "/gnars-docs/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals-fcd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-2-2-3-how-to-vote-in-the-dao-proposalsf-9-f-787"
+  "/gnars-docs/es/docs/Level-2/2-3-How-to-vote-in-the-DAO-proposals-3a1": {
+    "__comp": "17896441",
+    "content": "f9f122ab"
   },
-  "/gnars-docs/docs/Level-2/2-4-how-to-use-eth-to-buy-2c0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-2-2-4-how-to-use-eth-to-buyabd-038"
+  "/gnars-docs/es/docs/Level-2/2-4-how-to-use-eth-to-buy-d94": {
+    "__comp": "17896441",
+    "content": "abd0ca9a"
   },
-  "/gnars-docs/docs/Level-2/2-5-proposal-guidelines-e0a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-2-2-5-proposal-guidelines-176-486"
+  "/gnars-docs/es/docs/Level-2/2-5-proposal-guidelines-c22": {
+    "__comp": "17896441",
+    "content": "176b66fc"
   },
-  "/gnars-docs/docs/Level-2/2-6-49c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-2-2-6-a-6-c-af7"
+  "/gnars-docs/es/docs/Level-2/2-6-aec": {
+    "__comp": "17896441",
+    "content": "a6c5af5a"
   },
-  "/gnars-docs/docs/Level-2/translate-your-site-61a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-2-translate-your-sitee-4-b-367"
+  "/gnars-docs/es/docs/Level-2/translate-your-site-a5c": {
+    "__comp": "17896441",
+    "content": "e4be51fd"
   },
-  "/gnars-docs/docs/Level-3/bots-79c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-3-botsa-34-3d8"
+  "/gnars-docs/es/docs/Level-3/bots-3ef": {
+    "__comp": "17896441",
+    "content": "a34b5da6"
   },
-  "/gnars-docs/docs/Level-3/nounish-lifestyle-deb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-3-nounish-lifestyle-051-a15"
+  "/gnars-docs/es/docs/Level-3/nounish-lifestyle-008": {
+    "__comp": "17896441",
+    "content": "051a9e3d"
   },
-  "/gnars-docs/docs/Level-3/nounish-lifestyle copy-fd3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-3-nounish-lifestyle-copyf-05-6da"
+  "/gnars-docs/es/docs/Level-3/nounish-lifestyle copy-1bb": {
+    "__comp": "17896441",
+    "content": "f05a2965"
   },
-  "/gnars-docs/docs/Level-3/thats-gnarly-e16": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-3-thats-gnarly-200-9af"
+  "/gnars-docs/es/docs/Level-3/thats-gnarly-1e4": {
+    "__comp": "17896441",
+    "content": "2000ad5c"
   },
-  "/gnars-docs/docs/Level-3/translate-your-site-3a2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---gnars-docs-docs-level-3-translate-your-sitead-8-eb8"
+  "/gnars-docs/es/docs/Level-3/translate-your-site-19f": {
+    "__comp": "17896441",
+    "content": "ad89e399"
   },
-  "/gnars-docs/-c4b": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+  "/gnars-docs/es/-6ec": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---gnars-docs-markdown-page-612-b81"
+      "plugin": "6125362a"
     },
-    "config": "config---gnars-docs-5-e-9-a80"
+    "config": "5e9f5e1a"
   }
 }
