@@ -21,13 +21,12 @@ That's because wallets don't have custody of your funds, you do. They're just a 
 ## Easiest Way - Dawn
 Dawn is an iPhone based Ethereum mobile wallet. 
 
-You download the app onto your iPhone and run through the onboarding to get it setup. It has a native Safari extension, which makes it very easy to use Gnars from your iPhones Safari web browser. 
+You download the app onto your iPhone and run through the onboarding to get it setup. It has a native Safari extension, which makes it very easy to use Gnars from your Safari web browser. 
 
 Download here: https://apps.apple.com/us/app/dawn-ethereum-wallet/id1673143782.
 
 To use, you would go to the Gnars dapp (`gnars.wtf`) on Safari, and then when you click "Connect", "Settle Transaction" etc. a popup will appear which allows you to connect your wallet and interact with Gnars.
 
-Example:
 ![ezgif com-gif-maker](./img/DawnGnarsDemo.gif)
 
 

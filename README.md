@@ -19,6 +19,7 @@ open terminal or cmd:
 ```
 git clone https://github.com/sktbrd/gnars-docs.git
 cd gnars-docs
+npm install
 npm run start
 ```
 
