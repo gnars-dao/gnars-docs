@@ -27,7 +27,8 @@ Download here: https://apps.apple.com/us/app/dawn-ethereum-wallet/id1673143782.
 
 To use, you would go to the Gnars dapp (`gnars.wtf`) on Safari, and then when you click "Connect", "Settle Transaction" etc. a popup will appear which allows you to connect your wallet and interact with Gnars.
 
-A demo of how to use Dawn is: https://youtube.com/shorts/GFpCSmBmxx0.
+Example:
+![ezgif com-gif-maker](./img/DawnGnarsDemo.gif)
 
 
 ## Backup
