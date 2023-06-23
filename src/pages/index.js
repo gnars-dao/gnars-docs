@@ -46,8 +46,7 @@ export default function Home() {
   return (
     <Layout title={`${siteConfig.title}`} description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      // the free plan of this api key is over, you gotta replace then otherwise it wont work, I could make .env work in docusaurus 
-      <MendableFloatingButton icon={icon} anon_key='c08b6d38-b2b2-4ee9-abe5-34753f2fa9c2' style={style} floatingButtonStyle={floatingButtonStyle} />
+      <MendableFloatingButton icon={icon} anon_key='c08b6d38-b2b2-4ee9-abe5-34753f2fa9c2' style={style} floatingButtonStyle={floatingButtonStyle} /> 
       <main>
         <MendableSearchBar anon_key="c08b6d38-b2b2-4ee9-abe5-34753f2fa9c2" style={{ margin: '2rem auto',
                                                                                     maxWidth: '800px', 
