@@ -19,6 +19,7 @@
     "@docusaurus/theme-search-algolia": "^2.2.0",
     "@easyops-cn/docusaurus-search-local": "^0.33.6",
     "@mdx-js/react": "^1.6.22",
+    "@mendable/search": "^0.0.111",
     "clsx": "^1.2.1",
     "prism-react-renderer": "^1.3.5",
     "react": "^17.0.2",
