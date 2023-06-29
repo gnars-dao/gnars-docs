@@ -19,7 +19,11 @@ const icon = (
   <img
     src={require('@site/static/img/brain.png').default}
     alt="Gnars Icon"
-    style={{ width: '100px' }} // Adjust the width to your desired size
+    style={{
+      width: '80px', // Adjust the width to your desired size
+      borderRadius: '50%', // Set the border radius to 50% for a circular shape
+      border: '3px solid black', // Add a black border with a width of 1px
+    }}
   />
 );
 
@@ -48,10 +52,7 @@ export default function Home() {
       <HomepageHeader />
       <MendableFloatingButton icon={icon} anon_key='c08b6d38-b2b2-4ee9-abe5-34753f2fa9c2' style={style} floatingButtonStyle={floatingButtonStyle} /> 
       <main>
-        <MendableSearchBar anon_key="c08b6d38-b2b2-4ee9-abe5-34753f2fa9c2" style={{ margin: '2rem auto',
-                                                                                    maxWidth: '800px', 
-                                                                                    placeholder:'Ask our AI anything about Gnars',
-                                                                                    botIcon: "<img src='static/img/brain.png'></img>" }} />
+                                                                       
         <HomepageFeatures />
       </main>
     </Layout>
