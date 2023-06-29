@@ -11,9 +11,9 @@
     "message": "First onboarding level, your first steps to become a Gnarly Member",
     "description": "The generated-index page description for category 🛹 Level 1 - Enter Gnarnia in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.🛹 Level 2 - Welcome to Club": {
-    "message": "🛹 Level 2 - Welcome to Club",
-    "description": "The label for category 🛹 Level 2 - Welcome to Club in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.🛹 Level 2 - Join the Club": {
+    "message": "🛹 Level 2 - Join the Club",
+    "description": "The label for category 🛹 Level 2 - Join the Club in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.🛹 Level 3 - Gettin’ Gnarlier": {
     "message": "🛹 Level 3 - Gettin’ Gnarlier",
