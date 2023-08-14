@@ -82,7 +82,8 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Tutorials',
-          },  
+            emoji: '👍', // Add this line
+          },
 /**        {
             to: '/blog',
             label: '🛹 Trickpedia',
@@ -215,6 +216,11 @@ const config = {
         ],
         copyright: `Copyright © is a lie. Built with Weed`,
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,  // Set to true if you want to disable the light/dark switch button
+        respectPrefersColorScheme: false,  // Set to true if you want to respect the user's system setting
+      },      
       prism: {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
