@@ -6,9 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  stylesheets: [
+    'https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@300&display=swap'
+  ],
 
   title: 'Gnarly Docs ⌐◨-◨',
-  tagline: 'Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme athletes using web3 tools',
+  tagline: 'Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme creators and builders using web3 tools',
   url: 'https://sktbrd.github.io',
 
   baseUrl: '/',
@@ -66,6 +69,7 @@ const config = {
       },
     ],
   ],
+  
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -225,6 +229,7 @@ const config = {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },
+
     }),
 };
 
