@@ -44,9 +44,11 @@ const sidebars = {
         type: 'category',
         label: '🛹 Level 3 - Gettin’ Gnarlier',
         items: [
-          'Level-3/bots',
+          'Level-3/thats-gnarly',
           'Level-3/nounish-lifestyle',
-          'Level-3/thats-gnarly'
+          'Level-3/what-is-CC0',
+
+
         ],
       },
       {

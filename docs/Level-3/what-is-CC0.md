@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
-# 3.4) What is CC0?
+# 3.3) What is CC0?
 
 CC0 is a type of Creative Commons license that was first introduced in 2007. However, it was not until 2016 that it gained widespread attention. Unlike traditional copyright licenses, which reserve all rights to the creator, CC0 "No Rights Reserved" license offers a way for creators to waive all their rights, effectively making their work part of the public domain. This means that anyone can use, modify, and distribute the work without any restrictions or permissions from the original creator.
 

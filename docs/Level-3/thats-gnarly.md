@@ -1,4 +1,7 @@
-# Thatsgnar.ly - NFT Social media powered by Gnars
+---
+sidebar_position: 1
+---
+# 3.1) Thatsgnar.ly - NFT Social media powered by Gnars
 
 # What's up GNARly people?
 
