@@ -10,8 +10,8 @@ const config = {
     'https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@300&display=swap'
   ],
 
-  title: 'Gnarly Docs ⌐◨-◨',
-  tagline: 'Onboarding Docs for Gnars Community. Gnars are a new way to fund extreme creators and builders using web3 tools',
+  title: 'Gnars Center ⌐◨-◨',
+  tagline: 'Gnars related projects and Onboarding Docs for Gnars Community.',
   url: 'https://sktbrd.github.io',
 
   baseUrl: '/',

@@ -2,48 +2,90 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-
 const FeatureList = [
   {
-    title: 'WTF is a DAO?',
-    Svg: require('@site/static/img/gnars1.svg').default,
+    title: 'Gnars.wtf',
+    Svg: require('@site/static/img/gnars.svg').default,
     description: (
       <>
-        Learn WTF is this DAO thing about. And learn how it is changing the world.         WTF is ETH ? Can I buy wheels with it? Is Discord a BMX trick or some kind of food? 
-
+        Our main website, you will find our auctions, governance ...
       </>
     ),
+    link: 'https://gnars.wtf', // Replace with your desired URL
   },
   {
-    title: 'Get funded for your DIY project',
+    title: 'ThatsGnar.ly',
     Svg: require('@site/static/img/gnars2.svg').default,
     description: (
       <>
-      Our community developed an enviroment that you can earn and get funded for shredding. We like to call proof of stoken. You just need to get everyone stoked !
+        Our 3.0 Social Media
       </>
     ),
+    link: 'https://thatsgnar.ly', // Replace with your desired URL
+  },
+  {
+    title: 'Settle.wtf',
+    Svg: require('@site/static/img/unborn.svg').default,
+    description: (
+      <>
+Preview the next Gnar to auction before clicking Settle!      </>
+    ),
+    link: 'https://settle.wtf', // Replace with your desired URL
   },
   {
     title: '$ for $hredding',
     Svg: require('@site/static/img/gnars3.svg').default,
     description: (
       <>
-        We prefer a world where kids aren't sold energy drinks by their heroes. So as a community of action sports enthusiasts, we've formed a DAO to rethink how extreme athletes get sponsored. 
+        We prefer a world where kids aren't sold energy drinks by their heroes. So as a community of action sports enthusiasts, we've formed a DAO to rethink how extreme athletes get sponsored.
       </>
     ),
+    link: 'https://example.com/sponsorship', // Replace with your desired URL
+  },
+  {
+    title: '$ for $hredding',
+    Svg: require('@site/static/img/gnars3.svg').default,
+    description: (
+      <>
+        We prefer a world where kids aren't sold energy drinks by their heroes. So as a community of action sports enthusiasts, we've formed a DAO to rethink how extreme athletes get sponsored.
+      </>
+    ),
+    link: 'https://example.com/sponsorship', // Replace with your desired URL
+  },
+  {
+    title: '$ for $hredding',
+    Svg: require('@site/static/img/gnars3.svg').default,
+    description: (
+      <>
+        We prefer a world where kids aren't sold energy drinks by their heroes. So as a community of action sports enthusiasts, we've formed a DAO to rethink how extreme athletes get sponsored.
+      </>
+    ),
+    link: 'https://example.com/sponsorship', // Replace with your desired URL
+  },
+  {
+    title: '$ for $hredding',
+    Svg: require('@site/static/img/gnars3.svg').default,
+    description: (
+      <>
+        We prefer a world where kids aren't sold energy drinks by their heroes. So as a community of action sports enthusiasts, we've formed a DAO to rethink how extreme athletes get sponsored.
+      </>
+    ),
+    link: 'https://example.com/sponsorship', // Replace with your desired URL
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description, link }) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
-      </div>
+      <a href={link} className={styles.featureLink}>
+        <div className="text--center">
+          <Svg className={styles.featureSvg} role="img" />
+        </div>
+        <div className="text--center padding-horiz--md">
+          <h3>{title}</h3>
+          <p>{description}</p>
+        </div>
+      </a>
     </div>
   );
 }
