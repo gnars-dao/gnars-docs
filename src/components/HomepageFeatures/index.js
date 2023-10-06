@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/auction-chart.svg').default,
     description: (
       <>
-        Our main website, you will find our auctions, governance ...
+        Our main website, you will find our auctions, governance ... 
       </>
     ),
     link: 'https://gnars.wtf', // Replace with your desired URL
@@ -33,14 +33,24 @@ Preview the next Gnar to auction before clicking Settle!      </>
     link: 'https://settle.wtf', // Replace with your desired URL
   },
   {
-    title: '$ for $hredding',
-    Svg: require('@site/static/img/gnars3.svg').default,
+    title: 'Gnarly News',
+    Svg: require('@site/static/img/gnarly-news.svg').default,
     description: (
       <>
-        We prefer a world where kids aren't sold energy drinks by their heroes. So as a community of action sports enthusiasts, we've formed a DAO to rethink how extreme athletes get sponsored.
+      Weekly News about Gnars 
       </>
     ),
-    link: 'https://example.com/sponsorship', // Replace with your desired URL
+    link: 'https://gnarly.news/subscribe', // Replace with your desired URL
+  },
+  {
+    title: 'Nounstacle',
+    Svg: require('@site/static/img/oclin.svg').default,
+    description: (
+      <>
+      Open 3D project of The Nounstacle
+      </>
+    ),
+    link: 'https://drive.google.com/drive/folders/1fbC8TjzBXGSze6Wgn61ex-SiprJlPKnk', // Replace with your desired URL
   },
   {
     title: '$ for $hredding',
@@ -50,17 +60,7 @@ Preview the next Gnar to auction before clicking Settle!      </>
         We prefer a world where kids aren't sold energy drinks by their heroes. So as a community of action sports enthusiasts, we've formed a DAO to rethink how extreme athletes get sponsored.
       </>
     ),
-    link: 'https://example.com/sponsorship', // Replace with your desired URL
-  },
-  {
-    title: '$ for $hredding',
-    Svg: require('@site/static/img/gnars3.svg').default,
-    description: (
-      <>
-        We prefer a world where kids aren't sold energy drinks by their heroes. So as a community of action sports enthusiasts, we've formed a DAO to rethink how extreme athletes get sponsored.
-      </>
-    ),
-    link: 'https://example.com/sponsorship', // Replace with your desired URL
+    link: 'https://chrome.google.com/webstore/detail/settle-or-die/ciabjlofbbflnnjocnbgidbhfnddijpm', // Replace with your desired URL
   },
   {
     title: '$ for $hredding',
