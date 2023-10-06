@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Gnars.wtf',
-    Svg: require('@site/static/img/gnars.svg').default,
+    Svg: require('@site/static/img/auction-chart.svg').default,
     description: (
       <>
         Our main website, you will find our auctions, governance ...
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'ThatsGnar.ly',
-    Svg: require('@site/static/img/gnars2.svg').default,
+    Svg: require('@site/static/img/thatsgnarly.svg').default,
     description: (
       <>
         Our 3.0 Social Media
