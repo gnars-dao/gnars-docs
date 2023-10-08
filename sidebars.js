@@ -23,7 +23,7 @@ const sidebars = {
           'Level-1/what-is-ethereum',
           'Level-1/what-is-a-NFT',
           'Level-1/how-to-create-wallet',
-          'Level-1/what-gnars-nft-can-do',
+          'Level-1/what-can-gnar-nfts-do',
           'Level-1/how-to-use-discord',
           'Level-1/how-do-i-get-first-gnar'
         ],
