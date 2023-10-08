@@ -12,7 +12,7 @@ sidebar_position: 1
 
 Ethereum is a technology for building apps and organizations, holding assets, transacting and communicating without being controlled by a central authority. There is no need to hand over all your personal details to use Ethereum - you keep control of your own data and what is being shared. Ethereum has its own cryptocurrency, Ether, which is used to pay for certain activities on the Ethereum network.
 
-## How Gnars use ETH?
+## How do Gnars use ETH?
 
 ## What is a cryptocurrency?
 
@@ -26,7 +26,7 @@ A middle-man is a central authority like a bank or government that intervenes in
 
 Things are different with crypto. **Transactions directly connect sender and recipient** without having to deal with any central authority. Nobody else will have access to your funds and **nobody can tell you what services you can use**. This is possible because of the blockchain technology upon which cryptocurrencies operate.
 
-## Whats a Blockchain?
+## What's a Blockchain?
 
 **A blockchain is a database of transactions**
- that is updated and shared across many computers in a network. Every time a new set of transactions is added, its called a “block” - hence the name blockchain. Most blockchains are public, and you can only add data, not remove. If someone wanted to alter any of the information or cheat the system, they’d need to do so on the majority of computers on the network. That is a lot! This makes established blockchains like Ethereum highly secure.
+that is updated and shared across many computers in a network. Every time a new set of transactions is added, its called a “block” - hence the name blockchain. Most blockchains are public, and you can only add data, not remove. If someone wanted to alter any of the information or cheat the system, they’d need to do so on the majority of computers on the network. That is a lot! This makes established blockchains like Ethereum highly secure.
