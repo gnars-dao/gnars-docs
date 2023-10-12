@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 1.4) What Gnars NFT can do?
+# 1.4) What can Gnar NFTs do?
 
 1) Governance: GNAR NFTs may be used as votes in the GNAR governance process. Token holders may use their NFTs to cast votes on decisions related to the GNAR project, such as changes to the platform, community or the allocation of funds.
 
