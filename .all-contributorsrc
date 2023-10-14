@@ -42,6 +42,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "sktbrd",
+      "name": "Vlad 2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/116202536?v=4",
+      "profile": "https://skatehive.app",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
