@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "nidnogg",
+      "name": "henrique",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17261185?v=4",
+      "profile": "https://nidnogg.github.io/mood-drone/",
+      "contributions": [
+        "review"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "gnars-docs",
+  "projectOwner": "sktbrd"
+}
