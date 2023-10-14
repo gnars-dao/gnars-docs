@@ -24,6 +24,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mconstant",
+      "name": "mconstant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85532172?v=4",
+      "profile": "https://github.com/mconstant",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
