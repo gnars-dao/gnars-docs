@@ -1,6 +1,6 @@
 # Gnarly Docs ⌐◨-◨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Live View: https://sktbrd.github.io/gnars-docs/ 
@@ -42,6 +42,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://nidnogg.github.io/mood-drone/"><img src="https://avatars.githubusercontent.com/u/17261185?v=4?s=100" width="100px;" alt="henrique"/><br /><sub><b>henrique</b></sub></a><br /><a href="https://github.com/sktbrd/gnars-docs/pulls?q=is%3Apr+reviewed-by%3Anidnogg" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.dawnwallet.xyz/"><img src="https://avatars.githubusercontent.com/u/20632187?v=4?s=100" width="100px;" alt="Tom Waite"/><br /><sub><b>Tom Waite</b></sub></a><br /><a href="https://github.com/sktbrd/gnars-docs/commits?author=thomas-waite" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

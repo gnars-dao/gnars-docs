@@ -15,6 +15,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "thomas-waite",
+      "name": "Tom Waite",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20632187?v=4",
+      "profile": "https://www.dawnwallet.xyz/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
