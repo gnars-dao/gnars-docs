@@ -1,6 +1,6 @@
 # Gnarly Docs ⌐◨-◨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Live View: https://sktbrd.github.io/gnars-docs/ 
@@ -45,6 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://www.dawnwallet.xyz/"><img src="https://avatars.githubusercontent.com/u/20632187?v=4?s=100" width="100px;" alt="Tom Waite"/><br /><sub><b>Tom Waite</b></sub></a><br /><a href="https://github.com/sktbrd/gnars-docs/commits?author=thomas-waite" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mconstant"><img src="https://avatars.githubusercontent.com/u/85532172?v=4?s=100" width="100px;" alt="mconstant"/><br /><sub><b>mconstant</b></sub></a><br /><a href="#tutorial-mconstant" title="Tutorials">✅</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JasperOPR"><img src="https://avatars.githubusercontent.com/u/85296013?v=4?s=100" width="100px;" alt="Jasper"/><br /><sub><b>Jasper</b></sub></a><br /><a href="https://github.com/sktbrd/gnars-docs/pulls?q=is%3Apr+reviewed-by%3AJasperOPR" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://skatehive.app"><img src="https://avatars.githubusercontent.com/u/116202536?v=4?s=100" width="100px;" alt="Vlad 2"/><br /><sub><b>Vlad 2</b></sub></a><br /><a href="https://github.com/sktbrd/gnars-docs/commits?author=sktbrd" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
