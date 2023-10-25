@@ -60,7 +60,7 @@ Preview the next Gnar to auction before clicking Settle!      </>
       The portal of web3 skateboarding
       </>
     ),
-    link: 'https://chrome.google.com/webstore/detail/settle-or-die/ciabjlofbbflnnjocnbgidbhfnddijpm', // Replace with your desired URL
+    link: 'https://skatehive.app', 
   },
   {
     title: 'Quest 4 Stoken',
@@ -71,7 +71,7 @@ Preview the next Gnar to auction before clicking Settle!      </>
 
       </>
     ),
-    link: 'https://example.com/sponsorship', // Replace with your desired URL
+    link: 'https://skatehive.app/QFS', 
   },
 ];
 
