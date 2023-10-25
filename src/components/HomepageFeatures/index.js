@@ -53,21 +53,22 @@ Preview the next Gnar to auction before clicking Settle!      </>
     link: 'https://drive.google.com/drive/folders/1fbC8TjzBXGSze6Wgn61ex-SiprJlPKnk', // Replace with your desired URL
   },
   {
-    title: '$ for $hredding',
-    Svg: require('@site/static/img/gnars3.svg').default,
+    title: 'Skatehive App',
+    Svg: require('@site/static/img/skatehive.svg').default,
     description: (
       <>
-        We prefer a world where kids aren't sold energy drinks by their heroes. So as a community of action sports enthusiasts, we've formed a DAO to rethink how extreme athletes get sponsored.
+      The portal of web3 skateboarding
       </>
     ),
     link: 'https://chrome.google.com/webstore/detail/settle-or-die/ciabjlofbbflnnjocnbgidbhfnddijpm', // Replace with your desired URL
   },
   {
-    title: '$ for $hredding',
-    Svg: require('@site/static/img/gnars3.svg').default,
+    title: 'Quest 4 Stoken',
+    Svg: require('@site/static/img/QFS.svg').default,
     description: (
       <>
-        We prefer a world where kids aren't sold energy drinks by their heroes. So as a community of action sports enthusiasts, we've formed a DAO to rethink how extreme athletes get sponsored.
+      Play to earn video game on Hive Blockchain, brought to you by SKATEHIVE and Gnars DAO
+
       </>
     ),
     link: 'https://example.com/sponsorship', // Replace with your desired URL
