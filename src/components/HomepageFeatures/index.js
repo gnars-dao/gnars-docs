@@ -64,7 +64,7 @@ Preview the next Gnar to auction before clicking Settle!      </>
   },
   {
     title: 'Quest 4 Stoken',
-    Svg: require('@site/static/img/QFS.svg').default,
+    Svg: require('@site/static/img/qfs.svg').default,
     description: (
       <>
       Play to earn video game on Hive Blockchain, brought to you by SKATEHIVE and Gnars DAO
