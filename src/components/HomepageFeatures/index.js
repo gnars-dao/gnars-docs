@@ -73,6 +73,16 @@ Preview the next Gnar to auction before clicking Settle!      </>
     ),
     link: 'https://skatehive.app/QFS', 
   },
+  {
+    title: 'GnarSauce',
+    Svg: require('@site/static/img/gnarsauce.svg').default,
+    description: (
+      <>
+      Spicy and Gnarly 
+      </>
+    ),
+    link: 'https://thatsgnar.ly/thatsgnarly/shop/gnarssauce', 
+  },
 ];
 
 function Feature({ Svg, title, description, link }) {
