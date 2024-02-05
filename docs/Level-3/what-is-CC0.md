@@ -13,3 +13,6 @@ The beauty of CC0 licensing lies in its ability to promote creativity and collab
 In addition to promoting creativity, CC0 licensing can also be a powerful tool for advancing social causes and promoting cultural heritage. By making works available for free, creators can help preserve cultural artifacts and promote awareness of important issues. This can help ensure that these works are accessible to everyone, regardless of their background or financial resources.
 
 Overall, CC0 licensing is an important development in the world of copyright and intellectual property. By promoting freedom and collaboration, it has the potential to transform the way we think about creative works and their value to society.
+
+
+Xargs Rocks
