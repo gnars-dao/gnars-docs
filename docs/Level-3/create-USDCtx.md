@@ -7,6 +7,11 @@ sidebar_position: 6
 
 Here's the steps to use the gnars proposal process on nouns.build base gnars. In the future this will be easier.
 
+## 0. Full tutorial Video
+
+<iframe width="100%" height="400" src="https://ipfs.skatehive.app/ipfs/QmTXcgYUBX4shCLvy63WdUA7Gb2MYAqGtzXC4nmfgdLd6y?pinataGatewayToken=nxHSFa1jQsiF7IHeXWH-gXCY3LDLlZ7Run3aZXZc8DRCfQz4J4a94z9DmVftXyFE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 ---
 
 ## 1. Go to  [Gnars on Nouns.Build](https://nouns.build/dao/base/0x880fb3cf5c6cc2d7dfc13a993e839a9411200c17/5281?tab=activity)
@@ -67,6 +72,3 @@ Don't forget to shred your markdown skills on it ;)
 
 ![](https://i.ibb.co/x22rBJy/image.png)
 
-## 7. Full tutorial Video
-
-<iframe width="100%" src="https://ipfs.skatehive.app/ipfs/QmTXcgYUBX4shCLvy63WdUA7Gb2MYAqGtzXC4nmfgdLd6y?pinataGatewayToken=nxHSFa1jQsiF7IHeXWH-gXCY3LDLlZ7Run3aZXZc8DRCfQz4J4a94z9DmVftXyFE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
