@@ -31,7 +31,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en','fr','pt-br','es'],
+    locales: ['en', 'fr', 'pt-br', 'es'],
   },
 
   presets: [
@@ -55,9 +55,9 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-          
+
         },
-        
+
       }),
     ],
   ],
@@ -69,7 +69,7 @@ const config = {
       },
     ],
   ],
-  
+
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -88,11 +88,11 @@ const config = {
             label: 'Tutorials',
             emoji: '👍', // Add this line
           },
-/**        {
-            to: '/blog',
-            label: '🛹 Trickpedia',
-            position: 'left'},
-*/
+          /**        {
+                      to: '/blog',
+                      label: '🛹 Trickpedia',
+                      position: 'left'},
+          */
           {
             href: 'https://github.com/sktbrd/gnars-docs',
             label: 'GitHub',
@@ -105,7 +105,7 @@ const config = {
           {
             type: 'dropdown',
             label: 'Projects',
-            position:'left',
+            position: 'left',
             items: [
               {
                 label: 'ThatsGnarly',
@@ -124,7 +124,7 @@ const config = {
           {
             type: 'dropdown',
             label: 'Get a Gnar NFT',
-            position:'left',
+            position: 'left',
             items: [
               {
                 label: 'Auctions',
@@ -132,14 +132,14 @@ const config = {
               },
               {
                 label: 'OpenSea',
-                href: 'https://opensea.io/collection/gnars-v2'
+                href: 'https://opensea.io/collection/gnars-dao'
               }
             ]
           },
           {
             type: 'dropdown',
             label: 'Games',
-            position:'left',
+            position: 'left',
             items: [
               {
                 label: 'Quest For Stoken',
@@ -205,18 +205,18 @@ const config = {
             ],
           },
           {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/sktbrd/gnars-docs',
-            },
-          ],
-        },
+            title: 'More',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/sktbrd/gnars-docs',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © is a lie. Built with Weed`,
       },
@@ -224,7 +224,7 @@ const config = {
         defaultMode: 'dark',
         disableSwitch: false,  // Set to true if you want to disable the light/dark switch button
         respectPrefersColorScheme: false,  // Set to true if you want to respect the user's system setting
-      },      
+      },
       prism: {
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,

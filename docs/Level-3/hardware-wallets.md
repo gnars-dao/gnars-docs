@@ -2,4 +2,4 @@
 sidebar_position: 1
 ---
 
-# Hardware Wallets 
+# 3.1) Hardware Wallets 
