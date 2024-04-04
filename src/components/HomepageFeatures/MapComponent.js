@@ -1,6 +1,6 @@
 // MapComponent.js
 import React from 'react';
-import useDynamicLeaflet from './useDynamicLeaflet'; // Adjust the path according to your project structure
+import useDynamicLeaflet from './useDynamicLeaflet';
 
 const MapComponent = () => {
     const { MapContainer, TileLayer, Marker, Popup, icon } = useDynamicLeaflet();

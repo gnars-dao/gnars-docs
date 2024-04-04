@@ -2,9 +2,6 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
-import { MapContainer, TileLayer, Marker, Popup, MarkerProps } from 'react-leaflet';
-import 'leaflet/dist/leaflet.css'; // Don't forget to import the CSS
-import L from 'leaflet';
 import BrowserOnly from '@docusaurus/BrowserOnly';
 import MapComponent from './MapComponent';
 const FeatureList = [
