@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 # 3.1) Thatsgnar.ly - NFT Social media powered by Gnars
 
