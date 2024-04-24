@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7309],{6807:s=>{s.exports=JSON.parse('{"label":"video","permalink":"/gnars-docs/es/blog/tags/video","allTagsPath":"/gnars-docs/es/blog/tags","count":4}')}}]);
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7309],{6807:s=>{s.exports=JSON.parse('{"label":"video","permalink":"/es/blog/tags/video","allTagsPath":"/es/blog/tags","count":4}')}}]);
