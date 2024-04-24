@@ -12,7 +12,7 @@ const config = {
 
   title: 'Gnars Center ⌐◨-◨',
   tagline: 'Gnars related projects and Onboarding Docs for Gnars Community.',
-  url: 'https://sktbrd.github.io',
+  url: 'https://gnars-dao.github.io',
 
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -22,9 +22,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'sktbrd', // Usually your GitHub org/user name.
-  projectName: 'gnars-docs', // Usually your repo name.
-  deploymentBranch: "gh-pages",
+  organizationName: 'gnars-dao', // Usually your GitHub org/user name.
+  projectName: 'gnars-dao.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sktbrd/gnars-docs/tree/main/',
+            'https://github.com/gnars-dao/gnars-dao.github.io/tree/main/',
         },
         blog: {
           showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/sktbrd/gnars-docs/tree/main/',
+            'https://github.com/gnars-dao/gnars-dao.github.io/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -94,7 +94,7 @@ const config = {
                       position: 'left'},
           */
           {
-            href: 'https://github.com/sktbrd/gnars-docs',
+            href: 'https://github.com/gnars-dao/gnars-dao.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -213,7 +213,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/sktbrd/gnars-docs',
+                href: 'https://github.com/gnars-dao/gnars-dao.github.io',
               },
             ],
           },
