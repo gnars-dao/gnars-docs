@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Live View: https://sktbrd.github.io/gnars-docs/ 
+Live View: https://gnarsdocs.vercel.app 
 
 ![](https://i.ibb.co/zXk6YdR/image.png)
 
@@ -22,8 +22,8 @@ open terminal or cmd:
 ```
 git clone https://github.com/sktbrd/gnars-docs.git
 cd gnars-docs
-npm install
-npm run start
+pnpm install
+pnpm start
 ```
 
 You gotta have [Node.Js](https://nodejs.org/en/) and know some shit, or you can just be gnarly about it 
