@@ -11,8 +11,8 @@ const config = {
   ],
 
   title: 'Gnars Center ⌐◨-◨',
-  tagline: 'Gnars related projects and Onboarding Docs for Gnars Community.',
-  url: 'https://gnars-dao.github.io',
+  tagline: 'Gnars Community onboarding Docs.',
+  url: 'https://gnarsdao.vercel.app',
 
   baseUrl: '/',
   onBrokenLinks: 'throw',
