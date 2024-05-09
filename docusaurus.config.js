@@ -86,7 +86,7 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Tutorials',
-            emoji: '👍', // Add this line
+            emoji: '👍',
           },
           /**        {
                       to: '/blog',
@@ -108,8 +108,8 @@ const config = {
             position: 'left',
             items: [
               {
-                label: 'ThatsGnarly',
-                href: 'https://thatsgnar.ly'
+                label: 'Noggles Rail',
+                href: 'https://drive.google.com/drive/folders/1fbC8TjzBXGSze6Wgn61ex-SiprJlPKnk'
               },
               {
                 label: 'Skatehive',
@@ -128,7 +128,7 @@ const config = {
             items: [
               {
                 label: 'Auctions',
-                href: 'https://gnars.wtf'
+                href: 'https://nouns.build/dao/base/0x880fb3cf5c6cc2d7dfc13a993e839a9411200c17/5764?tab=about'
               },
               {
                 label: 'OpenSea',
@@ -136,21 +136,21 @@ const config = {
               }
             ]
           },
-          {
-            type: 'dropdown',
-            label: 'Games',
-            position: 'left',
-            items: [
-              {
-                label: 'Quest For Stoken',
-                href: 'https://stoken.quest/'
-              },
-              {
-                label: 'Grinderz',
-                href: 'https://gnars.fun/'
-              }
-            ]
-          }
+          // {
+          //   type: 'dropdown',
+          //   label: 'Games',
+          //   position: 'left',
+          //   items: [
+          //     {
+          //       label: 'Quest For Stoken',
+          //       href: 'https://stoken.quest/'
+          //     },
+          //     {
+          //       label: 'Grinderz',
+          //       href: 'https://gnars.fun/'
+          //     }
+          //   ]
+          // }
         ],
       },
       footer: {
@@ -179,11 +179,11 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/gnarsdao',
+                href: 'https://twitter.com/gnars_dao',
               },
               {
-                label: 'Snapshot',
-                href: 'https://snapshot.org/#/gnars.eth'
+                label: 'Governance',
+                href: 'https://nouns.build/dao/base/0x880fb3cf5c6cc2d7dfc13a993e839a9411200c17/5764?tab=activity'
               }
             ],
           },
@@ -191,30 +191,35 @@ const config = {
             title: 'Shred to Earn',
             items: [
               {
-                label: '🛹 Skatehive App',
+                label: 'Farcaster',
+                href: 'https://warpcast.com/~/channel/gnars',
+              },
+              {
+                label: 'Skatehive App',
                 href: 'https://skatehive.app',
               },
               {
-                label: '🌊 Surfhive App',
-                href: 'https://peakd.com/c/hive-141964/created',
+                label: 'Stoken.wtf',
+                href: 'https://stoken.wtf',
               },
-              {
-                label: '🤘 Thats Gnarly',
-                href: 'https://thatsgnar.ly',
-              },
+
             ],
           },
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/gnars-dao/gnars-dao.github.io',
               },
+              {
+                label: 'Gnars.com',
+                href: 'https://gnars.com',
+              }
             ],
           },
         ],
