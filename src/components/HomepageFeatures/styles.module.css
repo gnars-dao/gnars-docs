@@ -8,8 +8,15 @@
 .featureSvg {
   height: 200px;
   width: 200px;
-  border-radius: 10px;
-  object-fit: cover;
+  border-radius: 100%;
+  filter: grayscale(1);
+  transition: filter 0.3s ease;
+  background-color: white;
+  padding: 5px;
+}
+
+.featureSvg:hover {
+  filter: grayscale(0);
 }
 
 h3 {

@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "^2.4.1",
+    "@docusaurus/plugin-content-docs": "^3.3.2",
     "@docusaurus/preset-classic": "^2.4.1",
     "@docusaurus/theme-search-algolia": "^2.4.1",
     "@docusaurus/types": "^3.3.2",

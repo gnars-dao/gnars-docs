@@ -11,8 +11,8 @@ import { MendableFloatingButton } from "@mendable/search"
 const style = { darkMode: false, accentColor: "#123456" }
 
 const floatingButtonStyle = {
-    color: "#000000",
-    backgroundColor: "#ffe762"
+  color: "#000000",
+  backgroundColor: "#ffe762"
 }
 
 const icon = (
@@ -20,9 +20,9 @@ const icon = (
     src={require('@site/static/img/brain.png').default}
     alt="Gnars Icon"
     style={{
-      width: '80px', // Adjust the width to your desired size
-      borderRadius: '50%', // Set the border radius to 50% for a circular shape
-      border: '3px solid black', // Add a black border with a width of 1px
+      width: '80px',
+      borderRadius: '50%',
+      border: '3px solid black',
     }}
   />
 );
@@ -36,8 +36,8 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link   style={{ border: '2px solid black' }}
- className="button button--secondary button--lg" to="/docs/intro">
+          <Link style={{ border: '2px solid black' }}
+            className="button button--secondary button--lg" to="/docs/intro">
             Nerd it up!
           </Link>
         </div>
@@ -49,11 +49,13 @@ function HomepageHeader() {
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={`${siteConfig.title}`} description="Description will go into a meta tag in <head />">
+    <Layout title={`${siteConfig.title}`} description="Gnars Docs ">
       <HomepageHeader />
-      <MendableFloatingButton icon={icon} anon_key='c08b6d38-b2b2-4ee9-abe5-34753f2fa9c2' style={style} floatingButtonStyle={floatingButtonStyle} /> 
+
       <main>
-                                                                       
+        <div style={{ zIndex: 1000, position: 'fixed', top: 0, left: 0, right: 0 }}>
+          <MendableFloatingButton icon={icon} anon_key='c08b6d38-b2b2-4ee9-abe5-34753f2fa9c2' style={style} floatingButtonStyle={floatingButtonStyle} />
+        </div>
         <HomepageFeatures />
       </main>
     </Layout>

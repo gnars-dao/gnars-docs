@@ -156,19 +156,19 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-              {
-                label: "Charmverse",
-                href: "https://app.charmverse.io/share/gnars/page-9870330106092746"
-              }
-            ],
-          },
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     {
+          //       label: 'Tutorial',
+          //       to: '/docs/intro',
+          //     },
+          //     {
+          //       label: "Charmverse",
+          //       href: "https://app.charmverse.io/share/gnars/page-9870330106092746"
+          //     }
+          //   ],
+          // },
           {
             title: 'Community',
             items: [

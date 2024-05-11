@@ -7,7 +7,7 @@ import MapComponent from './MapComponent';
 const FeatureList = [
   {
     title: 'Gnars.wtf',
-    Svg: require('@site/static/img/auction-chart.svg').default,
+    Svg: require('@site/static/img/thatsgnarly.svg').default,
     description: (
       <>
         Our main website, you will find our auctions, governance ...
@@ -15,44 +15,44 @@ const FeatureList = [
     ),
     link: 'https://gnars.wtf', // Replace with your desired URL
   },
+  // {
+  //   title: 'ThatsGnar.ly',
+  //   Svg: require('@site/static/img/thatsgnarly.svg').default,
+  //   description: (
+  //     <>
+  //       Our 3.0 Social Media
+  //     </>
+  //   ),
+  //   link: 'https://thatsgnar.ly', // Replace with your desired URL
+  // },
+  // {
+  //   title: 'Settle.wtf',
+  //   Svg: require('@site/static/img/unborn.svg').default,
+  //   description: (
+  //     <>
+  //       Preview the next Gnar to auction before clicking Settle!      </>
+  //   ),
+  //   link: 'https://settle.wtf', // Replace with your desired URL
+  // },
   {
-    title: 'ThatsGnar.ly',
-    Svg: require('@site/static/img/thatsgnarly.svg').default,
-    description: (
-      <>
-        Our 3.0 Social Media
-      </>
-    ),
-    link: 'https://thatsgnar.ly', // Replace with your desired URL
-  },
-  {
-    title: 'Settle.wtf',
-    Svg: require('@site/static/img/unborn.svg').default,
-    description: (
-      <>
-        Preview the next Gnar to auction before clicking Settle!      </>
-    ),
-    link: 'https://settle.wtf', // Replace with your desired URL
-  },
-  {
-    title: 'Gnarly News',
-    Svg: require('@site/static/img/gnarly-news.svg').default,
-    description: (
-      <>
-        Weekly News about Gnars
-      </>
-    ),
-    link: 'https://gnarly.news/subscribe', // Replace with your desired URL
-  },
-  {
-    title: 'Nounstacle',
+    title: 'Noggles Rail',
     Svg: require('@site/static/img/oclin.svg').default,
     description: (
       <>
         Open 3D project of The Nounstacle
       </>
     ),
-    link: 'https://drive.google.com/drive/folders/1fbC8TjzBXGSze6Wgn61ex-SiprJlPKnk', // Replace with your desired URL
+    link: 'https://drive.google.com/drive/folders/1fbC8TjzBXGSze6Wgn61ex-SiprJlPKnk',
+  },
+  {
+    title: 'Farcaster',
+    Svg: require('@site/static/img/farcaster.svg').default,
+    description: (
+      <>
+        Our Farcaster Channel
+      </>
+    ),
+    link: 'https://warpcast.com/~/channel/gnars',
   },
   {
     title: 'Skatehive App',
@@ -69,22 +69,33 @@ const FeatureList = [
     Svg: require('@site/static/img/qfs.svg').default,
     description: (
       <>
-        Play to earn video game on Hive Blockchain, brought to you by SKATEHIVE and Gnars DAO
+        Play to earn skate game, brought to you by Skatehive and Gnars DAO
 
       </>
     ),
     link: 'https://skatehive.app/QFS',
   },
   {
-    title: 'GnarSauce',
-    Svg: require('@site/static/img/gnarsauce.svg').default,
+    title: 'Gnarly News',
+    Svg: require('@site/static/img/gnarly-news.svg').default,
     description: (
       <>
-        Spicy and Gnarly
+        Weekly News about Gnars in Paragraph
       </>
     ),
-    link: 'https://thatsgnar.ly/thatsgnarly/shop/gnarssauce',
+    link: 'https://paragraph.xyz/@gnars',
   },
+
+  // {
+  //   title: 'GnarSauce',
+  //   Svg: require('@site/static/img/gnarsauce.svg').default,
+  //   description: (
+  //     <>
+  //       Spicy and Gnarly
+  //     </>
+  //   ),
+  //   link: 'https://thatsgnar.ly/thatsgnarly/shop/gnarssauce',
+  // },
 ];
 
 
@@ -92,13 +103,13 @@ const FeatureList = [
 function Feature({ Svg, title, description, link }) {
   return (
     <div className={clsx('col col--4')}>
-      <a href={link} className={styles.featureLink}>
-        <div className="text--center">
+      <a href={link} target="_blank" rel="noopener noreferrer" className={styles.featureLink}>
+        <div className="text--center blackAndWhite">
           <Svg className={styles.featureSvg} role="img" />
         </div>
         <div className="text--center padding-horiz--md">
           <h3>{title}</h3>
-          <p>{description}</p>
+          {/* <p>{description}</p> */}
         </div>
       </a>
     </div>
@@ -108,16 +119,7 @@ function Feature({ Svg, title, description, link }) {
 export default function HomepageFeatures() {
   return (
     <>
-      <center>
-        <br />
-        <h1>Nounstacles around the World</h1>
-      </center >
-      <BrowserOnly fallback={<div>Loading...</div>}>
-        {() => (
-          // Your component that includes client-specific code
-          <MapComponent />
-        )}
-      </BrowserOnly>
+
       <section className={styles.features}>
 
         <div className="container">
@@ -128,6 +130,17 @@ export default function HomepageFeatures() {
           </div>
         </div>
       </section>
+      <center>
+        <br />
+        <h1>Noggles Rails around the World</h1>
+
+      </center >
+      <BrowserOnly fallback={<div>Loading...</div>}>
+        {() => (
+          // Your component that includes client-specific code
+          <MapComponent />
+        )}
+      </BrowserOnly>
     </>
   );
 }
