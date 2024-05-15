@@ -36,7 +36,7 @@ You can find all our contracts in the "Contracts" area on NounsBuild
 
 ## 2. Contract Functions 
 
-comtract will provide you with several functions, the function we need is called` "transfeFrom(address,address,uint256)`
+contract will provide you with several functions, the function we need is called` "transfeFrom(address,address,uint256)`
 
 
 
