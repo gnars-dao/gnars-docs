@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# How to request Gnars from the treasure?
+# How to request Gnars from the treasury?
 ## 0. Go to  [Gnars on Nouns.Build](https://nouns.build/dao/base/0x880fb3cf5c6cc2d7dfc13a993e839a9411200c17/5281?tab=activity)
 
 ## 1. Submit Proposal
