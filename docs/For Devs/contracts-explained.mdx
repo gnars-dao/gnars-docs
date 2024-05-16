@@ -7,60 +7,50 @@ sidebar_position: 2
 
 ## Background
 
-Gnars DAO is a suite of smart contracts that generate and auction a Gnars NFT every 80 minutes on the BASE Ethereum Layer 2 chain.
+Gnars DAO is a suite of five smart contracts on the BASE Ethereum Layer 2 chain.
+Membership and voting power in the DAO are represented by NFTs, which are minted and distributed in a perpetual auction format.
 The following describes the mechanisms that power the Gnars DAO and what each component smart contract entails.
 
 ## Contracts
 
 | Contract                                                                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [1.  Token](https://basescan.io/address/0x880Fb3Cf5c6Cc2d7DFC13a993E839a9411200C17)             | This is the Gnars ERC-721 NFT contract. Each NFT represents membership in the DAO and the number of NFTs owned is directly proportional to your voting power in governance proposals. The two main contract roles are `minter` and `owner`. The `minter` is set to the Auction House in the constructor and ownership is assigned to the DAO after deployment.                                                                                                                                                          |
-| [2.  Auction House](https://basescan.io/address/0x494Eaa55ECF6310658B8fC004b0888DCB698097f)     | This contract acts as a generation and distribution mechanism for new Gnars NFTs, minting as many as one Gnar every 80 minutes. Auction proceeds (ETH) are automatically deposited into the Nouns DAO treasury. Each time an auction is manually settled, the settlement transaction will also cause a new auction to begin. While settlement is most heavily incentivized for the winning bidder, it can be triggered by anyone, allowing the auction to trustlessly run forever as long there are interested bidders. |
+| [1.  Token](https://basescan.io/address/0x880Fb3Cf5c6Cc2d7DFC13a993E839a9411200C17)             | This is the Gnars ERC-721 NFT contract. Each NFT represents membership in the DAO and the number of NFTs owned is directly proportional to your voting power in governance proposals. The two main roles are `minter` and `owner`. The `minter` is set to the Auction House contract in the constructor and the `owner` is assigned to the DAO after deployment.                                                                                                                                                        |
+| [2.  Auction House](https://basescan.io/address/0x494Eaa55ECF6310658B8fC004b0888DCB698097f)     | This contract acts as a generation and distribution mechanism for new Gnars NFTs, minting as many as one Gnar every 80 minutes. Auction proceeds (ETH) are automatically deposited into the DAO's treasury. Each time an auction is manually settled, the settlement transaction will also cause a new auction to begin. While settlement is most heavily incentivized for the winning bidder, it can be triggered by anyone, allowing the auction to trustlessly run forever as long there are interested bidders.     |
 | [3.  Treasury](https://basescan.io/address/0x72aD986ebAc0246D2b3c565ab2a1ce3a14cE6f88)          | This contract is the treasury, or bank account, for the Gnars DAO. It holds the DAO's assets and disperses transactions based on the outcome of governance proposals.                                                                                                                                                                                                                                                                                                                                                   |
 | [4.  Governor](https://basescan.io/address/0x3dd4e53a232B7B715c9ae455f4e732465eD71b4c)          | This contract is a based on Compound's `GovernorBravoDelegator`. It contains the logic for creating, voting, and executing governance proposals.                                                                                                                                                                                                                                                                                                                                                                        |
-| [5.  Metadata Renderer](https://basescan.io/address/0xdc9799d424EbFDCF5310f3bad3dDCcE3931d4b58) | This contract contains the logic to dynamically generate and display metadata for each Gnars NFT. This metadata includes essential information about the NFT such as its name, description, attributes, and associated images..                                                                                                                                                                                                                                                                                         |
+| [5.  Metadata Renderer](https://basescan.io/address/0xdc9799d424EbFDCF5310f3bad3dDCcE3931d4b58) | This contract contains the logic to dynamically generate and display metadata for each Gnars NFT. This metadata includes essential information about the NFT such as its name, description, attributes, and associated images.                                                                                                                                                                                                                                                                                           |
 
 ## Terminology
-- Metadata: Data associated with an NFT, such as name, description, and image link
-- Auction Duration: How often a new NFT is created and put up for auction
-- Auction Reserve Price: Min bid required to start an auction
-- Proposal Threshold: Min BPS of total votes (NFTs) needed to put a proposal to a vote
-- Quorum Threshold: Min BPS of total For votes (NFTs) required for a proposal to pass
-- NFT Image Properties: Image components used for creating the NFTs
-- Founders and Allocations: Configurable rewards for DAO founders including different allocations
+- <b>Metadata</b>: Data associated with an NFT, such as name, description, and image link.
+- <b>Auction Duration</b>: How often a new NFT is created and put up for auction.
+- <b>Auction Reserve Price</b>: Minimum bid required to start an auction.
+- <b>Proposal Threshold</b>: Minimum BPS of total votes (NFTs) needed to put a proposal to a vote.
+- <b>Quorum Threshold</b>: Minimum BPS of total "For" votes (NFTs) required for a proposal to pass.
+- <b>NFT Image Properties</b>: Image components used for creating the NFTs.
+- <b>Founders and Allocations</b>: Configurable rewards for DAO founders including different allocations.
 
 ## Initial BASE Deployment Parameters
-Name: Gnars
+- <b>Name</b>: Gnars
+- <b>Symbol</b>: $GNAR
+- <b>Website</b>: https://gnars.wtf
+- <b>Auction duration</b>: 1h 20m
+- <b>Reserve</b>: 0.01 ETH
+- <b>Proposal threshold</b>: 0.2%
+- <b>Quorum threshold</b>: 10%
+- <b>Founder allocation</b>: 0
+- <b>Description</b>: Gnars is an action sports accelerator and community owned brand. Headless so you can shred more. We bring shredders onchain and get them paid. ⌐◨-◨
 
-Symbol: $GNAR
+## Builder protocol rewards
 
-Website: https://gnars.wtf
-
-Auction duration: 1h 20m
-
-Reserve: 0.01 ETH
-
-Proposal threshold: 0.2%
-
-Quorum threshold: 10%
-
-Founder allocation: 0
-
-Description: Gnars is an action sports accelerator and community owned brand. Headless so you can shred more. We bring shredders onchain and get them paid. ⌐◨-◨
-
-Veto power: onchain party comprising founding members
-
-<b>Builder protocol rewards:</b>
-
-Builder reward: 2.5% of final auction value
-
-Referral reward: 2.5% of final auction value
-
-Founder reward: 0% of final auction value
-
+The Builder protocol is a tool that was used to migrate Gnars DAO from Ethereum Layer 1 to BASE Layer 2.
+The following values are set by Builder at protocol level and cannot be changed:
+- <b>Builder reward</b>: 2.5% of final auction value
+- <b>Referral reward</b>: 2.5% of final auction value
+- <b>Founder reward</b>: 0% of final auction value
 
 ## Gnarly Fun Facts
-- 1 out of 10 newly minted Gnars NFTs (every ID ending in 7) are not auctioned off and are instead distributed to shredders from proposals
-- The NFT artwork used at the time of the BASE launch is an off-chain Gnars HD collection by ilustradora.eth. This is because the legacy Layer 1 on-chain pixel art images are not compatible with Builder protocol, a tool that was used to migrate the DAO from L1 to L2. Future plans are to swap out the current off-chain art with fully on-chain art.
-- Legacy mainnet Gnars have the same IDs as those migrated to BASE, however the trait combinations are different. They will continue to function as both collectibles and voting token on mainnet, as that DAO will continue to exist immutabley and indefinitely on the Ethereum blockchain.
-- Gnars 0-626 never existed on mainnet as they were the IDs of the Gnars OG collection, which were never integrated with governance. During the Base migration they were been minted and airdropped to the treasury. They will be used to raise additional revenue for the DAO via various marketing and promotional efforts.
+- 1 out of every 10 newly minted Gnars NFTs (IDs ending in 7) are not put on auction. Rather, they are airdropped to shredders from proposals.
+- The NFT artwork used at the time of the BASE launch is an off-chain Gnars HD collection by ilustradora.eth. This is because the legacy Layer 1 on-chain pixel art images were not compatible with Builder protocol. Future plans are to swap out the current off-chain art with fully on-chain art.
+- Legacy mainnet Gnars have the same IDs as those migrated to BASE, however the trait combinations are different. They will continue to function as both collectibles and voting token on mainnet, as the mainnet DAO will continue to exist immutabley and indefinitely on the Ethereum blockchain.
+- Gnars NFTs with IDs 0 through 626 never existed on mainnet and are known as the Gnars OG collection. As such, they were never integrated with governance. As part of the Base migration, however, they were been minted and airdropped to the treasury. They will be used to raise additional revenue for the DAO via various marketing and promotional efforts.
