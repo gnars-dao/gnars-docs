@@ -51,8 +51,8 @@ const sidebars = {
         ],
       },
     ],
-    ForDevs: [
-      'ForDevs/contracts-explained',
+    'For Devs': [
+      'For Devs/contracts-explained',
     ],
   },
 };
