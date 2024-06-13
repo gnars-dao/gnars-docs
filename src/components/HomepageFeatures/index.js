@@ -1,9 +1,9 @@
 'use client'
-import React from 'react';
-import clsx from 'clsx';
-import styles from './styles.module.css';
 import BrowserOnly from '@docusaurus/BrowserOnly';
+import clsx from 'clsx';
+import React from 'react';
 import MapComponent from './MapComponent';
+import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Gnars.wtf',
