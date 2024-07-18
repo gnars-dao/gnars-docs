@@ -15,6 +15,7 @@ const MapComponent = () => {
         { position: [-23.4990518351234, -46.624191393782525], label: 'Sopa de Letras', imageUrl: "/sopadeletras.png" },
         { position: [-20.24901180535837, -42.029355475124554], label: 'Manhuaçu', imageUrl: "/manhuacurail.png" },
         { position: [42.737274371776024, 140.9109422458354], label: 'Rusutsu Resort', imageUrl: "/rutsujpg.jpg" },
+        { position: [33.71824554962641, -117.84727040288683], label: 'OC Ramp', imageUrl: "" },
     ];
 
     return MapContainer ? (
