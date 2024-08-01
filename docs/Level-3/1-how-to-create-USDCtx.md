@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
+sidebar_position: 6
 ---
 
 
-# How to create a USDC request proposal 
+# 3.6) How to create a USDC request proposal 
 
 Here's the steps to use the gnars proposal process on nouns.build base gnars. In the future this will be easier.
 
@@ -42,9 +42,32 @@ That will load all the contract functions in the next page. You are going to cal
 
 ---
 
-## 5. Select the **transferfrom** function
+## 5. Select the **transfer** function
 
+![](https://i.ibb.co/rvqWfbx/image.png)
 
 Paste the receiver address and the amount in dollars followed by 6 zeroes ($1234 USDC would be 1234000000)
 
-... to be corrected 
+![](https://i.ibb.co/KmzzHW4/image.png)
+Press **NEXT**
+
+**USDC contract was set with 6 decimals so you need to put 6 zeros after the real amount (Come on Devs! You can do better!)
+
+---
+
+
+## Choose to also receive ETH or not 
+
+I this case I will leave it empty and click **NEXT**
+
+![](https://i.ibb.co/wQx86Fn/image.png)
+
+## 6. Hit Add Transaction button
+
+![](https://i.ibb.co/gwmQgqT/image.png)
+
+In the next page you will hit Continue Button and you can finally write your proposal :) 
+
+Don't forget to shred your markdown skills on it ;) 
+
+![](https://i.ibb.co/x22rBJy/image.png)
