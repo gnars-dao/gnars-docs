@@ -35,14 +35,14 @@ const FeatureList = [
   //   link: 'https://settle.wtf', // Replace with your desired URL
   // },
   {
-    title: 'Noggles Rail',
+    title: 'Noggles Rail Guide',
     Svg: require('@site/static/img/oclin.svg').default,
     description: (
       <>
         Open 3D project of The Nounstacle
       </>
     ),
-    link: 'https://drive.google.com/drive/folders/1fbC8TjzBXGSze6Wgn61ex-SiprJlPKnk',
+    link: 'https://zora.co/collect/base:0xc7352d44714c99e0f901d3ed00e9bdb275f5412d?referrer=0x41CB654D1F47913ACAB158a8199191D160DAbe4A',
   },
   {
     title: 'Farcaster',
@@ -73,7 +73,7 @@ const FeatureList = [
 
       </>
     ),
-    link: 'https://skatehive.app/QFS',
+    link: 'https://skatehive.quest',
   },
   {
     title: 'Gnarly News',
