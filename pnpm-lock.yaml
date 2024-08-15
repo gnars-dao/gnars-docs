@@ -53,6 +53,9 @@ importers:
       react-leaflet:
         specifier: ^4.2.1
         version: 4.2.1(leaflet@1.9.4)(react-dom@17.0.2(react@17.0.2))(react@17.0.2)
+      react-responsive-carousel:
+        specifier: ^3.2.23
+        version: 3.2.23
     devDependencies:
       '@docusaurus/module-type-aliases':
         specifier: ^2.4.1
@@ -1989,6 +1992,9 @@ packages:
   ci-info@3.9.0:
     resolution: {integrity: sha512-NIxF55hv4nSqQswkAeiOi1r83xy8JldOFDTWiug55KBu9Jnblncd2U6ViHmYgHf01TPZS77NJBhBMKdWj9HQMQ==}
     engines: {node: '>=8'}
+
+  classnames@2.5.1:
+    resolution: {integrity: sha512-saHYOzhIQs6wy2sVxTM6bUDsQO4F50V9RQ22qBpEdCW+I+/Wmke2HOl6lS6dTpdxVhb88/I6+Hs+438c3lfUow==}
 
   clean-css@5.3.3:
     resolution: {integrity: sha512-D5J+kHaVb/wKSFcyyV75uCn8fiY4sV38XJoe4CUyGQ+mOU/fMVYUdH1hJC+CJQ5uY3EnW27SbJYS4X8BiLrAFg==}
@@ -4659,6 +4665,10 @@ packages:
     peerDependencies:
       react: 17.0.2
 
+  react-easy-swipe@0.0.21:
+    resolution: {integrity: sha512-OeR2jAxdoqUMHIn/nS9fgreI5hSpgGoL5ezdal4+oO7YSSgJR8ga+PkYGJrSrJ9MKlPcQjMQXnketrD7WNmNsg==}
+    engines: {node: '>= 6'}
+
   react-error-overlay@6.0.11:
     resolution: {integrity: sha512-/6UZ2qgEyH2aqzYZgQPxEnz33NJ2gNsnHA2o5+o4wW9bLM/JYQitNP9xPhsXwC08hMMovfGe/8retsdDsczPRg==}
 
@@ -4701,6 +4711,9 @@ packages:
     peerDependencies:
       react-loadable: '*'
       webpack: '>=4.41.1 || 5.x'
+
+  react-responsive-carousel@3.2.23:
+    resolution: {integrity: sha512-pqJLsBaKHWJhw/ItODgbVoziR2z4lpcJg+YwmRlSk4rKH32VE633mAtZZ9kDXjy4wFO+pgUZmDKPsPe1fPmHCg==}
 
   react-router-config@5.1.1:
     resolution: {integrity: sha512-DuanZjaD8mQp1ppHjgnnUnyOlqYXZVjnov/JzFhjLEwd3Z4dYjMSnqrEzzGThH47vpCOqPPwJM2FtthLeJ8Pbg==}
@@ -9131,6 +9144,8 @@ snapshots:
 
   ci-info@3.9.0: {}
 
+  classnames@2.5.1: {}
+
   clean-css@5.3.3:
     dependencies:
       source-map: 0.6.1
@@ -12184,6 +12199,10 @@ snapshots:
       react: 17.0.2
       scheduler: 0.20.2
 
+  react-easy-swipe@0.0.21:
+    dependencies:
+      prop-types: 15.8.1
+
   react-error-overlay@6.0.11: {}
 
   react-fast-compare@3.2.2: {}
@@ -12239,6 +12258,12 @@ snapshots:
       '@babel/runtime': 7.24.5
       react-loadable: '@docusaurus/react-loadable@6.0.0(react@17.0.2)'
       webpack: 5.91.0
+
+  react-responsive-carousel@3.2.23:
+    dependencies:
+      classnames: 2.5.1
+      prop-types: 15.8.1
+      react-easy-swipe: 0.0.21
 
   react-router-config@5.1.1(react-router@5.3.4(react@17.0.2))(react@17.0.2):
     dependencies:

@@ -1,33 +1,98 @@
 // MapComponent.js
 import React from 'react';
 import useDynamicLeaflet from './useDynamicLeaflet';
-
+import { Carousel } from 'react-responsive-carousel';
+import 'react-responsive-carousel/lib/styles/carousel.min.css';
+import 'leaflet/dist/leaflet.css';
 const MapComponent = () => {
     const { MapContainer, TileLayer, Marker, Popup, icon } = useDynamicLeaflet();
 
     const position = [0, 0]; // Center of the map
     const locations = [
-        { position: [-22.903044816157887, -43.17337963607664], label: 'Praca XV', imageUrl: "/rocknogles.gif" },
-        { position: [33.81427083205093, -118.21369178292444], label: 'Silverado', imageUrl: "" },
-        { position: [41.965330396404994, -87.6638363963253], label: 'Chicago', imageUrl: "" },
-        { position: [-30.017866183250845, -51.17985537072372], label: 'Iapi', imageUrl: "" },
-        { position: [9.0820, 8.6753], label: 'Africa', imageUrl: "" },
-        { position: [-23.4990518351234, -46.624191393782525], label: 'Sopa de Letras', imageUrl: "/sopadeletras.png" },
-        { position: [-20.24901180535837, -42.029355475124554], label: 'Manhuaçu', imageUrl: "/manhuacurail.png" },
-        { position: [42.737274371776024, 140.9109422458354], label: 'Rusutsu Resort', imageUrl: "/rutsujpg.jpg" },
-        { position: [33.71824554962641, -117.84727040288683], label: 'OC Ramp', imageUrl: "" },
+        {
+            position: [-22.903044816157887, -43.17337963607664],
+            label: 'Praca XV',
+            images: ["/rocknogles.gif", "/xvgroup.jpg", "/xv-mentex-fscrooks.png"]
+        },
+        {
+            position: [33.81427083205093, -118.21369178292444],
+            label: 'Silverado',
+            images: ["/tom_silverdo.jpg", "/example-image2.jpg"]
+        },
+        {
+            position: [41.965330396404994, -87.6638363963253],
+            label: 'Chicago',
+            images: ["/chicago.jpg", "/chicago.jpg"]
+        },
+        {
+            position: [-30.017866183250845, -51.17985537072372],
+            label: 'Iapi',
+            images: ["/IAPI1.jpg", "/IAPI1.jpg"]
+        },
+        {
+            position: [9.0820, 8.6753],
+            label: 'Kenya',
+            images: ["/kenya.jpg", "/kenya2.jpg"]
+        },
+        {
+            position: [-23.4990518351234, -46.624191393782525],
+            label: 'Sopa de Letras',
+            images: ["/sopadeletras.png", "/sopadeletras.png", "/sopadeletras.png"]
+        },
+        {
+            position: [-20.24901180535837, -42.029355475124554],
+            label: 'Manhuaçu',
+            images: ["/manhuacurail.png", "/another-image5.jpg"]
+        },
+        {
+            position: [42.737274371776024, 140.9109422458354],
+            label: 'Rusutsu Resort',
+            images: ["/rutsujpg.jpg", "/another-image6.jpg", "/another-image7.jpg"]
+        },
+        {
+            position: [33.71824554962641, -117.84727040288683],
+            label: 'OC Ramp',
+            images: ["/ocramp.png"]
+        },
+        {
+            position: [6.243173184580065, -75.5966651104881],
+            label: 'Medellin',
+            images: ["/medellin.png", "/another-image8.jpg"]
+        },
+        {
+            // london
+            position: [51.52064675412003, -0.20505440289551358],
+            label: 'London',
+            images: ["/london.png", "/london2.png"]
+        }
     ];
-
     return MapContainer ? (
         <MapContainer center={position} zoom={2} scrollWheelZoom={false} style={{ height: '400px', width: '100%' }}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' />
-            {locations.map(({ position, label, imageUrl }, index) => (
+            {locations.map(({ position, label, images }, index) => (
                 <Marker key={index} position={position} icon={icon}>
-                    <Popup>
-                        <div>
-                            {imageUrl && <img src={imageUrl} alt={label} style={{ width: '100%' }} />}
-                            <p>{label}</p>
+                    <Popup maxWidth={250} minWidth={150} autoPan={true}>
+                        <div style={{ width: '200px', height: 'auto' }}>
+                            <Carousel
+                                showThumbs={false}
+                                showStatus={false}
+                                infiniteLoop
+                                useKeyboardArrows
+                                dynamicHeight={true}
+                            >
+                                {images.map((imageUrl, i) => (
+                                    <div key={i}>
+                                        <img
+                                            src={imageUrl}
+                                            alt={`${label} - ${i}`}
+                                            style={{ width: '100%', height: 'auto', objectFit: 'cover' }}
+                                        />
+                                    </div>
+                                ))}
+                            </Carousel>
                         </div>
+
+
                     </Popup>
                 </Marker>
             ))}
