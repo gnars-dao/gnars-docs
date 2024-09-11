@@ -19,8 +19,8 @@ const useDynamicLeaflet = () => {
                 import('leaflet'),
             ]).then(([reactLeaflet, _, L]) => {
                 const icon = new L.Icon({
-                    iconUrl: "https://i.ibb.co/MDKqTNx/image.png",
-                    iconRetinaUrl: "https://i.ibb.co/MDKqTNx/image.png",
+                    iconUrl: "https://ipfs.skatehive.app/ipfs/QmWH6xRwoVPnoWKEzNkJAz36E5qk3ULC2emsbxNVanhsk8",
+                    iconRetinaUrl: "https://ipfs.skatehive.app/ipfs/QmWH6xRwoVPnoWKEzNkJAz36E5qk3ULC2emsbxNVanhsk8",
                     iconAnchor: [20, 40],
                     popupAnchor: [0, -40],
                     iconSize: new L.Point(40, 40),
