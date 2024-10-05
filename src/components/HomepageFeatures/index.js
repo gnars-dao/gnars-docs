@@ -65,15 +65,15 @@ const FeatureList = [
     link: 'https://skatehive.app',
   },
   {
-    title: 'Quest 4 Stoken',
-    Svg: require('@site/static/img/qfs.svg').default,
+    title: 'ThatsGnar.ly',
+    Svg: require('@site/static/img/thatsgnarly.svg').default,
     description: (
       <>
-        Play to earn skate game, brought to you by Skatehive and Gnars DAO
+        Post a video or image of you sharedding and earn with Gnars
 
       </>
     ),
-    link: 'https://skatehive.quest',
+    link: 'https://thatsgnar.ly',
   },
   {
     title: 'Gnarly News',

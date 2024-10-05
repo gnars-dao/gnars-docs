@@ -192,7 +192,7 @@ const config = {
             items: [
               {
                 label: 'Farcaster',
-                href: 'https://warpcast.com/~/channel/gnars',
+                href: 'https://nounspace.com/s/gnars',
               },
               {
                 label: 'Skatehive App',

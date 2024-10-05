@@ -33,9 +33,9 @@ const sidebars = {
         label: '🛹 Level 2 - Join the Club',
         items: [
           'Level-2/vote-in-your-first-proposal',
-          'Level-2/get-more-gnars',
+          // 'Level-2/get-more-gnars',
           'Level-2/get-farcaster-account',
-          'Level-2/how-to-use-stoken-wtf',
+          // 'Level-2/how-to-use-stoken-wtf',
           'Level-2/how-to-use-eth-to-buy-bread',
           'Level-2/wtf-is-this',
           'Level-2/how-to-use-rounds-wtf',
