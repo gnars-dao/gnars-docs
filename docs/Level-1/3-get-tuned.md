@@ -8,17 +8,27 @@ sidebar_position: 3
 
 The **Gnars Newsletter** is the primary source for keeping up-to-date with the latest happenings in the Gnars community. Published regularly, it highlights recent proposals, community events, new ideas, and updates from across the ecosystem. The newsletter is hosted on **Paragraph.xyz**, a decentralized and community-driven publishing platform, ensuring that content remains permissionless and owned by the creators.
 
+> Mod: Satori
+
 ## 🏰 [Farcaster](https://nounspace.com/s/gnars)
 
 **Farcaster** is a decentralized social network built for communities like Gnars, emphasizing open communication and ownership. Gnars uses Farcaster to share quick updates, interact with members, and promote a public dialogue. Popular tools like **Warpcast** enhance the experience with a user-friendly interface, and **Nounspace** aggregates Farcaster activity into a more interactive format. Gnars' presence on Farcaster extends to creative tools like **rounds.wtf**, allowing the community to set up and track rounds for competitions, events, or initiatives.
 
-## 📱 [Instagram](https://) 
+> /gnars Mod: Satori, Gami
+> @gnars Mod: Gami, Vlad, Zima
+
+
+## 📱 [Instagram](https://instagram.com/gnarswtf) 
 
 Gnars’ **Instagram** account showcases the vibrant and creative spirit of the community through photos and short videos. It’s a space to highlight skateboarding culture, artwork, and behind-the-scenes looks at events. The focus here is on visual storytelling to attract skaters and artists from outside the Web3 space. Instagram serves as a bridge between the core community and new audiences, giving Gnars a mainstream presence to reach skaters wherever they are.
+
+> Mods: Zima, Vlad and Gami 
 
 ## 🗣 [Discord](https://discord.gg/gnars-928811922244137020)
 
 **Discord** is the main hub for real-time communication within the Gnars community. Members use it to participate in discussions, organize events, and collaborate on projects. With various channels dedicated to different aspects of Gnars’ activities (e.g., proposals, skate sessions, and creative collaborations), Discord is the backbone of Gnars’ community interactions. Through voice and video channels, members can hop on to chat casually or attend more formal meetings. Additionally, Discord bots are used to automate tasks, such as tracking governance proposals or integrating with on-chain data.
+
+> Mods: Vlad, Brett, Zima, Gami, Ben, Mari
 
 ### Using Discord on the Gnars Discord Server
 
