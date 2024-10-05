@@ -34,7 +34,7 @@ Here's the steps to use the gnars proposal process on nouns.build base gnars. In
 
 ## 4. You should see this page with the Contract ABI, but... 
 
-> Sometimes it won't load so you can go to this [LINK](https://api.basescan.org/api?module=contract&action=getabi&address=0x2ce6311ddae708829bc0784c967b7d77d19fd779&format=raw) copy everything in that page and paste it in that text box called Contract ABI
+> Sometimes it won't load so you can go to this [LINK](https://ipfs.skatehive.app/ipfs/QmaG3bJ59JcMHq4gyUrY8fjugve6DqCGYh8KQgBRwfTLzZ) copy everything in that page and paste it in that text box called Contract ABI
 
 ![](https://i.ibb.co/p1wcYF8/image.png)
 
@@ -44,7 +44,7 @@ That will load all the contract functions in the next page. You are going to cal
 
 ## 5. Select the **transfer** function
 
-![](https://i.ibb.co/rvqWfbx/image.png)
+![](https://ipfs.skatehive.app/ipfs/QmTSsCacmg5sByWmpdWDyguaaE715Kfyq5QmVcMrUqdJpT)
 
 Paste the receiver address and the amount in dollars followed by 6 zeroes ($1234 USDC would be 1234000000)
 
