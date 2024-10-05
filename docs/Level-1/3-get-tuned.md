@@ -22,7 +22,9 @@ Gnars’ **Instagram** account showcases the vibrant and creative spirit of the 
 
 ### Using Discord on the Gnars Discord Server
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fPWhTiW8Wuc?si=sYimHUiI_6uvUbbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 1. **Download and install the Discord app** on your device. Discord is available for Windows, Mac, Linux, Android, and iOS.
 2. **Create an account**: To use Discord, you will need to create an account. This is a simple process that requires you to provide an email address and create a username and password.
