@@ -57,7 +57,7 @@ const MapComponent = () => {
         {
             position: [6.243173184580065, -75.5966651104881],
             label: 'Medellin',
-            images: ["/medellin.png", "/another-image8.jpg"]
+            images: ["/medellin.png", "https://ipfs.skatehive.app/ipfs/Qme5iX2KMzwnJyaP6ThqTWVd7WoU197cjuDZ6zpcxMtDfJ"]
         },
         {
             // london
