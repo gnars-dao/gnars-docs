@@ -52,7 +52,7 @@ const FeatureList = [
         Our Farcaster Channel
       </>
     ),
-    link: 'https://warpcast.com/~/channel/gnars',
+    link: 'https://nounspace.com/s/gnars',
   },
   {
     title: 'Skatehive App',
