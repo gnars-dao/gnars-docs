@@ -1,0 +1,7 @@
+---
+sidebar_position: 1
+---
+
+# Que Diabos é a Gnars?
+
+A Gnars DAO é uma comunidade de código aberto e aceleradora de esportes radicais, sem necessidade de permissão, criada para apoiar atletas, criadores e entusiastas, ajudando-os a ganhar visibilidade e serem recompensados por suas contribuições à cultura dos esportes radicais. Operando como uma marca de propriedade comunitária, a Gnars utiliza um sistema de governança descentralizado onde os membros propõem e votam em iniciativas para financiar, desde bens públicos, como reformas de skateparks, até projetos criativos, como produção de filmes e eventos comunitários. Utilizando plataformas como o **ThatsGnarly**, onde os criadores podem fazer upload de conteúdo, ganhar recompensas e integrar-se de forma simples, a Gnars leva os atletas para o “onchain”, permitindo que transformem sua paixão em um crescimento sustentável sem a necessidade de patrocínios tradicionais. Com foco na inclusão e colaboração, a Gnars promove um espaço onde qualquer pessoa pode contribuir para moldar seu futuro, tornando-se uma marca única e orientada pela comunidade, que prioriza o crescimento dos esportes radicais e projetos liderados por criadores. Junte-se a nós no [ThatsGnarly](https://thatsgnarly.com) e siga nossas atualizações no [Twitter](https://twitter.com), [Instagram](https://instagram.com), [GitHub](https://github.com) e [Farcaster](https://nounspace.com/s/gnars). ⌐◨-◨
