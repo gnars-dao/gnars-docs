@@ -2,27 +2,59 @@
 sidebar_position: 3
 ---
 
-# 1.3) Como Criar Carteiras
-![](https://openseauserdata.com/files/7cc8c6f42e368ae42540a6b1241b6d9e.svg)
+# Criar uma carteira
 
-Ethereum wallets are applications that let you interact with your Ethereum account. Think of it like an internet banking app – without the bank. Your wallet lets you read your balance, send transactions and connect to applications.
+# Como Criar uma Carteira Zerion
 
-You need a wallet to send funds and manage your ETH.
+## Introdução
+A Carteira Zerion é uma ferramenta versátil para gerenciar seus ativos financeiros. Ela oferece trocas de tokens sem costura, suporta soluções de Camada 2 para taxas de transação mais baixas e fornece uma interface amigável. Este guia mostrará como criar e configurar sua Carteira Zerion.
 
-Your wallet is only a tool for managing your Ethereum account. That means you can swap wallet providers at any time. Many wallets also let you manage several Ethereum accounts from one application.
+Além disso, é importante saber que existem outras carteiras Ethereum disponíveis, como MetaMask e Trust Wallet, cada uma apresentando recursos e benefícios exclusivos. No entanto, a Carteira Zerion se destaca pela integração sem costura e suporte a várias redes de blockchain, sendo uma excelente escolha tanto para iniciantes quanto para usuários experientes.
 
-That's because wallets don't have custody of your funds, you do. They're just a tool for managing what's really yours.
+## Instalando a Extensão do Navegador
+### 1. Visite o [zerion.io](https://zerion.io/download)
+### 2. Escolha a extensão do seu navegador
+![zerion1](https://hackmd.io/_uploads/BJEu_hgI0.png)
 
-## Easiest Way - Metamask
-ezgif com-gif-maker
+### 3. Confirme a adição da extensão ao seu navegador.
+![zerion2](https://hackmd.io/_uploads/B1p1Jpg80.png)
 
-ezgif com-gif-maker_1
+## Criando uma Carteira
+### 1. Clique no ícone da extensão da Carteira Zerion em seu navegador.
+### 2. Clique em **Criar Nova Carteira**.
+![zerion3](https://hackmd.io/_uploads/HJJ1bpgUR.png)
 
-## Coolest way - ShapeShift + Metamask
+## Configurando a Carteira
+### 1. Configure um PIN ou senha (**Esta senha desbloqueará a carteira Zerion em seu navegador**.)
+![Screenshot from 2024-06-19 17-43-09](https://hackmd.io/_uploads/Hy8bQplUC.png)
+- **Por que eu preciso de uma senha?**
+*Esta senha desbloqueará sua extensão de carteira Zerion quando você quiser se conectar a um dApp ou assinar uma transação.*
+### 2. Confirme sua senha.
+![Screenshot from 2024-06-19 17-49-23](https://hackmd.io/_uploads/Sk__Epx8R.png)
+### 3. Preste atenção a esta parte (*Sua frase de recuperação é a única maneira de acessar suas contas e ativos, mesmo que você esqueça seu código de acesso*).
+![zerion4.png](https://hackmd.io/_uploads/rJc9U6gLC.png)
 
+- *Nunca compartilhe sua frase de recuperação ou código de acesso com ninguém, incluindo membros da equipe Zerion.*
+### 4. Aqui está sua frase de recuperação (Clique no olho para vê-la).
+![zerion5](https://hackmd.io/_uploads/HJuvhalL0.png)
+## *Anote-a em um papel e mantenha-a em um lugar seguro.*
 
-##Hive Wallet
+### 5. Verifique sua frase de recuperação (este processo tem como objetivo garantir que você tenha salvo sua frase de recuperação corretamente).
+![Screenshot from 2024-06-19 18-37-44](https://hackmd.io/_uploads/SJHUXReUR.png)
 
-ETH is like a flip, hive still a hardflip, so you are going to learn that in Level 3.
+### 6. Clique na sua extensão do navegador e depois clique no botão de pin.
+![zerion6](https://hackmd.io/_uploads/HJ4F4ReUA.png)
 
+### 7. Muito bem! Aqui está sua carteira.
+![Screenshot from 2024-06-19 18-39-58](https://hackmd.io/_uploads/HyBoSAgIA.png)
+## ⌐◨-◨ 🤘 Vá para [nouns.build](https://nouns.build/) 🤘 ⌐◨-◨
+### 1. Clique em conectar
+![gnarszerion](https://hackmd.io/_uploads/rJ_N61bIC.png)
+### 2. Selecione MetaMask e então confirme em sua carteira.
+![gnarszerion2](https://hackmd.io/_uploads/BJ1xaJZUA.png)
+### Isso mesmo 🤘
+![Screenshot from 2024-06-19 20-46-03](https://hackmd.io/_uploads/ryVRa1W8C.png)
 
+### ⌐◨-◨
+
+![nounsequiperocket](https://hackmd.io/_uploads/B1kSOkGIC.gif)
