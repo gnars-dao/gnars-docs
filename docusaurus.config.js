@@ -74,6 +74,17 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        { name: 'description', content: 'Gnars Community onboarding Docs.' },
+        { property: 'og:title', content: '⌐◨-◨' },
+        { property: 'og:description', content: 'Gnars Community onboarding Docs.' },
+        { property: 'og:image', content: 'https://gnars.com/images/01-2.jpg' },
+        { property: 'og:url', content: 'https://gnars.center' },
+        { name: 'twitter:card', content: 'summary_large_image' },
+        { name: 'twitter:title', content: '⌐◨-◨' },
+        { name: 'twitter:description', content: 'Gnars Community onboarding Docs.' },
+        { name: 'twitter:image', content: 'https://gnars.com/images/01-2.jpg' },
+      ],
       navbar: {
         title: 'Gnars',
         logo: {
