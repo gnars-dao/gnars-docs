@@ -64,6 +64,12 @@ const MapComponent = () => {
             position: [51.52064675412003, -0.20505440289551358],
             label: 'London',
             images: ["/london.png", "/london2.png"]
+        },
+        {
+            // argentina    
+            position: [-34.584183310926065, -58.39040299272954],
+            label: 'Argentina',
+            images: ["/argentina1.jpg", "/argentina2.jpg"]
         }
     ];
     return MapContainer ? (

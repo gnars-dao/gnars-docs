@@ -63,3 +63,8 @@ h6 {
   background-color: #242526;
   color: white;
 }
+
+.hero__title {
+  font-family: 'Londrina Solid', sans-serif !important;
+  color: black;
+}
