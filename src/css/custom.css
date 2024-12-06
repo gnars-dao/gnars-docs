@@ -18,7 +18,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #ffe762;
+  --ifm-color-primary: #fcd068;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
@@ -28,11 +28,38 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-body,
-h1, h2, h3, h4, h5, h6,
+
+h1 {
+  color: var(--ifm-color-primary);
+}
+
+h2 {
+  color: var(--ifm-color-primary);
+}
+
+h3 {
+  color: var(--ifm-color-primary);
+}
+
+h4 {
+  color: var(--ifm-color-primary);
+}
+
+h5 {
+  color: var(--ifm-color-primary);
+}
+
+h6 {
+  color: var(--ifm-color-primary);
+}
+
 .navbar__brand,
 .navbar__item,
 .footer__title {
   font-family: 'Londrina Solid', sans-serif !important;
 }
 
+.footer {
+  background-color: #242526;
+  color: white;
+}

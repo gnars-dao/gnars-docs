@@ -3,7 +3,7 @@ sidebar_position: 6
 ---
 
 
-# 3.6) How to create a USDC request proposal 
+# How to create a USDC request proposal 
 
 Here's the steps to use the gnars proposal process on nouns.build base gnars. In the future this will be easier.
 

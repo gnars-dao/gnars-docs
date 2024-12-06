@@ -67,7 +67,7 @@ const MapComponent = () => {
         }
     ];
     return MapContainer ? (
-        <MapContainer center={position} zoom={2} scrollWheelZoom={false} style={{ height: '400px', width: '100%' }}>
+        <MapContainer center={position} zoom={2} scrollWheelZoom={false} style={{ height: '500px', width: '100%', borderRadius: '20px', border: '2px solid black', zIndex: '1' }}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' />
             {locations.map(({ position, label, images }, index) => (
                 <Marker key={index} position={position} icon={icon}>

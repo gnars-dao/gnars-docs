@@ -22,7 +22,7 @@ Here are some frontends that can help simplify (somewhat) the process of casting
    
 2. **[Gnars.wtf](https://gnars.wtf)**: This frontend is tailored for Gnars holders, with a streamlined interface for viewing proposals and casting votes. Just be prepared for a bit of a learning curve!
 
-3. **[Gnars.com](https://gnars.r4topunk.xyz/)**: Another option for viewing and voting on proposals. This frontend also integrates with other community tools, offering a slightly different experience for navigating DAO governance.
+3. **[Gnars.pro](https://gnars.pro)**: Another option for viewing and voting on proposals. This frontend also integrates with other community tools, offering a slightly different experience for navigating DAO governance.
 
 ### Things to Remember
 

@@ -119,9 +119,7 @@ function Feature({ Svg, title, description, link }) {
 export default function HomepageFeatures() {
   return (
     <>
-
       <section className={styles.features}>
-
         <div className="container">
           <div className="row">
             {FeatureList.map((props, idx) => (
@@ -130,17 +128,6 @@ export default function HomepageFeatures() {
           </div>
         </div>
       </section>
-      <center>
-        <br />
-        <h1>Noggles Rails around the World</h1>
-
-      </center >
-      <BrowserOnly fallback={<div>Loading...</div>}>
-        {() => (
-          // Your component that includes client-specific code
-          <MapComponent />
-        )}
-      </BrowserOnly>
     </>
   );
 }
