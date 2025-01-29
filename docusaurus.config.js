@@ -210,10 +210,13 @@ const config = {
                 href: 'https://skatehive.app',
               },
               {
-                label: 'Stoken.wtf',
-                href: 'https://stoken.wtf',
+                label: 'Flows.wtf',
+                href: 'https://flows.wtf/flow/0xd4ab817a70f54af2e539145324a63e636e2d01f1512a8068779b9fc181a83e0f',
               },
-
+              {
+              label: 'Thatsgnar.ly',
+              href: 'https://thatsgnar.ly/',
+            },
             ],
           },
           {
