@@ -4,7 +4,7 @@ import useDynamicLeaflet from './useDynamicLeaflet';
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import 'leaflet/dist/leaflet.css';
-const MapComponent = ({ width = '100%', height = '500px' }) => {
+const MapComponent = ({ width = '100%', height = '500px', borderRadius = '0px', border = 'none' }) => {
     const { MapContainer, TileLayer, Marker, Popup, icon } = useDynamicLeaflet();
 
     const position = [0, 0]; // Center of the map
@@ -73,7 +73,7 @@ const MapComponent = ({ width = '100%', height = '500px' }) => {
         }
     ];
     return MapContainer ? (
-        <MapContainer center={position} zoom={2} scrollWheelZoom={false} style={{ height: height, width: width, borderRadius: '20px', border: '2px solid black', zIndex: '1' }}>
+        <MapContainer center={position} zoom={2} scrollWheelZoom={false} style={{ height: height, width: width, borderRadius: borderRadius, border: border, zIndex: '1' }}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' />
             {locations.map(({ position, label, images }, index) => (
                 <Marker key={index} position={position} icon={icon}>

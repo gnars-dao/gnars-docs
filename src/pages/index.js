@@ -63,7 +63,7 @@ function HomepageHeader() {
           <BrowserOnly fallback={<div>Loading...</div>}>
             {() => (
               // Your component that includes client-specific code
-              <MapComponent />
+              <MapComponent height="500px" width="100%" borderRadius="10px" border="2px solid black" />
             )}
           </BrowserOnly>
         </center>
