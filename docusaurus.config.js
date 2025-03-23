@@ -10,7 +10,7 @@ const config = {
     'https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@300&display=swap'
   ],
 
-  title: '⌐◨-◨',
+  title: 'Gnars Center ⌐◨-◨',
   tagline: 'Gnars Community onboarding Docs.',
   url: 'https://gnarsdao.vercel.app',
 
