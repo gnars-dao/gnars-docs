@@ -76,14 +76,19 @@ const config = {
     ({
       metadata: [
         { name: 'description', content: 'Gnars Community onboarding Docs.' },
-        { property: 'og:title', content: 'Gnars Center ⌐◨-◨' },
-        { property: 'og:description', content: 'Gnars Community onboarding Docs.' },
+        { name: 'keywords', content: 'gnars, dao, gnarsdao, skateboarding, web3, community, nft, gnarly, gnars.com' },
+        { property: 'og:title', content: 'Gnars Center ⌐◨-◨ | Community Onboarding & Governance' },
+        { property: 'og:description', content: 'Explore the Gnars DAO: Your hub for community onboarding, governance, and all things gnarly in the web3 skateboarding realm.' },
         { property: 'og:image', content: 'img/thatsgnarly.svg' },
         { property: 'og:url', content: 'https://gnars.center' },
+        { property: 'og:type', content: 'website' },
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:title', content: 'Gnars Center ⌐◨-◨' },
-        { name: 'twitter:description', content: 'Gnars Community onboarding Docs.' },
+        { name: 'twitter:site', content: '@gnarsdao' },
+        { name: 'twitter:creator', content: '@gnarsdao' },
+        { name: 'twitter:title', content: 'Gnars Center ⌐◨-◨ | Community Onboarding & Governance' },
+        { name: 'twitter:description', content: 'Explore the Gnars DAO: Your hub for community onboarding, governance, and all things gnarly in the web3 skateboarding realm.' },
         { name: 'twitter:image', content: 'https://gnars.com/images/01-2.jpg' },
+        { name: 'twitter:image:alt', content: 'Gnars DAO Logo' },
       ],
       navbar: {
         title: 'Gnars',
