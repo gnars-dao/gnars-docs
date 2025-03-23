@@ -33,17 +33,29 @@ const icon = (
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
+  const { isDarkTheme } = useDocusaurusContext();
+
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-
+    <header
+      className={clsx('hero', styles.heroBanner)}
+      style={{
+        backgroundColor: isDarkTheme ? '#333333' : '#fcd068',
+        color: isDarkTheme ? '#ffffff' : '#000000',
+      }}
+    >
       <div className="container">
-
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
 
         <div className={styles.buttons}>
-          <Link style={{ border: '2px solid black' }}
-            className="button button--secondary button--lg" to="/docs/intro">
+          <Link
+            style={{
+              border: '2px solid',
+              borderColor: isDarkTheme ? '#ffffff' : '#000000',
+            }}
+            className="button button--secondary button--lg"
+            to="/docs/intro"
+          >
             Nerd it up!
           </Link>
         </div>
@@ -54,7 +66,7 @@ function HomepageHeader() {
               <MapComponent />
             )}
           </BrowserOnly>
-        </center >
+        </center>
       </div>
     </header>
   );
