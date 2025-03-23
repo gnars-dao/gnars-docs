@@ -76,12 +76,12 @@ const config = {
     ({
       metadata: [
         { name: 'description', content: 'Gnars Community onboarding Docs.' },
-        { property: 'og:title', content: '⌐◨-◨' },
+        { property: 'og:title', content: 'Gnars Center ⌐◨-◨' },
         { property: 'og:description', content: 'Gnars Community onboarding Docs.' },
-        { property: 'og:image', content: 'https://gnars.com/images/01-2.jpg' },
+        { property: 'og:image', content: 'img/thatsgnarly.svg' },
         { property: 'og:url', content: 'https://gnars.center' },
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:title', content: '⌐◨-◨' },
+        { name: 'twitter:title', content: 'Gnars Center ⌐◨-◨' },
         { name: 'twitter:description', content: 'Gnars Community onboarding Docs.' },
         { name: 'twitter:image', content: 'https://gnars.com/images/01-2.jpg' },
       ],
