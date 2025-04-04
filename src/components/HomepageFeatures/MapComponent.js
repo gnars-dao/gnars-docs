@@ -70,13 +70,28 @@ const MapComponent = ({ width = '100%', height = '500px', borderRadius = '0px', 
             position: [-34.584183310926065, -58.39040299272954],
             label: 'Argentina',
             images: ["/argentina1.jpg", "/argentina2.jpg"]
+        },
+        {
+            // italy
+            position: [45.4836, 9.1924],
+            label: 'Italy',
+            images: ["\milan.jpg"]
         }
     ];
     return MapContainer ? (
-        <MapContainer center={position} zoom={2} scrollWheelZoom={false} style={{ height: height, width: width, borderRadius: borderRadius, border: border, zIndex: '1' }}>
+        <MapContainer center={position} zoom={2} scrollWheelZoom={false} style={{ height, width, borderRadius, border, zIndex: '1' }}>  
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' />
             {locations.map(({ position, label, images }, index) => (
-                <Marker key={index} position={position} icon={icon}>
+                <Marker 
+                    key={index} 
+                    position={position} 
+                    icon={icon}
+                    eventHandlers={{
+                        click: (e) => {
+                            e.target._map.setView(e.latlng, 2, { animate: true });  // Adicionado para centralizar o mapa ao clicar no marcador
+                        }
+                    }}
+                >
                     <Popup maxWidth={250} minWidth={150} autoPan={true}>
                         <div style={{ width: '200px', height: 'auto' }}>
                             <Carousel
@@ -97,8 +112,6 @@ const MapComponent = ({ width = '100%', height = '500px', borderRadius = '0px', 
                                 ))}
                             </Carousel>
                         </div>
-
-
                     </Popup>
                 </Marker>
             ))}
