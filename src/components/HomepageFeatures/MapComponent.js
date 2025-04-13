@@ -14,7 +14,7 @@ const MapComponent = ({ width = '100%', height = '500px', borderRadius = '0px', 
     return MapContainer ? (
         <MapContainer center={position} zoom={2} scrollWheelZoom={false} style={{ height, width, borderRadius, border, zIndex: '1' }}>  
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' />
-            {locations.map(({ position, label, images, iconUrl, iconSize, zIndexOffset, opacity }, index) => (
+            {locations.map(({ position, label, images, iconUrl, iconSize, zIndexOffset, opacity, proposal }, index) => (
                 <Marker 
                     key={index} 
                     position={position} 
@@ -46,6 +46,9 @@ const MapComponent = ({ width = '100%', height = '500px', borderRadius = '0px', 
                                     </div>
                                 ))}
                             </Carousel>
+                            <div style={{ marginTop: '10px' }}>
+                                <strong>Proposal:</strong> <a href={proposal.link} target="_blank" rel="noopener noreferrer">{proposal.name}</a>
+                            </div>
                         </div>
                     </Popup>
                 </Marker>
