@@ -34,7 +34,7 @@ const sidebars = {
         items: [
           'Level-2/vote-in-your-first-proposal',
           // 'Level-2/get-more-gnars',
-          'Level-2/get-farcaster-account',
+          'Level-2/video-tutorial-to-add-gnars-miniapp',
           // 'Level-2/how-to-use-stoken-wtf',
           'Level-2/how-to-use-eth-to-buy-bread',
           'Level-2/wtf-is-this',
