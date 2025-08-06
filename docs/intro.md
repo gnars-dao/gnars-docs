@@ -28,7 +28,7 @@ After your gnarly first paddles with the community, dive in and get involved. We
 
 If you’re interested in having a voice in how we manage the treasury, you can use your earnings to bid in our community NFT auctions and actively take part in the decision-making process, Gnarly Pod's. 
 
-### Shred for Bread
+### Shred for Bread 
 
 The whole point is to have fun and make an impact—whether you’re uploading Action Sports videos, supporting local projects, or getting involved in new initiatives. We’re here to bring a million shredders onchain, so they can experience firsthand that there’s more to being a creator than chasing likes. Extremely Nounish. 
 
@@ -59,6 +59,6 @@ When you upload your work to ThatsGnarly, you can make your creations free to co
 This streamlined experience means you can onboard without needing to go through complex steps like KYC, buying crypto, or even installing a wallet. Once you’ve got your content online, you’re set to start earning Ethereum from your collectors and contributors—simple as that.
 
 Ready to get started? 🤘 
-- [Sign up for Gnars Discord✨](https://discord.gg/hr3c6UaH) | [Sign up for Gnars Flows✨](https://flows.wtf/gnars) | [Sign up for ThatsGnarly ✨](https://thatsgnarly.com)
+[Sign up for Gnars Discord](https://discord.gg/hr3c6UaH) | [Sign up for Gnars Flows](https://flows.wtf/gnars) | [Sign up for ThatsGnarly](https://thatsgnarly.com)
 
-Gnarly Links [Twitter](https://x.com/gnars_dao) | [Instagram](https://www.instagram.com/gnarsdao/) | [GitHub]([https://github.com](https://github.com/gnars-dao/)) | [Farcaster Channel](https://farcaster.xyz/~/channel/gnars) | [Farcaster Profile](https://farcaster.xyz/gnars) | [Gnarly News](https://paragraph.com/@gnars) | [Nounspace](https://nounspace.com/s/gnars) | [Youtube]([https://nounspace.com/s/gnars](https://www.youtube.com/@gnars_dao) | [Gnars OG NFT](https://opensea.io/collection/gnars) | [Gnars Community ZORA](https://zora.co/@gnarscommunity) 
+Gnarly Links ✨ [Website](gnars.com) | [Youtube](https://www.youtube.com/@gnars_dao) | [X](https://x.com/gnars_dao) | [Instagram](https://www.instagram.com/gnarsdao/) | [GitHub](https://github.com/gnars-dao/) | [Farcaster Channel](https://farcaster.xyz/~/channel/gnars) | [Farcaster Profile](https://farcaster.xyz/gnars) | [Gnarly News](https://paragraph.com/@gnars) | [Nounspace](https://nounspace.com/s/gnars) | [Gnars OG NFT](https://opensea.io/collection/gnars) | [Gnars Community ZORA](https://zora.co/@gnarscommunity) 
