@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 🐣 - Start Here
 
-## What is Gnars DAO?
+## What is Gnars DAO? ⌐◨-◨ \m/
 
 Gnars DAO is a permissionless, open-source community and action sports accelerator, created to support athletes, creators, and enthusiasts in growing the world of extreme sports. As a subDAO of Nouns DAO, Gnars’ image and impact grow alongside its builders, with every project and initiative strengthening both the brand and the community. Gnars brings shredders “onchain,” helping them gain visibility and get rewarded for their creativity and influence. It’s a collaborative space where anyone can directly shape the culture through shared decision-making and decentralized creation.
 
