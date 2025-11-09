@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
 
 # Vote in Your First Proposal
@@ -19,7 +19,6 @@ Voting is an on-chain action, meaning it’s recorded directly on the blockchain
 Here are some frontends that can help simplify (somewhat) the process of casting your vote:
 
 1. **[Nouns.build](https://nouns.build/dao/base/0x880fb3cf5c6cc2d7dfc13a993e839a9411200c17/6332?tab=activity)**: A platform designed to support governance for Nouns-style DAOs, providing proposal details, voting options, and a clear transaction history.
-   
 2. **[Gnars.wtf](https://gnars.wtf)**: This frontend is tailored for Gnars holders, with a streamlined interface for viewing proposals and casting votes. Just be prepared for a bit of a learning curve!
 
 3. **[Gnars.pro](https://gnars.pro)**: Another option for viewing and voting on proposals. This frontend also integrates with other community tools, offering a slightly different experience for navigating DAO governance.

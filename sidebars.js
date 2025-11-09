@@ -24,8 +24,8 @@ const sidebars = {
           'Level-1/wtf-is-gnars',
           'Level-1/create-a-wallet',
           'Level-1/get-tuned',
+          'Level-1/how-do-i-get-first-gnar',
           'Level-1/what-can-gnar-nfts-do',
-          'Level-1/how-do-i-get-first-gnar'
         ],
       },
       {
@@ -38,17 +38,14 @@ const sidebars = {
           // 'Level-2/how-to-use-stoken-wtf',
           'Level-2/how-to-use-eth-to-buy-bread',
           'Level-2/wtf-is-this',
-          'Level-2/how-to-use-rounds-wtf',
-          'Level-2/how-to-use-zora',
           'Level-2/how-to-create-a-nounstacle',
         ],
       },
       {
         type: 'category',
-        label: '🛹 Level 3 - Gettin’ Gnarlier',
+        label: '🛹 Level 3 - Gettin\' Gnarlier',
         items: [
-          'Level-3/how-to-create-USDCtx',
-          'Level-3/how-to-request-gnars',
+          'Level-3/how-does-gnars-make-money',
           'Level-3/how-to-use-gnars-functions',
         ],
       },
