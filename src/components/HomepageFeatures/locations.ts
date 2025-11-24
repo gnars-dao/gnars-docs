@@ -98,7 +98,7 @@ export const locations = [
     {
         position: [45.4836, 9.1924],
         label: 'Italy',
-        images: ["\milan.jpg"],
+        images: ["/milan.jpg"],
         iconUrl: "/nogglesRail3D.png",
         iconSize: [30, 30], 
         proposal: { name: "Gnars Proposal", link: "https://www.gnars.com/dao/proposal/68" }
@@ -110,5 +110,14 @@ export const locations = [
         iconUrl: "/nogglesRail3D.png",
         iconSize: [30, 30], // Reduced size for other pins
         proposal: { name: "Gnars Proposal", link: "https://www.gnars.com/dao/proposal/63" }
+    },
+        {
+        position: [-23.594602, -48.052915],
+        label: ' Itapetininga Skate Park',
+        images: ["/ocramp.png"],
+        iconUrl: "/nogglesRail3D.png",
+        iconSize: [30, 30], // Reduced size for other pins
+        proposal: { name: "Gnars Proposal", link: "https://www.gnars.com/dao/proposal/89" }
     }
+
 ];
