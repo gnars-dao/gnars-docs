@@ -114,7 +114,7 @@ export const locations = [
         {
         position: [-23.594602, -48.052915],
         label: ' Itapetininga Skate Park',
-        images: ["/ocramp.png"],
+        images: ["/noggle_itape.jpeg"],
         iconUrl: "/nogglesRail3D.png",
         iconSize: [30, 30], // Reduced size for other pins
         proposal: { name: "Gnars Proposal", link: "https://www.gnars.com/dao/proposal/89" }
