@@ -10,7 +10,7 @@ There are a few ways to get your hands on a Gnar NFT, whether it’s through bid
 
 The primary way to acquire a Gnar NFT is by participating in the **Gnars NFT auction** held at [**gnars.com**](https://gnars.com).
 
-- The auction runs continuously, with new Gnars NFTs created every 15 minutes.
+- The auction runs continuously
 - To bid, you’ll need some ETH in your wallet (use MetaMask or any WalletConnect-compatible wallet).
 - **Note**: The auction now operates on the **Base network**, so ensure that your wallet is configured to interact with Base and not Ethereum.
 - Connect your wallet, place your bid, and monitor the auction until it closes.
@@ -46,9 +46,3 @@ This option is recommended for those who actively contribute to the skateboardin
 - **Onboarding Proposal**: For skaters and contributors seeking to join through recognition rather than purchase.
 
 Pick the one that fits your situation best, and remember to use the **Base network** when exploring your options.
-
-
-
-
-
-
