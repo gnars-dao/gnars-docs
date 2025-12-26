@@ -24,6 +24,7 @@ const sidebars = {
           'Level-1/wtf-is-gnars',
           'Level-1/create-a-wallet',
           'Level-1/get-tuned',
+          'Level-1/gnars-tv',
           'Level-1/how-do-i-get-first-gnar',
           'Level-1/what-can-gnar-nfts-do',
         ],
@@ -32,6 +33,7 @@ const sidebars = {
         type: 'category',
         label: '🛹 Level 2 - Join the Club',
         items: [
+          'Level-2/create-for-gnars-tv',
           'Level-2/vote-in-your-first-proposal',
           // 'Level-2/get-more-gnars',
           'Level-2/video-tutorial-to-add-gnars-miniapp',
@@ -57,7 +59,6 @@ const sidebars = {
 };
 
 module.exports = sidebars;
-
 
 
 
