@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "How to acquire a Gnar NFT — via auction on gnars.com (Base network), secondary marketplaces like OpenSea, peer-to-peer trades, or onboarding proposals."
 ---
 
 # How to Get Your First Gnar

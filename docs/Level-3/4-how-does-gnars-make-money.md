@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "Gnars DAO revenue streams — membership auctions on Base, Droposals (drop + proposal NFT mints), the $GNARS token on Zora, CoBuild integration, and physical products."
 ---
 
 # 💰 How Does Gnars DAO Make Money?

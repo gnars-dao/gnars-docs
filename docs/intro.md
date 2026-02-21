@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "Overview of Gnars DAO, a permissionless action sports accelerator and community-owned brand operating as a Nouns subDAO on Base. Learn how to join, create, and earn."
 ---
 
 # 🐣 - Start Here
@@ -60,7 +61,7 @@ When you upload your work to ThatsGnarly, you can make your creations free to co
 This streamlined experience means you can onboard without needing to go through complex steps like KYC, buying crypto, or even installing a wallet. Once you’ve got your content online, you’re set to start earning Ethereum from your collectors and contributors—simple as that.
 
 Ready to get started? 🤘
-[Sign up for Gnars Discord](https://discord.gg/hr3c6UaH) | [Sign up for Gnars Flows](https://flows.wtf/gnars) | [Sign up for ThatsGnarly](https://thatsgnarly.com)
+[Sign up for Gnars Discord](https://discord.gg/FADaFpyBwN) | [Sign up for Gnars Flows](https://flows.wtf/gnars) | [Sign up for ThatsGnarly](https://thatsgnarly.com)
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 

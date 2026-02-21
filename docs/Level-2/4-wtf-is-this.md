@@ -1,5 +1,6 @@
 ---
 sidebar_position: 4
+description: "What are Noggles — the CC0 eyewear symbol of the Nouns and Gnars communities, how they connect to Gnars DAO, and how to get involved with Nounish culture."
 ---
 
 # WTF is this ⌐◨-◨ ?

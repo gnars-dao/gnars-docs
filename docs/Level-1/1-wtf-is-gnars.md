@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "What is Gnars DAO — a permissionless, open-source action sports community using decentralized governance, NFT auctions, and platforms like Flows, Zora, and ThatsGnarly to bring athletes onchain."
 ---
 
 #  WTF is Gnars? 
@@ -8,4 +9,4 @@ Gnars DAO is a permissionless, open-source community and action sports accelerat
 
 By leveraging platforms like [Flows](https://flows.wtf/gnars), [Zora](https://zora.co/@gnarscommunity) , [ThatsGnarly](https://thatsgnarly.com) — where creators can upload content, mint work, earn rewards, and onboard seamlessly. Gnars brings athletes “onchain” and enables them to turn their passion into sustainable growth without relying on traditional sponsorships. With a focus on inclusivity and collaboration, Gnars fosters a space where anyone can contribute to shaping its future, making it a unique, community-driven brand that prioritizes the growth of action sports and creator-led projects. An OG DAO, founded on Ethereum Mainnet, now operating in the Base ecosystem as a Nouns subDAO. ⌐◨-◨
 
-[Join us on Gnars Discord✨](https://discord.gg/hr3c6UaH), [Farcaster Channel](https://farcaster.xyz/~/channel/gnars), and follow our updates on [X](https://x.com/gnars_dao), [Instagram](https://www.instagram.com/gnarsdao/), [GitHub](https://github.com), [Farcaster](https://farcaster.xyz/gnars), and [Gnarly News](https://paragraph.com/@gnars). \m/
+[Join us on Gnars Discord✨](https://discord.gg/FADaFpyBwN), [Farcaster Channel](https://farcaster.xyz/~/channel/gnars), and follow our updates on [X](https://x.com/gnars_dao), [Instagram](https://www.instagram.com/gnarsdao/), [GitHub](https://github.com), [Farcaster](https://farcaster.xyz/gnars), and [Gnarly News](https://paragraph.com/@gnars). \m/

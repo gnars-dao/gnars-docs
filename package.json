@@ -32,7 +32,8 @@
     "react-responsive-carousel": "^3.2.23"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.9.2"
+    "@docusaurus/module-type-aliases": "^3.9.2",
+    "docusaurus-plugin-llms": "^0.3.0"
   },
   "browserslist": {
     "production": [

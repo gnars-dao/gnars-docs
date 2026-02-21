@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "All Gnars community channels — Newsletter on Paragraph, Farcaster, Instagram, and Discord — with guides on how to join and participate."
 ---
 
 # Get Tuned 
@@ -24,7 +25,7 @@ Gnars’ **Instagram** account showcases the vibrant and creative spirit of the 
 
 > Mods: Zima, Vlad and Gami 
 
-## 🗣 [Discord](https://discord.gg/gnars-928811922244137020)
+## 🗣 [Discord](https://discord.gg/FADaFpyBwN)
 
 **Discord** is the main hub for real-time communication within the Gnars community. Members use it to participate in discussions, organize events, and collaborate on projects. With various channels dedicated to different aspects of Gnars’ activities (e.g., proposals, skate sessions, and creative collaborations), Discord is the backbone of Gnars’ community interactions. Through voice and video channels, members can hop on to chat casually or attend more formal meetings. Additionally, Discord bots are used to automate tasks, such as tracking governance proposals or integrating with on-chain data.
 
@@ -38,7 +39,7 @@ Gnars’ **Instagram** account showcases the vibrant and creative spirit of the 
 
 1. **Download and install the Discord app** on your device. Discord is available for Windows, Mac, Linux, Android, and iOS.
 2. **Create an account**: To use Discord, you will need to create an account. This is a simple process that requires you to provide an email address and create a username and password.
-3. **Join the Gnars Discord Server**: To participate in the Gnars community on Discord, click on the invitation link: **[https://discord.gg/gnars](https://discord.gg/gnars)**. This will open the Discord app and prompt you to join the server.
+3. **Join the Gnars Discord Server**: To participate in the Gnars community on Discord, click on the invitation link: **[https://discord.gg/FADaFpyBwN](https://discord.gg/FADaFpyBwN)**. This will open the Discord app and prompt you to join the server.
 4. **Chat with others**: Once you have joined, you can participate in text and voice chats with other members. You can also create channels for different topics or join existing channels.
 5. **Use Discord features**: Enhance your experience with voice and video calling, screen sharing, and custom emojis. You can access these features by clicking on the icons at the bottom of the Discord app.
 

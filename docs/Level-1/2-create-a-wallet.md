@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Step-by-step guide to creating a Zerion Wallet browser extension, setting up recovery phrases, and connecting to nouns.build for Gnars DAO participation."
 ---
 
 # Create a wallet

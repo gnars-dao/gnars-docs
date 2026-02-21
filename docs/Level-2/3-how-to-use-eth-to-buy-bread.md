@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "How to spend ETH in the real world — convincing local businesses to accept crypto, plus region-specific services for Brazil, USA, Spain, Colombia, Uganda, and Argentina."
 ---
 
 # How to Use ETH to Buy Bread

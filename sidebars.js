@@ -55,6 +55,9 @@ const sidebars = {
     'For Devs': [
       'For Devs/contracts-explained',
     ],
+    'For Bots': [
+      'skills',
+    ],
   },
 };
 

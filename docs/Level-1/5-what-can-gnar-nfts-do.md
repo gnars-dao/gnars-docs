@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+description: "11 utilities of Gnar NFTs — governance voting, Noggle Coins rewards, Farcaster polls, SurfGuru access, Nouns delegation, skateshop discounts, exclusive events, and more."
 ---
 
 # What Can Gnar NFTs Do?

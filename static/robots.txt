@@ -1,3 +1,7 @@
 # Algolia-Crawler-Verif: 70C472326C1249AC
 User-agent: *
 Allow: /
+
+# LLM-friendly documentation
+# See https://llmstxt.org for the llms.txt standard
+Sitemap: https://gnars.center/llms.txt

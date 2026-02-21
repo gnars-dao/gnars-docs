@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+description: "How to interact with Gnars smart contracts directly via BaseScan — executing functions like burn, approve, vote, propose, and settleCurrentAndCreateNewAuction."
 ---
 
 # How to use Gnars Contracts Functions 

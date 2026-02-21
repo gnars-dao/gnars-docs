@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+description: "Video tutorial showing how to add the Gnars miniapp to your Farcaster account and enable notifications."
 ---
 
 # Add Gnars Miniapp in Farcaster

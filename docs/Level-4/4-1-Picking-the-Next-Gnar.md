@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "How to preview and pick the next Gnar NFT before settling an auction using settle.wtf."
 ---
 
 # 4.1) Picking the Next Gnar

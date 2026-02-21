@@ -61,6 +61,49 @@ const config = {
       }),
     ],
   ],
+  plugins: [
+    [
+      'docusaurus-plugin-llms',
+      {
+        generateLLMsTxt: true,
+        generateLLMsFullTxt: true,
+        excludeImports: true,
+        removeDuplicateHeadings: true,
+        includeOrder: [
+          'docs/intro.md',
+          'docs/Level-1/**',
+          'docs/Level-2/**',
+          'docs/Level-3/**',
+          'docs/Level-4/**',
+          'docs/For Devs/**',
+          'docs/skills.md',
+        ],
+        customLLMFiles: [
+          {
+            filename: 'llms-onboarding.txt',
+            includePatterns: ['docs/intro.md', 'docs/Level-1/**', 'docs/Level-2/**'],
+            fullContent: true,
+            title: 'Gnars DAO Onboarding Guide',
+            description: 'Getting started with Gnars DAO - wallet setup, NFT acquisition, community participation',
+          },
+          {
+            filename: 'llms-governance.txt',
+            includePatterns: ['docs/Level-3/**', 'docs/Level-4/**'],
+            fullContent: true,
+            title: 'Gnars DAO Governance & Economics',
+            description: 'Governance mechanics, revenue streams, smart contract functions',
+          },
+          {
+            filename: 'llms-devs.txt',
+            includePatterns: ['docs/For Devs/**'],
+            fullContent: true,
+            title: 'Gnars DAO Developer Documentation',
+            description: 'Smart contract documentation for Gnars DAO on Base',
+          },
+        ],
+      },
+    ],
+  ],
   themes: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
@@ -191,7 +234,7 @@ const config = {
 
               {
                 label: 'Discord',
-                href: 'https://discord.gg/gnars',
+                href: 'https://discord.gg/FADaFpyBwN',
               },
               {
                 label: 'Twitter',

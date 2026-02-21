@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+description: "How to vote in Gnars DAO governance — on-chain voting mechanics, available frontends (nouns.build, gnars.wtf, gnars.pro), and Base network requirements."
 ---
 
 # Vote in Your First Proposal
