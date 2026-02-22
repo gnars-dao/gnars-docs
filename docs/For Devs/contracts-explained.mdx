@@ -11,13 +11,30 @@ Gnars DAO is a suite of five smart contracts on [BASE](https://www.base.org/), a
 
 ## Contracts
 
-| Contract                                                                                     | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Token](https://basescan.org/address/0x880Fb3Cf5c6Cc2d7DFC13a993E839a9411200C17)             | This is the Gnars [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) NFT contract. Each NFT represents membership in the DAO, and the number of NFTs owned is directly proportional to your voting power in governance proposals. The two main roles are `minter` and `owner`. The `minter` is set to the Auction House contract in the constructor, and the `owner` is assigned to the DAO after deployment.                                                                                |
-| [Auction House](https://basescan.org/address/0x494Eaa55ECF6310658B8fC004b0888DCB698097f)     | This contract acts as a generation and distribution mechanism for new Gnars NFTs, minting as many as one Gnar every 80 minutes. Auction proceeds (ETH) are automatically deposited into the DAO's treasury. Each time an auction is manually settled, the settlement transaction will also cause a new auction to begin. While settlement is most heavily incentivized for the winning bidder, it can be triggered by anyone, allowing the auction to trustlessly run forever as long as there are interested bidders. |
-| [Treasury](https://basescan.org/address/0x72aD986ebAc0246D2b3c565ab2a1ce3a14cE6f88)          | This contract is the treasury, or bank account, for the Gnars DAO. It holds the DAO's assets and disperses transactions based on the outcome of governance proposals.                                                                                                                                                                                                                                                                                                                                                  |
-| [Governor](https://basescan.org/address/0x3dd4e53a232B7B715c9ae455f4e732465eD71b4c)          | This contract is based on Compound's `GovernorBravoDelegator`. It contains the logic for creating, voting, and executing governance proposals.                                                                                                                                                                                                                                                                                                                                                                         |
-| [Metadata Renderer](https://basescan.org/address/0xdc9799d424EbFDCF5310f3bad3dDCcE3931d4b58) | This contract contains the logic to dynamically generate and display metadata for each Gnars NFT. This metadata includes essential information about the NFT, such as its name, description, attributes, and associated images.                                                                                                                                                                                                                                                                                        |
+### [Token](https://basescan.org/address/0x880Fb3Cf5c6Cc2d7DFC13a993E839a9411200C17)
+Address: `0x880Fb3Cf5c6Cc2d7DFC13a993E839a9411200C17`
+
+This is the Gnars [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) NFT contract. Each NFT represents membership in the DAO, and the number of NFTs owned is directly proportional to your voting power in governance proposals. The two main roles are `minter` and `owner`. The `minter` is set to the Auction House contract in the constructor, and the `owner` is assigned to the DAO after deployment.
+
+### [Auction House](https://basescan.org/address/0x494Eaa55ECF6310658B8fC004b0888DCB698097f)
+Address: `0x494Eaa55ECF6310658B8fC004b0888DCB698097f`
+
+This contract acts as a generation and distribution mechanism for new Gnars NFTs, minting as many as one Gnar every 80 minutes. Auction proceeds (ETH) are automatically deposited into the DAO's treasury. Each time an auction is manually settled, the settlement transaction will also cause a new auction to begin. While settlement is most heavily incentivized for the winning bidder, it can be triggered by anyone, allowing the auction to trustlessly run forever as long as there are interested bidders.
+
+### [Treasury](https://basescan.org/address/0x72aD986ebAc0246D2b3c565ab2a1ce3a14cE6f88)
+Address: `0x72aD986ebAc0246D2b3c565ab2a1ce3a14cE6f88`
+
+This contract is the treasury, or bank account, for the Gnars DAO. It holds the DAO's assets and disperses transactions based on the outcome of governance proposals.
+
+### [Governor](https://basescan.org/address/0x3dd4e53a232B7B715c9ae455f4e732465eD71b4c)
+Address: `0x3dd4e53a232B7B715c9ae455f4e732465eD71b4c`
+
+This contract is based on Compound's `GovernorBravoDelegator`. It contains the logic for creating, voting, and executing governance proposals.
+
+### [Metadata Renderer](https://basescan.org/address/0xdc9799d424EbFDCF5310f3bad3dDCcE3931d4b58)
+Address: `0xdc9799d424EbFDCF5310f3bad3dDCcE3931d4b58`
+
+This contract contains the logic to dynamically generate and display metadata for each Gnars NFT. This metadata includes essential information about the NFT, such as its name, description, attributes, and associated images.
 
 ## Terminology
 
@@ -56,3 +73,44 @@ The [Builder protocol](https://nouns.build/about) is a tool that was used to mig
 - The NFT artwork used at the time of the BASE launch is an off-chain Gnars HD collection by ilustradora.eth. This is because the legacy Layer 1 on-chain pixel art images were not compatible with the Builder protocol. Future plans are to swap out the current off-chain art with fully on-chain art.
 - Legacy mainnet Gnars have the same IDs as those migrated to BASE, however, the trait combinations are different. They will continue to function as both collectibles and voting tokens on mainnet, as the mainnet DAO will continue to exist immutably and indefinitely on the Ethereum blockchain.
 - Gnars NFTs with IDs 0 through 626 never existed on mainnet and are known as the Gnars OG collection. As such, they were never integrated with governance. As part of the BASE migration, however, they were minted and airdropped to the treasury. They will be used to raise additional revenue for the DAO via various marketing and promotional efforts.
+
+## Gnars Repositories
+
+- **Gnars Website (gnars.com)**: [gnars-dao/gnarsdotcom](https://github.com/gnars-dao/gnarsdotcom) — The main gnars.com frontend: auctions, governance UI, Gnar TV, Droposals
+- **Gnars Frontend (legacy)**: [gnars-dao/gnars-frontend](https://github.com/gnars-dao/gnars-frontend) — Legacy Ethereum-era frontend
+- **Gnars Docs**: [gnars-dao/gnars-docs](https://github.com/gnars-dao/gnars-docs) — This documentation site (Docusaurus)
+- **Settle.wtf**: [gnars-dao/settle-wtf](https://github.com/gnars-dao/settle-wtf) — Preview and pick the next Gnar before settling an auction
+- **Stoken**: [gnars-dao/stoken](https://github.com/gnars-dao/stoken) — Gnarly social media powered by blockchain and IPFS
+- **Gnars Bot**: [gnars-dao/gnarsbot](https://github.com/gnars-dao/gnarsbot) — Discord and Twitter notifications for auction state changes
+- **Gnars Artwork**: [gnars-dao/gnartwork](https://github.com/gnars-dao/gnartwork) — Gnars, Gnars OG, Gnars HD traits and other gnarly artwork
+- **Settle or Die**: [gnars-dao/settle-or-die](https://github.com/gnars-dao/settle-or-die) — Browser extension to track Gnars auctions
+
+## Underlying Technology & External Docs
+
+### Nouns Builder Protocol
+The smart contract framework that powers Gnars governance, auctions, and treasury on Base.
+- **Source code**: [BuilderOSS/nouns-builder](https://github.com/BuilderOSS/nouns-builder)
+- **App**: [nouns.build](https://nouns.build)
+- **Gnars on Builder**: [nouns.build/dao/base/0x880fb3cf5c6cc2d7dfc13a993e839a9411200c17](https://nouns.build/dao/base/0x880fb3cf5c6cc2d7dfc13a993e839a9411200c17)
+
+### Zora Protocol
+The onchain protocol used for creator coins, content minting, and the $GNARS token.
+- **Source code**: [ourzora/zora-protocol](https://github.com/ourzora/zora-protocol)
+- **Docs**: [docs.zora.co](https://docs.zora.co)
+- **Gnars on Zora**: [zora.co/@gnars](https://zora.co/@gnars)
+
+### Base Network
+Ethereum L2 chain (by Coinbase) where all Gnars contracts are deployed.
+- **Website**: [base.org](https://base.org)
+- **Block Explorer**: [basescan.org](https://basescan.org)
+- **Docs**: [docs.base.org](https://docs.base.org)
+
+### 0xSplits
+Split contracts used in Droposal payouts for revenue sharing between DAO and creators.
+- **Website**: [0xsplits.xyz](https://0xsplits.xyz)
+- **Docs**: [docs.splits.org](https://docs.splits.org)
+
+### Farcaster
+Decentralized social protocol used by the Gnars community for coordination and content sharing.
+- **Docs**: [docs.farcaster.xyz](https://docs.farcaster.xyz)
+- **Gnars Channel**: [farcaster.xyz/~/channel/gnars](https://farcaster.xyz/~/channel/gnars)

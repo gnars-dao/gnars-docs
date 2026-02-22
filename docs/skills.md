@@ -24,13 +24,11 @@ slug: skills
 
 ## Smart Contracts (Base Network)
 
-| Contract | Address |
-|---|---|
-| Token (ERC-721) | `0x880Fb3Cf5c6Cc2d7DFC13a993E839a9411200C17` |
-| Auction House | `0x494Eaa55ECF6310658B8fC004b0888DCB698097f` |
-| Treasury | `0x72aD986ebAc0246D2b3c565ab2a1ce3a14cE6f88` |
-| Governor | `0x3dd4e53a232B7B715c9ae455f4e732465eD71b4c` |
-| Metadata Renderer | `0xdc9799d424EbFDCF5310f3bad3dDCcE3931d4b58` |
+- **Token (ERC-721)**: `0x880Fb3Cf5c6Cc2d7DFC13a993E839a9411200C17`
+- **Auction House**: `0x494Eaa55ECF6310658B8fC004b0888DCB698097f`
+- **Treasury**: `0x72aD986ebAc0246D2b3c565ab2a1ce3a14cE6f88`
+- **Governor**: `0x3dd4e53a232B7B715c9ae455f4e732465eD71b4c`
+- **Metadata Renderer**: `0xdc9799d424EbFDCF5310f3bad3dDCcE3931d4b58`
 
 ## Revenue Streams
 
@@ -50,28 +48,45 @@ slug: skills
 
 ## Community Platforms
 
-| Platform | URL |
-|---|---|
-| Discord | https://discord.gg/FADaFpyBwN |
-| Farcaster Channel | https://farcaster.xyz/~/channel/gnars |
-| X (Twitter) | https://x.com/gnars_dao |
-| Instagram | https://instagram.com/gnarsdao |
-| Newsletter (Paragraph) | https://paragraph.xyz/@gnars |
-| Nounspace | https://nounspace.com/s/gnars |
-| YouTube | https://youtube.com/@gnars_dao |
+- **Discord**: https://discord.gg/FADaFpyBwN
+- **Farcaster Channel**: https://farcaster.xyz/~/channel/gnars
+- **X (Twitter)**: https://x.com/gnars_dao
+- **Instagram**: https://instagram.com/gnarsdao
+- **Newsletter (Paragraph)**: https://paragraph.xyz/@gnars
+- **Nounspace**: https://nounspace.com/s/gnars
+- **YouTube**: https://youtube.com/@gnars_dao
 
 ## Key Platforms & Tools
 
-| Tool | Purpose | URL |
-|---|---|---|
-| Gnars.com | Auctions & governance | https://gnars.com |
-| Gnar TV | Content coin feed | https://gnars.com (TV section) |
-| ThatsGnarly | Creator content minting | https://thatsgnarly.com |
-| Flows | Grant streaming | https://flows.wtf/gnars |
-| Skatehive | Web3 skateboarding portal | https://skatehive.app |
-| Stoken.wtf | Community rewards | https://stoken.wtf |
-| CoBuild | Social-investment via Farcaster | https://cobuild.app |
-| OpenSea | Secondary NFT market (Base) | https://opensea.io/collection/gnars-dao |
+- **Gnars.com** — Auctions & governance: https://gnars.com
+- **Gnar TV** — Content coin feed: https://gnars.com (TV section)
+- **ThatsGnarly** — Creator content minting: https://thatsgnarly.com
+- **Flows** — Grant streaming: https://flows.wtf/gnars
+- **Skatehive** — Web3 skateboarding portal: https://skatehive.app
+- **Stoken.wtf** — Community rewards: https://stoken.wtf
+- **CoBuild** — Social-investment via Farcaster: https://cobuild.app
+- **OpenSea** — Secondary NFT market (Base): https://opensea.io/collection/gnars-dao
+
+## Source Code & Repositories
+
+- **Gnars Website (gnars.com)**: https://github.com/gnars-dao/gnarsdotcom
+- **Gnars Frontend (legacy)**: https://github.com/gnars-dao/gnars-frontend
+- **Gnars Docs (this site)**: https://github.com/gnars-dao/gnars-docs
+- **Settle.wtf**: https://github.com/gnars-dao/settle-wtf
+- **Stoken**: https://github.com/gnars-dao/stoken
+- **Gnars Bot (Discord/Twitter)**: https://github.com/gnars-dao/gnarsbot
+- **Gnars Artwork & Traits**: https://github.com/gnars-dao/gnartwork
+
+## Underlying Technology
+
+- **Nouns Builder Protocol** (DAO framework): https://github.com/BuilderOSS/nouns-builder — Smart contracts powering Gnars governance, auctions, and treasury on Base
+- **Nouns Builder App**: https://nouns.build — The UI used to deploy and manage Nouns-style DAOs
+- **Zora Protocol** (creator coins & minting): https://github.com/ourzora/zora-protocol — Onchain protocol for creator coins, content minting, and $GNARS token
+- **Zora Docs**: https://docs.zora.co — Technical documentation for Zora's APIs, SDKs, and smart contracts
+- **Base Network**: https://base.org — Ethereum L2 chain where Gnars contracts are deployed
+- **BaseScan**: https://basescan.org — Block explorer for interacting with Gnars contracts directly
+- **0xSplits**: https://0xsplits.xyz — Split contracts used in Droposal payouts for revenue sharing
+- **Farcaster Protocol**: https://docs.farcaster.xyz — Decentralized social protocol used by Gnars community
 
 ## What Gnars DAO Does
 
